@@ -2,9 +2,24 @@
 
 ### Meeting Date/Time: 10 AM EST April 8th, 2021
 ### Meeting Duration: 1 hour
-### [GitHub Agenda Page]()
+### [GitHub Agenda Page](https://github.com/kekDAO/kekDAO-PM/issues/1)
 ### [Audio/Video of the meeting]()
 
 Moderator: Mark Ward
 
-Attendees: TBD
+Attendees: 
+Tim Kang
+Tyler Ward
+Troy Murray
+Ryant Shtirmer
+Pavlo Bendus
+Milad Mostavi
+Dragos Rizescu
+Stanislav Trenev
+Dima Dutka
+George Spasov
+Andon Mitev
+Illiya Andreev
+Zhivko Todorov
+Nick Ward 
+Algernon Holmes
