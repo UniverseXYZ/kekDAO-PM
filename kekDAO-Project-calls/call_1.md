@@ -12,7 +12,7 @@ Attendees:
 - Tim Kang
 - Tyler Ward
 - Troy Murray
-- Ryant Shtirmer
+- Ryan Shtirmer
 - Pavlo Bendus
 - Milad Mostavi
 - Dragos Rizescu
@@ -20,7 +20,7 @@ Attendees:
 - Dima Dutka
 - George Spasov
 - Andon Mitev
-- Illiya Andreev
+- Iliya Andreev
 - Zhivko Todorov
 - Nick Ward 
 - Algernon Holmes
