@@ -5,21 +5,22 @@
 ### [GitHub Agenda Page](https://github.com/kekDAO/kekDAO-PM/issues/1)
 ### [Audio/Video of the meeting]()
 
-Moderator: Mark Ward
+Moderator: 
+- Mark Ward
 
 Attendees: 
-Tim Kang
-Tyler Ward
-Troy Murray
-Ryant Shtirmer
-Pavlo Bendus
-Milad Mostavi
-Dragos Rizescu
-Stanislav Trenev
-Dima Dutka
-George Spasov
-Andon Mitev
-Illiya Andreev
-Zhivko Todorov
-Nick Ward 
-Algernon Holmes
+- Tim Kang
+- Tyler Ward
+- Troy Murray
+- Ryant Shtirmer
+- Pavlo Bendus
+- Milad Mostavi
+- Dragos Rizescu
+- Stanislav Trenev
+- Dima Dutka
+- George Spasov
+- Andon Mitev
+- Illiya Andreev
+- Zhivko Todorov
+- Nick Ward 
+- Algernon Holmes
