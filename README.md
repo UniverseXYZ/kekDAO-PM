@@ -10,4 +10,4 @@
 
  №  | Date                             | Notes          | Recording            |
 --- | -------------------------------- | -------------- | -------------------- |
- 0  | TBD       | [agenda]() \| [notes]()     | [video]() |
+ 0  | April 8, 2021 10 AM EST       | [agenda]() \| [notes]()     | [video]() |
