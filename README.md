@@ -10,4 +10,5 @@
 
  №  | Date                             | Notes          | Recording            |
 --- | -------------------------------- | -------------- | -------------------- |
- 0  | April 8, 2021 10 AM EST       | [agenda](https://github.com/kekDAO/kekDAO-PM/issues/1) \| [notes]()     | [video](https://www.youtube.com/watch?v=3K4-cWBGl7Y) |
+ 1  | April 8, 2021 10 AM EST       | [agenda](https://github.com/kekDAO/kekDAO-PM/issues/1) \| [notes]()     | [video](https://www.youtube.com/watch?v=3K4-cWBGl7Y) |
+ 2  | April 8, 2021 10 AM EST       | [agenda]() \| [notes]()     | [video]() |
