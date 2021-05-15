@@ -364,7 +364,7 @@ There you go, that's all you'll get to see.
 
 ### Project Links
 
-Website: [universe.xyz](universe.xyz)
-Twitter: [@kekDAO](https://twitter.com/kekdao)
-Discord: [Invite](https://discord.gg/QnkfAG6X52)
-Youtube: [Channel](https://www.youtube.com/channel/UCWt00md9T2b4iTsHWp_Fapw)
+- Website: [universe.xyz](universe.xyz)
+- Twitter: [@kekDAO](https://twitter.com/kekdao)
+- Discord: [Invite](https://discord.gg/QnkfAG6X52)
+- Youtube: [Channel](https://www.youtube.com/channel/UCWt00md9T2b4iTsHWp_Fapw)
