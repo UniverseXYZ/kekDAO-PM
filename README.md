@@ -1,7 +1,7 @@
 # **Universe Project Management**
 
 ## **Resourses**
-### [Whitepaper (Coming Soon)]() / [Website (Coming Soon)](https://universe.xyz/) / [Discord](https://discord.gg/nfu) / [YouTube](https://www.youtube.com/channel/UCWt00md9T2b4iTsHWp_Fapw)
+### [Whitepaper](https://github.com/UniverseXYZ/UniverseXYZ-Whitepaper) / [Website](https://universe.xyz/) / [Discord](https://discord.gg/nfu) / [YouTube](https://www.youtube.com/channel/UCWt00md9T2b4iTsHWp_Fapw) / [Medium](https://medium.com/universe-xyz)
 
 ## **Audits**
 ### xyzDAO Audits: [QuantStamp](https://github.com/UniverseXYZ/xyzDAO-PM/blob/master/audits/Quantstamp-DAO.pdf) | [Haechi](https://github.com/UniverseXYZ/xyzDAO-PM/blob/master/audits/HAECHI-DAO.pdf)
