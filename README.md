@@ -1,4 +1,4 @@
-# **Universe Project Management**
+# **Universe xyzDAO Project Management**
 
 ## **Resourses**
 ### [Whitepaper](https://github.com/UniverseXYZ/UniverseXYZ-Whitepaper) / [Website](https://universe.xyz/) / [Discord](https://discord.gg/nfu) / [YouTube](https://www.youtube.com/channel/UCWt00md9T2b4iTsHWp_Fapw) / [Medium](https://medium.com/universe-xyz)
