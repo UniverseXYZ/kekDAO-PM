@@ -14,4 +14,4 @@
  2  | April 22, 2021 10 AM EST       | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/2) \| [notes](https://github.com/UniverseXYZ/xyzDAO-PM/blob/master/Universe%20xyzDAO%20Project%20Calls/call_02.md)     | [video](https://www.youtube.com/watch?v=JAZOA0ibCVA) |
  3  | May 6, 2021 10 AM EST       | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/4) \| [notes](https://github.com/UniverseXYZ/xyzDAO-PM/blob/master/Universe%20xyzDAO%20Project%20Calls/call_03.md)     | [video](https://www.youtube.com/watch?v=pYz3H-tWTOE&t=1s) |
  4  | May 20, 2021 10 AM EST       | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/7) \| [notes]()     | [video](https://www.youtube.com/watch?v=_0YsbpMqF4E) |
- 5  | June 3, 2021 10 AM EST       | [agenda]() \| [notes]()     | [video]() |
+ 5  | June 8, 2021 10 AM EST       | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/11) \| [notes]()     | [video](https://www.youtube.com/watch?v=glRSBWgwQ34) |
