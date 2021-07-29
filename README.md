@@ -18,4 +18,4 @@
  6  | June 17, 2021 10 AM EST       | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/13) \| [notes](https://github.com/UniverseXYZ/xyzDAO-PM/pull/17/commits/88e22cf043e0cb44cd4de9fb486f7a7471ab95c1)     | [video](https://www.youtube.com/watch?v=IZG1eB5zevw) |
  7  | July 1, 2021 10 AM EST       | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/14) \| [notes](https://github.com/UniverseXYZ/xyzDAO-PM/pull/16/commits/d4884225555d62a41c891badc846397557440b9b)     | [video](https://www.youtube.com/watch?v=VVBaY-zbCec&t=254s) |
  8  | July 15, 2021 10 AM EST       | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/18) \| [notes](https://github.com/UniverseXYZ/xyzDAO-PM/pull/19/commits/0b4e7a745fdacd63b177fb803201bbab4584e13e)     | [video](https://www.youtube.com/watch?v=6NlsAzwf40M) |
-8  | July 29, 2021 10 AM EST       | [agenda]() \| [notes]()     | [video]() |
+ 9  | July 29, 2021 10 AM EST       | [agenda]() \| [notes]()     | [video]() |
