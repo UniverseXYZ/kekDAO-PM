@@ -22,3 +22,4 @@
  9  | July 29, 2021 10 AM EST       | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/20) \| [notes]()     | [video]() |
  10  | August 12, 2021 10 AM EST       | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/23) \| [notes]()     | [video](https://www.youtube.com/watch?v=H4Fjo08ReJM) |
  11  | August 26, 2021 10 AM EST       | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/24) \| [notes]()     | [video]() |
+ 12  | September 26, 2021 10 AM EST       | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/25) \| [notes]()     | [video]() |
