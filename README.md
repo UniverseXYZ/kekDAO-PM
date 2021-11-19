@@ -26,4 +26,9 @@
  13  | September 23, 2021 10 AM EST       | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/30) \| [notes]()     | [video](https://youtu.be/U1S6s3Lvdt8) |
  14  | October 7, 2021 10 AM EST       | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/31) \| [notes]()     | [video](https://www.youtube.com/watch?v=otSaW_UN1MA&t=35s) |
  15  | October 21, 2021 10 AM EST       | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/32) \| [notes]()     | [video](https://www.youtube.com/watch?v=BKVvObpaOV8) |
+ 15  | October 21, 2021 10 AM EST       | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/32) \| [notes]()     | [video](https://www.youtube.com/watch?v=BKVvObpaOV8) |
+ 15  | October 21, 2021 10 AM EST       | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/32) \| [notes]()     | [video](https://www.youtube.com/watch?v=BKVvObpaOV8) |
+ 16  | November , 2021 10 AM EST       | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/33) \| [notes]()     | [video]() |
+ 17  | November 18, 2021 10 AM EST       | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/34) \| [notes]()     | [video]() |
+
 
