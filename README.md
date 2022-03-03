@@ -20,9 +20,9 @@
  7  | July 1, 2021 10 AM EST        | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/14) \| [notes](https://github.com/UniverseXYZ/xyzDAO-PM/blob/master/Universe%20xyzDAO%20Project%20Calls/call_07.md)    | [video](https://youtu.be/VVBaY-zbCec) |
  8  | July 15, 2021 10 AM EST       | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/18) \| [notes](https://github.com/UniverseXYZ/xyzDAO-PM/blob/master/Universe%20xyzDAO%20Project%20Calls/call_08.md)    | [video](https://youtu.be/6NlsAzwf40M) |
  9  | July 29, 2021 10 AM EST       | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/20) \| [notes](https://github.com/UniverseXYZ/xyzDAO-PM/blob/master/Universe%20xyzDAO%20Project%20Calls/call_09.md)    | [video](https://youtu.be/e-WTjMysyHY) |
- 10 | August 12, 2021 10 AM EST    | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/23) \| [notes]()     | [video](https://youtu.be/H4Fjo08ReJM) |
- 11 | August 26, 2021 10 AM EST    | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/24) \| [notes]()     | [video](https://youtu.be/497EfHx4o7k) |
- 12 | September 8, 2021 10 AM EST  | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/25) \| [notes]()     | [video](https://youtu.be/N9XX4RF8N64) |
+ 10 | August 12, 2021 10 AM EST    | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/23) \| [notes](https://github.com/UniverseXYZ/xyzDAO-PM/blob/master/Universe%20xyzDAO%20Project%20Calls/call_10.md)     | [video](https://youtu.be/H4Fjo08ReJM) |
+ 11 | August 26, 2021 10 AM EST    | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/24) \| [notes](https://github.com/UniverseXYZ/xyzDAO-PM/blob/master/Universe%20xyzDAO%20Project%20Calls/call_11.md)     | [video](https://youtu.be/497EfHx4o7k) |
+ 12 | September 8, 2021 10 AM EST  | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/25) \| [notes](https://github.com/UniverseXYZ/xyzDAO-PM/blob/master/Universe%20xyzDAO%20Project%20Calls/call_12.md)     | [video](https://youtu.be/N9XX4RF8N64) |
  13 | September 23, 2021 10 AM EST | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/30) \| [notes]()     | [video](https://youtu.be/U1S6s3Lvdt8) |
  14 | October 7, 2021 10 AM EST    | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/31) \| [notes]()     | [video](https://youtu.be/otSaW_UN1MA) |
  15 | October 21, 2021 10 AM EST   | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/32) \| [notes]()     | [video](https://youtu.be/BKVvObpaOV8) |
