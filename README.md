@@ -1,7 +1,7 @@
 # **Universe xyzDAO Project Management**
 
 ## **Resources**
-### [Whitepaper](https://github.com/UniverseXYZ/UniverseXYZ-Whitepaper) / [Website](https://universe.xyz/) / [Discord](https://discord.gg/nfu) / [YouTube](https://www.youtube.com/channel/UCWt00md9T2b4iTsHWp_Fapw) / [Medium](https://medium.com/universe-xyz) / [Signal](https://signal.universe.xyz/#/) / [Forum](https://forum.universe.xyz/) / [Twitter](https://twitter.com/universe_xyz)
+### [Whitepaper](https://github.com/UniverseXYZ/UniverseXYZ-Whitepaper) / [Website](https://universe.xyz/) / [Discord](https://discord.gg/nfu) / [YouTube](https://www.youtube.com/channel/UCWt00md9T2b4iTsHWp_Fapw) / [Medium](https://medium.com/universe-xyz) / [Signal](https://signal.universe.xyz/#/) / [Forum](https://forum.universe.xyz/) / [Twitter](https://twitter.com/universe_xyz) / [Docs](https://docs.universe.xyz/) / [Knowledge Base](https://universe.freshdesk.com/support/solutions)
 
 
 ## **Audits**
@@ -23,7 +23,7 @@
  10 | August 12, 2021 10 AM EST    | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/23) \| [notes](https://github.com/UniverseXYZ/xyzDAO-PM/blob/master/Universe%20xyzDAO%20Project%20Calls/call_10.md)     | [video](https://youtu.be/H4Fjo08ReJM) |
  11 | August 26, 2021 10 AM EST    | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/24) \| [notes](https://github.com/UniverseXYZ/xyzDAO-PM/blob/master/Universe%20xyzDAO%20Project%20Calls/call_11.md)     | [video](https://youtu.be/497EfHx4o7k) |
  12 | September 8, 2021 10 AM EST  | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/25) \| [notes](https://github.com/UniverseXYZ/xyzDAO-PM/blob/master/Universe%20xyzDAO%20Project%20Calls/call_12.md)     | [video](https://youtu.be/N9XX4RF8N64) |
- 13 | September 23, 2021 10 AM EST | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/30) \| [notes]()     | [video](https://youtu.be/U1S6s3Lvdt8) |
+ 13 | September 23, 2021 10 AM EST | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/30) \| [notes](https://github.com/UniverseXYZ/xyzDAO-PM/blob/master/Universe%20xyzDAO%20Project%20Calls/call_13.md)     | [video](https://youtu.be/U1S6s3Lvdt8) |
  14 | October 7, 2021 10 AM EST    | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/31) \| [notes]()     | [video](https://youtu.be/otSaW_UN1MA) |
  15 | October 21, 2021 10 AM EST   | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/32) \| [notes]()     | [video](https://youtu.be/BKVvObpaOV8) |
  16 | November 4, 2021 10 AM EST   | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/33) \| [notes]()     | [video](https://youtu.be/8Hweakx2EEU) |
