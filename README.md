@@ -1,8 +1,11 @@
 # **Universe xyzDAO Project Management**
 
 ## **Resources**
-### [Whitepaper](https://github.com/UniverseXYZ/UniverseXYZ-Whitepaper) / [Website](https://universe.xyz/) / [Discord](https://discord.gg/nfu) / [YouTube](https://www.youtube.com/channel/UCWt00md9T2b4iTsHWp_Fapw) / [Medium](https://medium.com/universe-xyz) / [Signal](https://signal.universe.xyz/#/) / [Forum](https://forum.universe.xyz/) / [Twitter](https://twitter.com/universe_xyz) / [Docs](https://docs.universe.xyz/) / [Knowledge Base](https://universe.freshdesk.com/support/solutions)
+### Socials: [Discord](https://discord.gg/nfu) / [YouTube](https://www.youtube.com/channel/UCWt00md9T2b4iTsHWp_Fapw) / [Medium](https://medium.com/universe-xyz) / [Twitter](https://twitter.com/universe_xyz)
+ 
+### Information: [Whitepaper](https://github.com/UniverseXYZ/UniverseXYZ-Whitepaper) / [Website](https://universe.xyz/) / [Docs](https://docs.universe.xyz/) / [Knowledge Base](https://universe.freshdesk.com/support/solutions)
 
+### Governance: [xyzDAO Overview](https://dao.universe.xyz/governance/overview) / [Signal](https://signal.universe.xyz/#/) / [Forum](https://forum.universe.xyz/)
 
 ## **Audits**
 ### xyzDAO Audits: [QuantStamp](https://github.com/UniverseXYZ/xyzDAO-PM/blob/master/audits/Quantstamp-DAO.pdf) | [Haechi](https://github.com/UniverseXYZ/xyzDAO-PM/blob/master/audits/HAECHI-DAO.pdf)
@@ -31,9 +34,16 @@
  18 | December 1, 2021 10 AM EST   | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/35) \| [notes]()     | [video](https://youtu.be/z8NQYiieuvQ) |
  19 | December 15, 2021 9 AM EST   | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/36) \| [notes]()     | [video](https://youtu.be/m5CmlWfKdkw) |
  20 | January 13, 2021 9 AM EST    | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/37) \| [notes]()     | [video](https://youtu.be/yCuMugf6bFo) |
- 21 | January 26, 2022 9 AM EST    | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/38) \| [notes]()     | [video](https://youtu.be/JVhbjAvQxnM) |
- 22 | February 2, 2022 9 AM EST    | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/39) \| [notes]()     | [video](https://youtu.be/AujNpydtEX8) |
- 23 | February 9, 2022 3 PM EST    | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/40) \| [notes]()     | [video](https://youtu.be/GtuncSFIZEM) |
- 24 | February 16, 2022 3 PM EST   | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/41) \| [notes]()     | [video](https://youtu.be/XGCrJ8x_wYI) |
- 25 | February 23, 2022 3 PM EST   | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/42) \| [notes]()     | [video](https://youtu.be/hJde3E-fuB4) |
- 26 | March 2, 2022 3 PM EST       | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/43) \| [notes]()     | [video](https://youtu.be/MlmaMbrq2do) |
+
+<br>
+
+## Previous xyzDAO AMAs
+
+ №  | Date                             | Notes          | Recording            |
+--- | -------------------------------- | -------------- | -------------------- |
+ 1 | January 26, 2022 9 AM EST    | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/38) \| [notes]()     | [video](https://youtu.be/JVhbjAvQxnM) |
+ 2 | February 2, 2022 9 AM EST    | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/39) \| [notes]()     | [video](https://youtu.be/AujNpydtEX8) |
+ 3 | February 9, 2022 3 PM EST    | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/40) \| [notes]()     | [video](https://youtu.be/GtuncSFIZEM) |
+ 4 | February 16, 2022 3 PM EST   | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/41) \| [notes]()     | [video](https://youtu.be/XGCrJ8x_wYI) |
+ 5 | February 23, 2022 3 PM EST   | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/42) \| [notes]()     | [video](https://youtu.be/hJde3E-fuB4) |
+ 6 | March 2, 2022 3 PM EST       | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/43) \| [notes]()     | [video](https://youtu.be/MlmaMbrq2do) |
