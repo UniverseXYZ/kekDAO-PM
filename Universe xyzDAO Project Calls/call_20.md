@@ -302,5 +302,6 @@ By the time you even hear us talking about this, you're going to be like, Algy h
 #### Universe NFTs
 * PolyMorphs: [OpenSea](https://opensea.io/collection/polymorphs)
 * Lobby Lobsters: [OpenSea](https://opensea.io/collection/lobby-lobsters)
+* STAND WITH UKRAINE: [OpenSea](https://opensea.io/collection/standwithukrainedrop)
 * Core Drops: Coming Soon!
 
