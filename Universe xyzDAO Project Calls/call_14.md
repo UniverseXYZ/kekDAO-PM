@@ -46,7 +46,7 @@ Ryan, do you think you could also give us some updates on the marketplace and a 
 
 **Ryan:** Yes, 100%.
 
-## Marketplace  [[05:03]](https://youtu.be/otSaW_UN1MA?t=303)
+## Marketplace 🖼 [[05:03]](https://youtu.be/otSaW_UN1MA?t=303)
 
 **Ryan:** In terms of timelines, I can't give any hard dates. 
 
