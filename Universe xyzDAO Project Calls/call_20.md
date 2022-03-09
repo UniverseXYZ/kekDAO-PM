@@ -1,6 +1,6 @@
 # xyzDAO Project Call Notes– #020
 
-### Meeting Date/Time: 
+### Meeting Date/Time: Wednesday 2022/1/13 at 14:00 UTC
 
 ### Meeting Duration: 33:50 mins
 
