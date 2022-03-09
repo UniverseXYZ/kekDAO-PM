@@ -25,11 +25,11 @@ It is the Christmas season, so as you may know, things are getting a little craz
 We will be taking a break a little bit after Christmas and the New Year, because that's the holiday season. We have employees from all over the world, and the Christmas holiday days don't exactly line up with America. So, we'll all be kind of in and out around that time. But, we will still be heads down building just because we have deadlines approaching, and we want to get a lot of these products out by Q1, 2022. But we're excited about everything still. Christmas is coming up, so we have a little bit of a break. We want to reassure you that we're still hustling away at this and building as fast as possible because our main priority is getting out the marketplace, auctions and minting. I will go ahead and hand it over to Ryan for some minting and marketplace updates.
 
 
-## Minting & Marketplace [[]]()
+## Minting & Marketplace [[01:30]](https://youtu.be/m5CmlWfKdkw?t=90)
 
 **Ryan:** Yes, we're working on the minting and marketplace as we have been. It's going to be coming out at some point in Q1, 2021 or 2022. The exciting part is that we're working on some optimism contracts right now to start to roll out the products on both Ethereum main. Net and on optimism over time. And this is going to include all of the products like Minting, Marketplace and Auctions. But it will be rolled out over time, just like on the Ethereum mainnet. I can't dive into any of the features, but I can say that the minting flow that we pulled out is being reworked and is looking incredible. So I think we're all excited about that. I think I can hand it over to Iliya to talk a little bit about the auctions.
 
-## Auctions [[]]()
+## Auctions [[02:21]](https://youtu.be/m5CmlWfKdkw?t=141)
 
 **Iliya:** Thanks, Ryan. We have been working on the auctions for quite a while, and I'm almost anxious to see everything fit into place. We're talking about auctions on Ethereum mainnet, of course. Currently, we wrapping up the happy parts. What I mean by that; Those successful cases when you can do an auction, finalize it, claim your NFTs if you want, and so on. We'll be starting internal testing soon, we will provide updates on following calls.
 
@@ -39,7 +39,7 @@ I will be in touch with the OGS and get them beta testing access. They did a gre
 
 I want to give some updates, too, on yield farming opportunities. 
 
-## Yield Farming 🚜🌾 [[]]()
+## Yield Farming 🚜🌾 [[04:13]](https://youtu.be/m5CmlWfKdkw?t=253)
 
 I've been going over this on the project calls just so people are aware of what they can do with the XYZ token if they don't want to stake it in the [Universe DAO](https://dao.universe.xyz/governance/overview), which is what we recommend so that you can participate in governance if you're new to that.
 
@@ -52,7 +52,7 @@ This is an excellent way for NFT people to learn about governance and DeFi gover
 Not to mention all the fun games and things that we have been creating to go along with the Flufs and the Polymorphs. So, a lot to come. A ton is coming in January and February. We want to thank everyone for sticking with us and holding their Polymorphs, and waiting for us to get these games ready. I promise you will not be upset when you see all the stuff we release for Polymorphs. I'm going to go ahead and hand it over to Tyler. Tyler wants to give a yearly recap. This has been a pretty incredible year for us. We've learned a lot as a team as a community. I like to call this the year of NFTs. I'll let Tyler take it over and give us our yearly recap.
 
 
-## Yearly Recap — Year of NFTs: [Lord of the Ty's](https://twitter.com/LordTylerWard) 👨‍🏫🖼 [[]]()
+## Yearly Recap — Year of NFTs: [Lord of the Ty's](https://twitter.com/LordTylerWard) 👨‍🏫🖼 [[06:21]](https://youtu.be/m5CmlWfKdkw?t=381)
 
 **Tyler:** I would say that I've heard a couple of people, or at least on Twitter, talk about the time and speed to ship. 
 
