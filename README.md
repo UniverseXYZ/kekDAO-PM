@@ -47,3 +47,5 @@
  4 | February 16, 2022 3 PM EST   | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/41) \| [notes]()     | [video](https://youtu.be/XGCrJ8x_wYI) |
  5 | February 23, 2022 3 PM EST   | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/42) \| [notes]()     | [video](https://youtu.be/hJde3E-fuB4) |
  6 | March 2, 2022 3 PM EST       | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/43) \| [notes]()     | [video](https://youtu.be/MlmaMbrq2do) |
+ 7 | March 9, 2022 3 PM EST       | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/44) \| [notes]()     | [video](https://www.youtube.com/watch?v=1q0eM9tKe_o&t=14s) |
+ 8 | March 16, 2022 3 PM EST       | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/45) \| [notes]()     | [video](https://www.youtube.com/watch?v=WeVpd3zVAnY&t=39s) |
