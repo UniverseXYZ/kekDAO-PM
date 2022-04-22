@@ -555,7 +555,7 @@ Bye, everyone! 👋👋👋👋
 * Youtube: [Channel](https://www.youtube.com/channel/UCWt00md9T2b4iTsHWp_Fapw)
 
 #### Universe NFTs
-* PolyMorphs: [Universe](https://universe.xyz/collection/0x1cbb182322aee8ce9f4f1f98d7460173ee30af1f)
+* Polymorphs: [Universe](https://universe.xyz/collection/0x1cbb182322aee8ce9f4f1f98d7460173ee30af1f)
 * Lobby Lobsters: [Universe](https://universe.xyz/collection/0xc0cb81c1f89ab0873653f67eea42652f13cd8416)
 * STAND WITH UKRAINE: [OpenSea](https://opensea.io/collection/standwithukrainedrop)
 * Core Drops: Coming Soon!
