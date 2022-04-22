@@ -221,7 +221,7 @@ I'm pretty sure this one is being recorded. So, Tyler, you did cover the whole s
 
 I think RoboCop asked; You said that some of the things are not going to be decentralized. What are those? 
 
-#### **Answer:**
+### **Answer:**
 
 **Troy:** The idea of decentralization as a spectrum. The difference is that the back-end is not this fully decentralized system. It is a system that can be spun up and run anywhere, but those instances can be shut down. One of the things that we didn't cover on this call was that this came from Ryan or Chuba, as most of you guys probably know him. We describe it as a clearinghouse for the entire ecosystem of NFTs. So what that means is that these back-ends can then be a clearinghouse to a play-to-earn game, or it can be a clearinghouse for NFTs or any NFTs out there. Ryan then put it in a more granular spectre where it's a 3 pronged approach so I can get the tweet for it. But essentially what it means is:  
 
@@ -261,7 +261,7 @@ You walk up to someone; they have a skin for sale at the concert; you can buy it
 
 So Ox Robocop asked this question; and we're down this rabbit hole?
 
-#### **Answer:**
+### **Answer:**
 
 **Tyler:** Yes, most of you, Uniswap track. I primarily interact with Uniswap on one inch. Right. Most of Avi's transactions don't happen on Avi. A lot of them are happening through Zapper. A lot of them are just protocols plugging into them. The reason that Uniswap is so powerful and even Sushi has become so powerful is a lot of the integrations that they built.
 
@@ -279,7 +279,7 @@ All of the excitement that's happened around Universe when we launched is launch
 
 So Crypto Prowess just asked a question about; Buying XYZ off the market? 
 
-#### **Answer:**
+### **Answer:**
 
 **Troy:** We hold XYZ a bunch of it in the treasury. It's about 7%. Then there's the ETH on hand, which will grow as the Marketplace is running, so that will be up to the community to put in proposals around that. We've had talks about creating.
 
@@ -301,7 +301,7 @@ So I'll probably put in a proposal to do that. It's ultimately not up to me, but
 
 So to switch topics a little bit, Gunner does have some questions; One of the things is he's asking us is if, the Universe Marketplace is going to mirror some of the features that Gem Launched with?
 
-#### **Answer:**
+### **Answer:**
 
 **Troy:** So the first one is multiple buyers in a single transaction. I don't think we have that, to be honest.
 
