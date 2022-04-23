@@ -2,7 +2,7 @@
 
 ### Meeting Date/Time: Wednesday 2022/2/9 at 20:00 UTC
 
-### Meeting Duration: 90 mins
+### Meeting Duration: 83 mins
 
 ### [Github Agenda Page](https://github.com/UniverseXYZ/xyzDAO-PM/issues/40)
 
@@ -14,7 +14,7 @@ Moderator: Trevor
 
 Scribe: Tammy M.
 
-Attendees: Mark Ward, Tyler Ward, Tim Kang, Troy Murray, Ryan Shtirmer, Dragos Rizescu, Cezar Paraschiv, Pavlo Bendus, Dmytro Dutka, Ilia Andreev, Zhivko Todorov, Stanislav Trenev, Andon Mitev, Algernon (Young Algy), Nick Ward
+Attendees: Mark Ward, Tyler Ward, Troy Murray, Ryan Shtirmer, Algernon (Young Algy), Nick Ward, Rayne Leach , Zach Owens
 
 ## Intro
 
@@ -558,14 +558,14 @@ Because they don't even talk, they don't even say hey in the discord; they just 
 
 ### Project Links 🔗👇
 
-*Website: [universe.xyz](https://universe.xyz)
-*Project Info: [DOCS](https://docs.universe.xyz/)
-*Twitter: [@universe_xyz](https://twitter.com/universe_xyz)
-*Discord: [Invite](https://discord.gg/QnkfAG6X52)
-*Youtube: [Channel](https://www.youtube.com/channel/UCWt00md9T2b4iTsHWp_Fapw)
+* Website: [universe.xyz](https://universe.xyz)
+* Project Info: [DOCS](https://docs.universe.xyz/)
+* Twitter: [@universe_xyz](https://twitter.com/universe_xyz)
+* Discord: [Invite](https://discord.gg/QnkfAG6X52)
+* Youtube: [Channel](https://www.youtube.com/channel/UCWt00md9T2b4iTsHWp_Fapw)
 
 #### Universe NFTs
-*PolyMorphs: [Universe](https://universe.xyz/collection/0x1cbb182322aee8ce9f4f1f98d7460173ee30af1f)
-*Lobby Lobsters: [Universe](https://universe.xyz/collection/0xc0cb81c1f89ab0873653f67eea42652f13cd8416)
-*STAND WITH UKRAINE: [OpenSea](https://opensea.io/collection/standwithukrainedrop)
-*Core Drops: Coming Soon!
+* PolyMorphs: [Universe](https://universe.xyz/collection/0x1cbb182322aee8ce9f4f1f98d7460173ee30af1f)
+* Lobby Lobsters: [Universe](https://universe.xyz/collection/0xc0cb81c1f89ab0873653f67eea42652f13cd8416)
+* STAND WITH UKRAINE: [OpenSea](https://opensea.io/collection/standwithukrainedrop)
+* Core Drops: Coming Soon!
