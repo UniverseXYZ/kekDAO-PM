@@ -24,63 +24,88 @@ Attendees: Mark Ward, Tyler Ward, Troy Murray, Ryan Shtirmer, Algernon (Young Al
 
 **Ryan:** Awesome. Thank you, Nick. 
 
-## Proposals
+## Proposals [[]]()
 
 **Ryan:** So the first thing I wanted to talk about a little bit was the proposals that we'll be putting out soon. So we're going to start making a little bit of the snapshot to get some hot, cold tests and decisions that don't need to be on-chain, decisions that don't need to be finalized on-chain. 
 
 1. So one proposal you'll be seeing coming out shortly is going to be a proposal to put together an OpenSea migration tool so that users can migrate their existing OpenSea orders to the Universe Marketplace. This snapshot will start gauging how much the Universe community is willing to incentivize migration behaviour and whether we want to mint any tokens or come up with some strategy to incentivize that. 
-2. Another proposal which I'm excited about is the proposal to freeze the polymorph base characters. So what this means is if this proposal goes through when the V2 polymorphs launch, you'll be able to scramble and morph your polymorphs just like before. But any base character traits will not be scrambleable. So if you're scrambling a Ragnarok, for example, you'll still have a Ragnarok just with new traits or a clown; you scramble it, you still have a clown, but with new traits.
+2. Another proposal which I'm excited about is the proposal to freeze the polymorph base characters. So what this means is if this proposal goes through when the V2 polymorphs launch, you'll be able to scramble and morph your polymorphs just like before. But any base character traits will not be scrambleable. 
+
+   - So if you're scrambling a Ragnarok, for example, you'll still have a Ragnarok just with new traits or a clown; you scramble it, you still have a clown, but with new traits.
 
 So this kind of gives the polymorphs a little bit of a fixed rarity on some dimension, but across the accessory dimension, the rarity is kind of not immutable. It will continue to be dynamic and morph. 
 
-## Minting Auctions & Marketplace Updates
+## Minting, Auctions & Marketplace Updates [[02:14]](https://youtu.be/GtuncSFIZEM?t=134) 🖼 🧑‍⚖️
 
-**Ryan:** We can jump in a little bit into the Minting Auctions and Marketplace Updates. As I mentioned, we're architecting the user incentives models, and again, that's going to be with strong feedback from the community. We're going to need you guys not to guide us but more feed on how important you all believe this incentivization is and how much we want to allocate towards that kind of stuff. Another thing we've been very focused on is improving the APIs for use with aggregators. We believe this is very important to get our listings prioritized across the aggregator markets and compete in this new dimension. That other marketplaces have not yet really started competing over. So we hope to be kind of a leader on that front. And as kind of mentioned before, we're working on some final little updates in the Auctions Contracts. So those are hopefully going to be coming out in the next 2 weeks.
+**Ryan:** We can jump in a little bit into the Minting, Auctions and Marketplace Updates. 
+
+As I mentioned, we're architecting the user incentives models, and again, that's going to be with strong feedback from the community. We're going to need you guys not to guide us but more feed on how important you all believe this incentivization is and how much we want to allocate towards that kind of stuff. Another thing we've been very focused on is improving the APIs for use with aggregators. We believe this is very important to get our listings prioritized across the aggregator markets and compete in this new dimension. That other marketplaces have not yet really started competing over. So we hope to be kind of a leader on that front. And as kind of mentioned before, we're working on some final little updates in the Auctions Contracts. So those are hopefully going to be coming out in the next 2 weeks.
 
 And the marketplace is on track for around 4 to 5 weeks out. 
 
-## Yield Farming
+## Yield Farming [[03:07]](https://youtu.be/GtuncSFIZEM?t=188) 🧑‍🌾 🌾
 
 **Ryan:** As Mark likes to usually tell you guys about the Yield Farming opportunities, I pulled out a couple that we have. 
 
-1. The first one and the one that we're really excited to share is the DAO governance. When you stake in the DAO and receive your XYZ, you earn some rewards for participating in the governance process. So that's always a lot of fun. Additionally, you can single-sided stake your XYZ for League DAO for about 3 more weeks, and the Enter DAO has ended. 
-2. There's an ASTO pool coming soon, but I don't have the start date for that pool. So if anyone is interested in that, you can tag Mark for more information there. 
+1. The first one and the one that we're really excited to share is the DAO governance. When you stake in the DAO and receive your XYZ, you earn some rewards for participating in the governance process. So that's always a lot of fun. 
 
-That covers the major updates we have going to have for the beginning of the call, so we can mostly jump into any questions that anyone wants answered. Then in a little bit, we'll be doing some fun activities.
+2. Additionally, you can single-sided stake your XYZ for League DAO for about 3 more weeks, and the Enter DAO has ended. 
 
-**Algy:** What's up, Trevor? I think that Mark is travelling right now. So right now, what did you say?
+3. There's an ASTO pool coming soon, but I don't have the start date for that pool. So if anyone is interested in that, you can tag Mark for more information there. 
 
-**Ryan:** Yeah, marks out so we can get some questions flowing, and we'll be able to start answering those.
+That covers the major updates we have going to have for the beginning of the call, so we can mostly jump into any questions that anyone wants answered. 
 
-**Algy:** Okay, nice. So let's look at that channel because there's a question where they type in Pre AMA Channel.
+Then in a little bit, we'll be doing some fun activities.
 
-**Ryan:** Pre AMA Channel.
+**Algy:** What's up, Chuba? I think that Mark is travelling right now.
 
-## Polymorphs
+**Ryan:** Yeah, Mark's out so we can get some questions flowing, and we'll be able to start answering those.
 
-**Algy:** Here. Let's scroll up and see if we have some new ones. We talked in here a bunch, so we didn't get many questions. If you have any questions, drop the Pre AMA Channel. We've been working a lot on these 3D polymorphs for you guys. I know that people have asked me questions about what's going on with the polymorphs. For some reason, everybody wants to ask me if the polymorphs are related. Look at him just did it before I even said I couldn't answer that because I don't know. And I don't know if the polymorphs will be related to Goblin Town. But regardless, that's going to be super cool, whatever it is, because it seems like the people who are working on it are people I know that are awesome builders. But what I was about to say about the polymorphs that I can talk about is we've been playing around with the 3Ds and getting them ready for Metaverse and this second phase of making them more gamed out and more fun to play. When that's all released, it's going to be exciting because we just have some cool stuff in the pipeline, like alternative art pieces that we'll be able to play around with and the 3D specifically.
+**Algy:** Okay, nice. 
 
-We fine-tune those every day. We were looking at them on a call in-depth today, just picking out little ways we could improve the art and stuff. As soon as the marketplace is out, we have a lot of really cool NFT stuff in the pipeline for everybody to have fun with. I want to bet my rent in ETH on a universal algae duel. Honestly, there's that battle game I can talk about a little bit because I know that some of you maybe weren't here when we first introduced it. We have this battle game coming soon that is going not to be fully attached to the rarity because the rarity on our site, the community, asked us to make it based on matching traits, so the best polymorphs will be the ones that are matching. They don't necessarily have to be ready for this battle game we're creating. The first game that we have started on is this battle game where depending on how to set up your character is, he'll be better at fighting. So that doesn't necessarily mean more armour and weapons are better, but for the most part, it is.
+So let's look at that channel because there's a question where they type in Pre AMA Channel.
 
-For that game, it still will be very random-based. The advantages are very slight, but it'll make it more fun as far as giving you something to go for to get better at that game. But that doesn't mean that you should make your polymorph like, set up for this game and make all your polymorphs battle-ready. Because we want to make a lot of different types of games that are good for all the trades, if that makes sense, maybe the soccer outfit will be better for you at another game we release down the line if that makes sense.
+**Ryan:** Yeah, the Pre AMA Channel.
 
-**Ryan:** Yes, I think Algy. You're highlighting a bit of the different dimensions of the polymorphs; even though they have a rarity based on the matching traits, games like the duals will have their kind of metrics and attributes for what actually will impact gameplay. It's not going to look exactly like that rarity score. So there will ultimately be a different dynamic for the game and then for other potentially different things we put out there.
+## Polymorphs [[04:37]](https://youtu.be/GtuncSFIZEM?t=277)
 
-**Algy:** When we first released the polymorphs, something that made me obsessed with them because I bought like 60 polymorphs. When I didn't have that much ETH, that was a lot for me to be buying that many, I spent all my money on them, and it was because what I liked about them was when I got into NFTs, the Crypto Punks were kind of already expensive. They were like 10 to 15 ETH and just a little out of my range. I couldn't buy one of those. But many projects were still figuring out what the market was going to be. Then as one started to release with this rarity thing, it just seems so obvious to us why can none of these change and adjust? It was cool how when the polymorphs came out, they challenged the market dynamic and got people thinking about, well, I should be able to make this NFT look how I want it to look. Because most projects, the rarity is chosen for you and told what you should be going for.
+**Algy:** Here. Let's scroll up and see if we have some new ones. We talked in here a bunch, so we didn't get many questions. If you have any questions, drop the Pre AMA Channel. 
 
-You don't get to decide. I want to have this character that looks like how I want it to look, and it can still be rare. I feel like the polymorphs were the first project that allowed you to have a character that looks how you want and it can still be rare is what I was bullish on when I was aping the polymorphs, and I still am. And that it would be cool eventually to add more rarity-driven traits and maybe different dynamics on new traits if that's possible. It would also be cool to fork the polymorph and make other projects based on similar and how League DAO is doing with their Crypto Fantasy Drop. It will eventually be scrambling where you can have this fantasy team where you're competing against other holders. Next year you're going to be able to change your team though this year, you couldn't do that. That's just cool that the polymorphs were introduced. I've even heard Aaron say that his projects that change, The Party Bears and The FLUFs, are a little bit base that happened because we released a polymorph, and it just got everyone thinking. Eventually, in the Metaverse, when you play Call of Duty or Fortnite or even FIFA or any game, you want to customize your team, and you've always been able to do that even early on in matting and like you would create a player.
+We've been working a lot on these 3D polymorphs for you guys. I know that people have asked me questions about what's going on with the Polymorphs. For some reason, everybody wants to ask me if the Polymorphs are related. Look at this person just did it before I even said I couldn't answer that because I don't know.
+
+I don't know if the Polymorphs will be related to Goblin Town. But regardless, that's going to be super cool, whatever it is, because it seems like the people who are working on it are people I know that are awesome builders. 
+
+What I was about to say about the Polymorphs that I can talk about is we've been playing around with the 3Ds and getting them ready for Metaverse and this second phase of making them more gamed out and more fun to play. When that's all released, it's going to be exciting because we just have some cool stuff in the pipeline, like alternative art pieces that we'll be able to play around with.
+
+The 3D specifically, we fine-tune those every day. We were looking at them on a call in-depth today, just picking out little ways we could improve the art and stuff. As soon as the marketplace is out, we have a lot of really cool NFT stuff in the pipeline for everybody to have fun with. I want to bet my rent in ETH on a Universe Algy duel. 
+
+Honestly, there's that battle game I can talk about a little bit because I know that some of you maybe weren't here when we first introduced it. We have this battle game coming soon that is going not to be fully attached to the rarity because the rarity on our site, the community, asked us to make it based on matching traits, so the best Polymorphs will be the ones that are matching. They don't necessarily have to be ready for this battle game we're creating. The first game that we have started on is this battle game where depending on how to set up your character is, he'll be better at fighting. So that doesn't necessarily mean more armour and weapons are better, but for the most part, it is.
+
+For that game, it still will be very random-based. The advantages are very slight, but it'll make it more fun as far as giving you something to go for to get better at that game. But that doesn't mean that you should make your Polymorph like, set up for this game and make all your Polymorphs battle-ready. Because we want to make a lot of different types of games that are good for all the trades, if that makes sense, maybe the soccer outfit will be better for you at another game we release down the line if that makes sense.
+
+**Ryan:** Yes, I think Algy. You're highlighting a bit of the different dimensions of the Polymorphs; even though they have a rarity based on the matching traits, games like the duals will have their kind of metrics and attributes for what actually will impact gameplay. It's not going to look exactly like that rarity score. So there will ultimately be a different dynamic for the game and then for other potentially different things we put out there.
+
+**Algy:** When we first released the Polymorphs, something that made me obsessed with them because I bought like 60 polymorphs. When I didn't have that much ETH, that was a lot for me to be buying that many, I spent all my money on them, and it was because what I liked about them was when I got into NFTs, the Crypto Punks were kind of already expensive. They were like 10 to 15 ETH and just a little out of my range. I couldn't buy one of those. 
+
+But many projects were still figuring out what the market was going to be. Then as one started to release with this rarity thing, it just seems so obvious to us why can none of these change and adjust? It was cool how when the Polymorphs came out, they challenged the market dynamic and got people thinking about, well, I should be able to make this NFT look how I want it to look. Because most projects, the rarity is chosen for you and told what you should be going for.
+
+You don't get to decide. I want to have this character that looks like how I want it to look, and it can still be rare. I feel like the Polymorphs were the first project that allowed you to have a character that looks how you want and it can still be rare is what I was bullish on when I was aping the polymorphs, and I still am. And that it would be cool eventually to add more rarity-driven traits and maybe different dynamics on new traits if that's possible. 
+
+It would also be cool to fork the Polymorph and make other projects based on something similar— like how League DAO is doing it with their Crypto Fantasy Drop. It will eventually be scrambling where you can have this fantasy team where you're competing against other holders. Next year you're going to be able to change your team though this year, you couldn't do that. That's just cool that the polymorphs were introduced. I've even heard [Aaron](https://twitter.com/aaronmcdnz) say that his projects that change, The Party Bears and The FLUFs, are based a bit on the Polymorphs, it got everyone thinking. 
+
+Eventually, in the Metaverse, when you play Call of Duty or Fortnite or even FIFA or any game, you want to customize your team, and you've always been able to do that even early on in Madden and like you would create a player.
 
 And I think that this customizability is super important in NFTs because it's something that we've always done gaming, and it's not something that we want to stop doing. So making your NFT project change, in my opinion, is a very progressive way to build an NFT out, and it might not be the current market, but it's without question that it's going to be what people want when they're able to play games. Because right now, there is not realistic. Right now, the reality is we are just trading in NFTs. There are no games yet, but when the games exist, we're going to want to be able to go in the game and alter our experience, if that makes sense.
 
-**Ryan:** Yeah, I 100% agree. So many people are leaking pictures of different Charles in the chat and all the different polymorphs variations. It's just cool to see how a year ago these things came out, and now there's this whole community around them and all this incredible aesthetic, a little scary art, that we all enjoy and identify with to some degree or another. I know this most recent clown that Mark posted is when I've been using it in many of my tweets because it greatly encaptures everything I want to say.
+**Ryan:** Yeah, I 100% agree. So many people are leaking pictures of different Charles in the chat and all the different Polymorphs variations. It's just cool to see how a year ago these things came out, and now there's this whole community around them and all this incredible aesthetic, a little scary art, that we all enjoy and identify with to some degree or another. I know this most recent clown that Mark posted is when I've been using it in many of my tweets because it greatly encaptures everything I want to say.
 
-**Zach:** Yeah. I don't know why. Every time I go into the blender with the 3 Charles, it ends up scary.
+**Zach:** Yeah. I don't know why. Every time I go into the blender with the 3D Charles, it ends up scary.
 
-## Pre AMA Questions ?
+## Pre AMA Questions ❓
 
 ### **Question:**
 
-What is the timeline for the airdrop proposal if we planning to launch in a month fully? 
+What is the timeline for the airdrop proposal if we are planning to launch in a month fully? 
 
 #### **Answer:**
 
@@ -92,19 +117,21 @@ What is the timeline for the airdrop proposal if we planning to launch in a mont
 
 **Algy:** Okay.
 
-But I was saying that projects got to think more about how they can game out their NFTs because there are many ways to make it fun for the community. And as Trevor said, I shouldn't leak anything. But yeah, there's so much fun stuff in the pipeline. I'm not sharing it. You guys almost got me. I heard Chuba, though. I listen. Suppose he doesn't want me to say it, then yeah. As I said, there's much cool stuff we have in the pipeline that is just going to be so fun for the Polymorph. They're already just fun to look at, so it makes sense. There's another thing I just want to talk about, but I probably shouldn't. But just know that there'll be a lot of fun stuff for you to watch and do and enjoy in the future with the polymorph. I guess I can't talk about we want to do some fun stuff on social media, too, with bringing the polymorphs to life. I can say that that will be cool when we start doing that.
+But I was saying that projects got to think more about how they can game out their NFTs because there are many ways to make it fun for the community. And as Chuba said, I shouldn't leak anything. 
+
+But yeah, there's so much fun stuff in the pipeline. I'm not sharing it. You guys almost got me. I heard Chuba, though. I listen. Suppose he doesn't want me to say it, then yeah. As I said, there's much more cool stuff we have in the pipeline that is just going to be so fun for the Polymorph. They're already just fun to look at, so it makes sense. There's another thing I just want to talk about, but I probably shouldn't. But just know that there'll be a lot of fun stuff for you to watch and do and enjoy in the future with the polymorph. I guess I can't talk about we want to do some fun stuff on social media, too, with bringing the polymorphs to life. I can say that that will be cool when we start doing that.
 
 Look at when Universe goes live. We want to get off the BrokenSea. I use BrokenSea or OpenSea every day, and I don't think it's broken. I feel that they weren't expecting such a huge number of people to use NFTs as soon and as suddenly as they did. There's going to be room for everybody. I don't think that we must be trying to get rid of OpenSea. It's more a community-building type of vibes. OpenSea can exist too and learn from us the same way we can learn from them. I want Transmental to talk about what he's talking about.
 
-## Auction Mechanics
+## Auction Mechanics [[16:03]](https://youtu.be/GtuncSFIZEM?t=963) 🧑‍⚖️
 
 **Ryan:** The Auction Mechanics.
 
 **Zach:** Yes. I don't know how much I can say, but I played at the Auction a lot, and I think it's something new for NFT space that hasn't been seen before.
 
-**Ryan:** We can probably say that I know you've used it a lot, so that you can confirm that. You probably can't come up with all the different ways you could use it. Right?
+**Ryan:** We can probably say that I know you've used it a lot, so that you can confirm. You probably can't come up with all the different ways you could use it. Right?
 
-**Zach:** Right. There are many layers.
+**Zach:** Right. There are many layers. 🧅
 
 **Trevor:** You can configure it in so many different ways. You can choose to do these crazy multi NFT drops. You can stick limit it to just one or two. You can go for many different things. Whatever works within a set of rules there are in there that I don't think any of us can predict exactly how it will be used. So there are some different use cases we predict with this kind of tiered auction model, some of them being just collectors trying to find price discovery for their art. Others could be auctioning off these crazy art blocks collections, a collection of rare FLUFs, or else you may be interested in bundling and weird things. But then there are individual NFTs taking a shirtless Clown Charles and seeing what that can go for. Like one NFT, all different kinds of basic ways of creating an auction. And so it's very flexible.
 
@@ -112,9 +139,11 @@ Look at when Universe goes live. We want to get off the BrokenSea. I use BrokenS
 
 **Ryan:** Yeah. I'd love to auction off 100 P5.JS things I've been toying with, but the arc probably will never be good enough for me to be. I'm ready to drop it. Yeah. One day. Interactive P5 stuff is so much fun. But I don't think we have any alpha we can leak on that front. On the Universe side, not today, at least.
 
-**Tyler:** What's up, everybody? I'm just kidding. You don't have to catch me up. I'm just saying. What's up?
+**Tyler:** What's up, everybody? What did I miss? I'm just kidding. You don't have to catch me up. 
 
-**Algy:** Great to have you, Tyler.
+I'm just saying. What's up? 👋
+
+**Algy:** Great to have you, Tyler. 🤝
 
 **Nick:** What about Tyler?
 
@@ -122,19 +151,31 @@ Look at when Universe goes live. We want to get off the BrokenSea. I use BrokenS
 
 **Ryan:** All good. We went through some of the Community Updates that we had, and then we're going back to the community a little bit in the Pre AMA Channel.
 
-**Algy:** Universe just dropped this tweet from the Riyuki NFT, and it talks about how they're saying that we're a partnership with Universe. So basically, what's going on here is our friend Endgame from the community releasing an NFT project that he wanted to donate half the money to Universe. It wasn't to have us help him build it necessarily just for us to say this exists. Do you know what I mean? This project exists, and he wanted it to be one of the first projects released on our Minting and Marketplace Platform. So we just thought that was cool—all power to anybody who wants to support the DAO. Of course, we don't expect this. That's cool that Endgame decided that was something you wanted to do, this project.
+**Algy:** Universe just dropped this tweet from the [Riyuki NFT](https://twitter.com/Riyuki_nft), and it talks about how they're saying that we're a partnership with Universe. 
+
+So basically, what's going on here is our friend [Endgame](https://twitter.com/endygamie) from the community releasing an NFT project and he wanted to donate half the money to Universe. It wasn't to have us help him build it necessarily just for us to say this exists. Endgame wanted it to be one of the first projects released on our Minting and Marketplace Platform. So we just thought that was cool—all power to anybody who wants to support the DAO. 
+
+Of course, we don't expect this. That's cool that Endgame decided that was something you wanted to do— this project. 
 
 **Tyler:** I wanted to clarify, by the way, that this is the Endgame, who was supportive of our project from the very beginning. He's a very involved community member that came over from Barnbridge. So a big part of this is especially for the super active community members. We ultimately want to support and empower people who have followed and stuck with us, and we're extremely helpful initially.
 
-**Algy:** Yeah, exactly. That drop. I don't know exactly. I've been talking to him about it, and it seems like it'll be cool. The art is amazing, and it seems different. I know it's in its early stages. I'm in this little channel where there's an activity every day, and they have a pretty severe team working on it. So we'll see how it turns out. You'll hear more about it, though, when our Marketplace drops because that's where they want it to sell and trade. That's just cool to me that Endgame is working on that and believes in us because I think it's a cool project. It is WFi, so I hope no one gets offended by it. It's more about just the concept that that person was an early contributor who is just trying to give back. A lot of Universe, me as well, when I first started helping with Universe, I was offering to help for free. And it's just because it's helped change my life. Even if that sounds corny, I want to get back in any way I can, if that makes sense. So I can relate to it.
+**Algy:** Yeah, exactly. That drop. I don't know exactly. I've been talking to him about it, and it seems like it'll be cool. The art is amazing, and it seems different. I know it's in its early stages. I'm in this little channel where there's an activity every day, and they have a pretty severe team working on it. So we'll see how it turns out. You'll hear more about it, though, when our Marketplace drops because that's where they want it to sell and trade. 
 
-**Tyler:** I'm also working on a custom drop for the polymorph. I have not told anyone that I've self-funded up to this point. I'm going to give 100% of the proceeds to the DAO. Hopefully, the DAO and community will allow me to vote that out to myself to compensate an army of 3D modellers and gaming people I've been recruiting for the past 2 months. To build a Metaverse for the polymorphs. And we'll call it redacted because I'm not going to tell anybody what the name is. I haven't brought it to the Universe team other than a few members because I don't want anyone distracted while working on the marketplace. But I will say that it's dope AF, and that's what I want to do with the capital from the drop. So I think it's in everybody's best interest because I want us to have a cool-ass Metaverse. But that is super alpha. And yeah, ultimately, the DAO can decide if they will allow me to use those funds to compensate this army of people that I've been recruiting.
+That's just cool to me that Endgame is working on that and believes in us because I think it's a cool project. It is Waifu, so I hope no one gets offended by it. It's more about just the concept that that person was an early contributor who is just trying to give back. A lot of Universe, me as well, when I first started helping with Universe, I was offering to help for free. And it's just because it's helped change my life. Even if that sounds corny, I want to get back in any way I can, if that makes sense. So I can relate to it.
+
+**Tyler:** I'm also working on a custom drop for the Polymorph. 
+
+I have not told anyone that I've self-funded up to this point. I'm going to give 100% of the proceeds to the DAO. Hopefully, the DAO and community will allow me to vote that out to myself to compensate an army of 3D modellers and gaming people I've been recruiting for the past 2 months. To build a Metaverse for the Polymorphs. And we'll call it redacted because I'm not going to tell anybody what the name is. 
+
+I haven't brought it to the Universe team other than a few members because I don't want anyone distracted while working on the marketplace. But I will say that it's dope AF, and that's what I want to do with the capital from the drop. So I think it's in everybody's best interest because I want us to have a cool-ass Metaverse. But that is super alpha. And yeah, ultimately, the DAO can decide if they will allow me to use those funds to compensate this army of people that I've been recruiting.
 
 **Algy:** Yeah. I have no idea what Tyler is talking about, but I get what he just said. Yeah, exactly. So he's not making that up. He's been working on something. He's been busy.
 
-**Tyler:** But I gave that to FLUF World because it was too close, and I wanted to look and feel more like a polymorph type thing. So, yeah, the Polymorphs will be a part of this Metaverse. If all of this is successful long-term, I'll probably want to build Lobby Lobsters into it, but no promises. It's not going to be cheap what I'm trying to build.
+**Tyler:** I gave Goblin Town to FLUF World because it was too close to something they're working on, and I want it to look and feel more like a Polymorph type thing. 
 
-**Ryan:** Yeah. I don't know all the details or any of them, but I know I'm voting yes, so that's going to be fun.
+So, yeah, the Polymorphs will be a part of this Metaverse. If all of this is successful long-term, I'll probably want to build Lobby Lobsters into it, but no promises. It's not going to be cheap— what I'm trying to build.
+
+**Ryan:** Yeah. I don't know all the details or any of that, but I know I'm voting yes, so that's going to be fun.
 
 **Algy:** Wait, so what did Troy show us? He made a whole channel to show us something during the AMA. I want to know.
 
@@ -142,31 +183,14 @@ Look at when Universe goes live. We want to get off the BrokenSea. I use BrokenS
 
 **Nick:** Yeah, we can hear you.
 
-**Troy:** So there's this group that we're working with down here in Puerto Rico, but they have this really big idea for NFTs and everything. One of the things I did want to bring up on this call is that we are a global community, they're looking for NFT creators around the globe, and we will be having a PR release from them pretty soon that breaks this down. But I wanted to create a channel so that anyone in here if you are an NFT artist somewhere around the world, should contact these people. They have right now a mint going on for one of their drops. It isn't like an official Universe thing or anything, but it plays into the ETHos of what we've been trying to build. And so they have really large plans, and it starts with NFT drops and artists and stuff like that. So I just wanted to bring some attention to it. There will be like I said, a PR release soon. We talked with them yesterday, and I'm pretty excited about it.
+**Troy:** So there's this group that we're working with down here in Puerto Rico, but they have this really big idea for NFTs and everything. One of the things I did want to bring up on this call is that we are a global community, they're looking for NFT creators around the globe, and we will be having a PR release from them pretty soon that breaks this down. But I wanted to create a channel so that anyone in here if you are an NFT artist somewhere around the world, should contact these people. They have right now a mint going on for one of their drops. It isn't like an official Universe thing or anything, but it plays into the ethos of what we've been trying to build. 
+
+And so they have really large plans, and it starts with NFT drops and artists and stuff like that. So I just wanted to bring some attention to it. There will be like I said, a PR release soon. We talked with them yesterday, and I'm pretty excited about it.
 
 If you're anywhere on the globe, they want to have different places around the globe all working on this. So, I have to leave it because I don't have all the details of what they're writing up the release, but I wanted to just kind of flag it so everyone knew that this thing was coming, and it's a cool idea.
 
-**Algy:** The Underground Man just told me that the Endgame is she, not he. And I didn't know. Either way, it doesn't matter. But that means that the Endgame has done a really good job staying at Anon when talking to me because I can't tell now that I don't think it matters, to be honest.
 
-**Tyler:** Yeah, sorry for assuming Endgame.
-
-**Algy:** Yeah, I didn't mean to assume any genders, but I'll start calling you, sir.
-
-**Tyler:** They could have told us a long time ago when Raheela joined the BarnBridge. Well, we called her Sir Raheela too. Well, in games, is she Chad? So we're here for it. We want more sheet Chads in the industry.
-
-**Algy:** Universe, Bobo said, I hope it's not Beanie.
-
-**Tyler:** I think it's Beanie. I've had a lot of DM conversations with Beanie, and they have a very different way of structuring sentences.
-
-**Ryan:** Yeah, very distinct style.
-
-**Algy:** That is hilarious.
-
-**Tyler:** Okay, if Beanie's just completely left the industry or.
-
-**Algy:** He's already the new account you follow; he just changed his name, you already follow him, and you didn't even know it. Again, Beanie. I was just kidding. Now that's what he was doing. It's creating a bunch of fake accounts. And
-
-**Tyler:** When Beanie left, did that one like art chick leave too?
+**Tyler:** When Beanie left, did that art chick leave too?
 
 **Algy:** I don't follow that person, but probably no; I think that person doxed herself, and it's a girl.
 
@@ -176,9 +200,11 @@ If you're anywhere on the globe, they want to have different places around the g
 
 **Tyler:** Beanie was hella entertaining; I'll give them that much. I mean, I don't want to get involved. I'm sure there are two sides to every story, but that was pretty damning.
 
-**Algy:** I can't lie. Hit him with the unfollow. But we followed each other until I figured until that leaked, I was like, but I did. I have to hit him with the unfollow. I am not going to lie. But as far as more Universe Updates, Tyler, I think that you got to have more alpha that you can link us on. I don't think anyone has talked about the status or explained how the auctions will work. In general, or the status of when those are coming, that is the thing. Everything's coming soon. Like no specific date, probably.
+**Algy:** I can't lie. Hit him with the unfollow. But we followed each other until I figured out about what leaked. 
 
-**Tyler:** So we won't know the timeline for the auctions until probably Friday because the scraper will be affected by it, and it's going to depend on how complete the scraper is. From an API perspective, ultimately, the marketplace right now is probably, in the short term, more important than auctions. And if we have to put all hands on deck, and instead of delaying the marketplace, we should delay the auctions because 2 separate teams are working on them. But we won't know based on what Ryan got back. We have a good feeling that we won't have to delay anything or change anything. So the reason that we have not released the launch date for the auctions is that we need to make sure that the auctions don't delay the marketplace. So it's contingent on incomplete information, and we'll know more by Friday. As far as the dope features of the Auctions, I think that Transmental is the most extremely excited about auctions. So I would rather.
+But as far as more Universe Updates, Tyler, I think that you got to have more alpha that you can link us on. I don't think anyone has talked about the status or explained how the auctions will work. In general, or the status of when those are coming, that is the thing. Everything's coming soon. Like no specific date.
+
+**Tyler:** So we won't know the timeline for the auctions until probably Friday because the scraper will be affected by it, and it's going to depend on how complete the scraper is. From an API perspective, the marketplace right now is probably, in the short term, more important than auctions. And if we have to put all hands on deck, and instead of delaying the marketplace, we should delay the auctions because 2 separate teams are working on them. But we won't know based on what Ryan got back. We have a good feeling that we won't have to delay anything or change anything. So the reason that we have not released the launch date for the auctions is that we need to make sure that the auctions don't delay the marketplace. So it's contingent on incomplete information, and we'll know more by Friday. As far as the dope features of the Auctions, I think that Transmental is the most extremely excited about auctions. So I would rather.
 
 **Nick:** He had already went over some things, but he didn't know what he could or couldn't say. I mainly like talking about content features, but I think we can tell.
 
@@ -208,13 +234,15 @@ If you're anywhere on the globe, they want to have different places around the g
 
 **Algy:** Yeah, because you can get more than 1 NFT, you can break it down for a pretty long time. The way the auctions are set up. We have it set up to where it's pretty simplified to where it will make sense more visually when you're looking at it, but all of our minting tools, we've thought out a lot. And right now, the one that exists is pretty basic, and we know that, but that's the only one we can offer until our marketplaces out. Otherwise, the other new ones won't function to their full functionality. So we have a lot of really cool stuff lined up, and a lot of it's coming together because it has to. So it'll be a lot when we start releasing stuff. There'll be many options for artists and functionality. The auctions, in my opinion, are going to be game-changing for a new, fun way to buy NFTs.
 
-**Zach:** With the auctions, one of the cool features and being able to design your own Custom Auction Landing Page. They look really beautiful, so you'll have a landing page like Universe.XYZ/auctions, whatever you want to name it, you can customize that, and it looks really good. So it's not just an auction on Universe.XYZ. It's like your own custom landing page, whether you're a collector or an artist.
+**Zach:** With the auctions, one of the cool features and being able to design your own Custom Auction Landing Page. They look really beautiful, so you'll have a landing page like Universe.XYZ/auctions, whatever you want to name it, you can customize that, and it looks great. 
+
+So it's not just an auction on Universe.XYZ. It's like your own custom landing page, whether you're a collector or an artist.
 
 **Algy:** That's how all the contracts are designed, unlike Minting Features that companies have available right now, which is not all of them. I think there are some ways to comment as close to decentralized NFTs, but Universe NFTs are designed to be as decentralized as possible. So you own them. And I'm not saying that you don't own your NFTs, but you own them in every aspect, let's say they're under your control, as much as they can be to that NFT contracts limits.
 
 **Nick:** You're the god of your NFT.
 
-**Algy:** Yeah, exactly. I'm not going to sit here and bash others. But the one I will point out, just because it is a fact and people should be aware when you buy an NFT off OpenSeas Shared Contracts, look at the NFT. It's not necessarily a bad thing, but it is a thing. It's on the Pixel Of The Apes. That's a project I love. So it's not like I'm saying this is a bad or good thing, but I'm pretty sure they legally have to do this. If you look at the NFT on their website, in the details, it says metadata. Centralized is the description of their metadata, and it shows this on any OpenSea NFT; I think the only reason I could think of why they have that on there is for legal reasons. If it was a Universe NFT, I'm almost certain it would say just decentralized.
+**Algy:** Yeah, exactly. I'm not going to sit here and bash others. But the one I will point out, just because it is a fact and people should be aware when you buy an NFT off OpenSeas Shared Contracts, look at the NFT. It's not necessarily a bad thing, but it is a thing. It's on the Pixel Of The Apes. That's a project I love. So it's not like I'm saying this is a bad or good thing, but I'm pretty sure they legally have to do this. If you look at the NFT on their website, in the details, it says metadata. Centralized is the description of their metadata, and it shows this on any OpenSea NFT; I think the only reason I could think of why they have that on there is for legal reasons. If it was a Universe NFT, I'm almost certain it would say decentralized.
 
 **Zach:** Yeah, I'm pretty sure it won't say anything at all. It'll say chain ETH.
 
@@ -226,7 +254,7 @@ If you're anywhere on the globe, they want to have different places around the g
 
 **Zach:** All right, should we drop this POAP code?
 
-**Algy:** Yeah, we can drop the POAP code once right now. The code if you go into. But I do want to address what Troy's like messaging in this Pre AMA channel. HOWEVER, the POAP code is no, let's say, the POAP code. We can say it again after.
+**Algy:** Yeah, we can drop the POAP code once right now. The code if you go into POAP claim channel. But I do want to address what Troy's like messaging in this Pre AMA channel. We can say it again after.
 
 **Zach:** Go to the POAP setup channel and DM the POAP bot **charles69**. All lower case.
 
@@ -234,43 +262,39 @@ If you're anywhere on the globe, they want to have different places around the g
 
 **Nick:** Can we put the code inside the POAP bot? No claim?
 
-**Algy:** Nothing.
-
-**Ryan:** For the code.
-
 **Algy:** You got to listen for the code.
 
-**Ryan:** Oh, is that the way, that's how we're setting up? All right, My bad.
+**Troy:** Oh, is that the way, that's how we're setting up? All right, My bad.
 
 **Algy:** And then you DM the POAP bot.
 
-**Zach:** Yeah. Don't send it. You can't type it anyway.
+**Zach:** Yeah. Don't send it.
 
-**Algy:** Can we tag the POAP bot? I'm going to tag the POAP bot. If you have your DMS turned off, you got to turn them on for a second. You hit the drop-down on your privacy settings, and you can turn on messages for a second.
+**Algy:** If you have your DMS turned off, you got to turn them on for a second. You hit the drop-down on your privacy settings, and you can turn on messages for a second.
 
 **Zach:** I'm pretty sure it'll work.
 
 **Algy:** Make sure you DM in the POAP bot.
 
-**Ryan:** Yeah, you got to DM the POAP bot.
-
 **Algy:** **charles69** all lower case, I'll say it one more time. Since we confused everyone, what was Troy asking about? He's on some big brain stuff.
 
 There you go. I was going to read what you were saying. Is anyone interested in the transcoding pool with XYZ integration alpha?
 
-**Troy:** Yeah. Earlier in the week, last AMA, I said that there will be things that the private company we set up will be doing to kind of build utility into XYZ. And one of the things that we are doing that we can talk about now is that we've already started a working group with a live peer. So as you guys probably might know, there will be this streaming application that's being built that will connect to Minting Features inside of Universe in the marketplace. But that's cool. But we haven't broken down how that's going to work yet. But it's coming. The thing that's cool about this is that the streaming is going to work because it uses the transcoding network of live Peer. But we're in a working group now where anyone who has a GPU will be able to add transcoding power to this orchestrator. Essentially that will run this streaming application. But where it gets cool is that that will mine XYZ for you. And Trevor is on this call. This was originally his idea of how we could integrate XYZ closer into this whole streaming application, so we could pass it over to him if he wanted to break it down.
+## XYZ + Graviton [[42:03]](https://youtu.be/GtuncSFIZEM?t=2523)
+
+**Troy:** Yeah. Earlier in the week, last AMA, I said that there will be things that the private company we set up will be doing to kind of build utility into XYZ. And one of the things that we are doing that we can talk about now is that we've already started a working group with a live peer. 
+
+So as you guys probably might know, there will be this streaming application that's being built that will connect to Minting Features inside of Universe in the marketplace. We haven't broken down how that's going to work yet. But it's coming. The thing that's cool about this is that the streaming is going to work via the Live Peer network. We're in a working group now where anyone who has a GPU will be able to add transcoding power to this orchestrator— which runs this streaming application. It will mine XYZ for you. And Trevor is on this call. This was originally his idea of how we could integrate XYZ closer into this whole streaming application, so we could pass it over to him if he wanted to break it down.
 
 But the promise that we would do that is being fulfilled. And I just wanted to the point that out. That's a couple of things coming specifically to the token that we're working on.
 
-**Tyler:** Nobody knows what Troy said because he's too much of a gig of the brain.
+**Tyler:** Nobody knows what Troy said because he's too much of a giga brain.
 
-**Troy:** Yeah. Did I confuse everyone? It's all right. There's going to be documentation. There'll be docs.
-
-I forgot the docs.
+**Troy:** Yeah. Did I confuse everyone? If so, that's all right. There's going to be documentation. There'll be docs.
 
 **Zach:** Yeah, there's going to be docs. There you go.
 
-**Tyler:** Who said that? Tim. Oh, that was Zach that was Transmental. Sometimes I'm on calls and just don't want to DOX, like, people's.
+**Tyler:** Who said that? Tim. Oh, that was Zach that was Transmental. Sometimes I'm on calls and just don't want to doxx people.
 
 **Troy:** Yeah, I know.
 
@@ -278,41 +302,33 @@ I forgot the docs.
 
 **Troy:** Yeah.
 
-**Tyler:** Oh, yeah. You are doxed, that's. Okay, I'm doxed. My full government name is Tyler Ward.
+**Tyler:** Oh, yeah. You are doxed, that's. Okay, I'm doxxed. My full government name is Tyler Ward.
 
-**Ryan:** I think everyone at Universe is doxed.
+**Ryan:** I think everyone at Universe is doxxed.
 
 **Troy:** Yeah, pretty much for the most part. There might be a couple that no one knows.
 
-**Algy:** No, I'm not a non.
+**Algy:** No, I'm not anon.
 
-**Tyler:** We all know who you are Ally.
+**Tyler:** We all know who you are Aly.
 
-**Algy:** Chuba wishes he was anon.
+**Algy:** Chuba wishes he was anon. 🥷
 
-**Ryan:** Yeah, I have respect for anon devs.
+**Ryan:** Yeah, I have respect for anon devs. 
 
 **Algy:** No, I do too. It makes sense why people want to have privacy. Don't be a non and go on social media and tell everybody what to buy.
 
-**Ryan:** Yeah, I mean, not a big fan of non-influencers doing shady things on Twitter and chain.
+**Ryan:** Yeah, I mean, not a big fan of influencers doing shady things on Twitter.
 
-## Shoutout:
-
-**Nick:** Hey, shout out to my Lobby Lobsters, Zach, Chad, and Universe. That's all I got to say.
+**Community Member:** Hey, shout out to my Lobby Lobsters, Zach, Chad, and Universe. That's all I got to say.
 
 **Algy:** Let's go.
 
-## Shoutout:
+**Community Member:** Listen, I just love my lobsters. It looks like some of the photographs I take, and that's it. I'm just OD Bullish on The Lobsters and what they stand for. And shout out Universe, shout out Zach and Chad.
 
-**Nick:** Who said that?
+**Tyler:** I can't promise this on the Lobsters, but it's just a side project with this Metaverse that I'm trying to build. It's a side project. We just need to figure out how hard it would be to 3D model those in it. But I like the Lobsters.
 
-Hey man.
-
-Listen, I just love my lobsters. It looks like some of the photographs I take, and that's it. I'm just OD Bullish on The Lobsters and what they stand for. And shout out Universe, shout out Zach and Chad OD Bullish.
-
-**Tyler:** I can't promise this on the Lobsters, but it's just a side project with this Metaverse that I'm trying to build. We just need to figure out how hard it would be to 3D model those in it. But I like the Lobsters.
-
-**Ryan:** Like the Lobsters. We're going underwater.
+**Troy:** Like the Lobsters. We're going underwater. 🦞🌊
 
 **Nick:** Underwater area and maybe even some James Bond-style shark tanks. I don't know if you have all seen that episode or movie of James Bond where they got the Sharks are Piranhas; they throw someone in it. We should put one of those in like a spaceship or something some DOXtor knows.
 
@@ -320,7 +336,7 @@ Listen, I just love my lobsters. It looks like some of the photographs I take, a
 
 **Troy:** All lower case.
 
-**Tyler:** Also, while we're on this Ben Franklin on here, I had a call with him on Sunday, and he asked some pretty good questions about our generalized go-to-market, and I want to just. Everyone contributed to that post and on the forum. Honestly, that was one of the more dope things I've seen on my attached projects. I think that was one of the most engaging. That was like WFi level engagement or Olympus level engagement for a forum post in terms of this community's ideas and gigabrains. I've been talking a lot with Ryan, Tim, Troy even before that, and we had a call with it like JPEG, XYZ. It's like the old Yam kids. They talked about XYZ; they saw it most closely aligned with Zora, a centralized company that uses many of our talking points to build an open protocol. Ultimately a centralized company just is never going to build as open protocol as what we're doing the protocol.
+**Tyler:** Also, while we're on this Ben Franklin on here, I had a call with him on Sunday, and he asked some pretty good questions about our generalized go-to-market, and I want to just touch on that. Everyone contributed to that post and on the forum. Honestly, that was one of the more dope things I've seen on my attached projects. I think that was one of the most engaging. That was like YFI level engagement or Olympus level engagement for a forum post in terms of this community's ideas and gigabrains. I've been talking a lot with Ryan, Tim, Troy even before that, and we had a call with it like JPEG, XYZ. It's like the old Yam kids. They talked about XYZ; they saw it most closely aligned with Zora, a centralized company that uses many of our talking points to build an open protocol. Ultimately a centralized company just is never going to build as open protocol as what we're doing the protocol.
 
 **Troy:** That's such a cool idea.
 
@@ -428,7 +444,7 @@ That would have generated the protocol more money, and it just created problems 
 
 **Ryan:** The other interesting part of this is the royalty side that the royalties can be used in a way where you can create custom curated front-ends, hook them into the Universe Marketplace, take a fee for powering this curated front-end. Then this goes to that network effect or as a referral system almost, but with different Marketplaces that have their own niches potentially powered by Universe.
 
-**Tyler:** All right, this is some serious alfa right here.
+**Tyler:** All right, this is some serious alpha right here.
 
 **Ryan:** But that would require integration, partners, and people building out curated marketplaces. Of course.
 
@@ -436,43 +452,18 @@ That would have generated the protocol more money, and it just created problems 
 
 **Ryan:** They can all hook in. They can put up their fee, whatever they want to charge on their funds, and the DAO gets their 1.5% or whatever DAO fee ends up being voted on.
 
-**Algy:** **charles69**. All lower case.
 
-**Ryan:** I hope to set up the channel. Click the little profile picture. Send them a DM. Give them the code.
-
-**Troy:** Charles Hi guys.
-
-**Tyler:** We have to start giving everybody the wrong one for the f**ers that just tune into the end for the code. So we should just start saying it's 69charles all lower case.
-
-**Ryan:** Glenn69
-
-**Tyler:** But everyone knows the real
-
-**Troy:** You need the 69.
-
-**Algy:** That is so funny. He already had a typed. Why did you both think of that?
-
-**Ryan:** 69. Charles, all lower case.
-
-Chuba 69, I'm not a polymorph.
-
-**Algy:** Turn your DMs back off after you send it.
-
-**Nick:** You're going to be redacted. We'll have to name one Chuba.
-
-**Algy:** Don't trust the person in your DMs telling you you will get free bitcoin.
-
-**Ryan:** My friends endearingly called the Polymorphs Punks, and I always feel good when they say that. Maybe a year ago, not at first, but now they're always texting me about the Chuba Punks. And I'm like, I love you guys.
+**Ryan:** My friends endearingly called the Polymorphs, Chuba Punks, and I always feel good when they say that. Maybe a year ago, not at first, but now they're always texting me about the Chuba Punks. And I'm like, I love you guys.
 
 **Algy:** You didn't get one.
 
 **Tyler:** What are Cuba Punks?
 
-**Ryan:** No, I'm saying my friends call the polymorphs Chuba Punks.
+**Ryan:** No, I'm saying my friends call the Polymorphs— Chuba Punks.
 
 **Algy:** That is what they are.
 
-**Ryan:** I don't know about that, but it's in India.
+**Ryan:** I don't know about that...
 
 **Tyler:** Punks are like trademarked for NFT; they can't do that, can they?
 
@@ -486,9 +477,9 @@ Chuba 69, I'm not a polymorph.
 
 **Tyler:** I don't know, but I think we can name it a Chuba Punk.
 
-**Algy:** Polymorph. Let's name it a Polymorph. This is how we came up with the name polymor. So you're about to name it a Chuba Punk.
+**Algy:** Polymorph. Let's name it a Polymorph. This is how we came up with the name Polymoprh. So you're about to name it a Chuba Punk.
 
-**Ryan:** They really should. George Punks, but that's okay.
+**Ryan:** They really should be— George Punks, but that's okay.
 
 **Algy:** George Punks. Yeah. You guys don't even get to talk to George. Well, next time, we'll make George speak on the AMA.
 
