@@ -38,7 +38,7 @@ Everyone loves that. I'm seeing offers for 20 ETH or some crazy stuff. 👀
 
 Check out the AMA when you don't have to worry about this anymore.
 
-## Project Update; Universe ≈ Uniswap [[]]() 🌌 ≈ 🦄
+## Project Update; Universe ≈ Uniswap [[00:59]](https://youtu.be/JVhbjAvQxnM?t=59) 🌌 ≈ 🦄
 
 **Tyler:** That's what I was talking to Ryan about so that everybody is on the same page because we will launch it in a beta and alpha version. I'm trying to get the timelines of when they come out and when the actual marketplace comes out, especially for the people who weren't on the last one. When we came out with Universe, we had a wide range of ideas and things that we wanted to work on, ranging from extremely ambitious to attainable. I think that everyone should know that when we set out to build Universe. NFT volumes were $10 million a month, then we were rightfully ahead of the market. 
 
@@ -94,7 +94,7 @@ That's probably the part that I'm most excited about. I almost laugh to myself w
 
 I do think that there is a massive demand for a truly decentralized service. I don't think people would care about fly-by-night chances of going at it— If there wasn't a legitimate need in the market. And I also think that one of the things that have boded well in our favour was that we had many different things that we wanted to work on. All we ever saw on our Twitter was decentralize OpenSea, decentralize OpenSea, and some of that essentially expanded. Not because it went down all the time, but actually due to other things, and they lost some of the NFT community's trust.
 
-### The Interface; DCMA [[]]() ✉️
+### The Interface; DCMA [[13:51]](https://youtu.be/JVhbjAvQxnM?t=831) ✉️
 
 **Tyler:** One thing I do want everyone to know is that— I've read a lot of comments — when I've been tagged regarding "When is Universe coming." It's based around DCMAs.
 
@@ -122,7 +122,7 @@ So we're talking about the aggregation of liquidity as opposed to this is going 
 
 That's one of the most important things is understanding the timelines and when everything is going to come out. When we do originally Launch, it's going to be a testing period. One of the things I think we should do is look at those protocols that vampire attacked OpenSea. We could probably vampire attack those during that testing period, take out the whales, see who's actively interested in those platforms, and ask them to come test with us and essentially compensate them.
 
-## Minting Contacts & Auctions [[]]() 🧰
+## Minting Contacts & Auctions [[19:37]](https://youtu.be/JVhbjAvQxnM?t=1177) 🧰
 
 **Tyler:** Then we'll have time to adjust and change things about the front-end until we roll out the enterprise back-end. Doing a soft launch doesn't mean that this thing is not going to work. It doesn't mean that you're not going to be able to trade NFTs, list NFTs do all the same things. But, we won't be truly decoupled until we release the other end. But I don't think we need that in order to start. I know that the Marketplace is what everybody is most excited about, but the same thing is happening with minting, which we could launch early next week. Minting is also kind of a beta vs an alpha. 
 
@@ -146,7 +146,7 @@ So there will be a graceful period where hopefully, I'll give us a little bit of
 
 That's all the main.
 
-## Decentralized Systems [[]]() 🌐
+## Decentralized Systems [[27:27]](https://youtu.be/JVhbjAvQxnM?t=1647) 🌐
 
 **Troy:** And in the right direction. There's a ton of other work going on past this that's going on. That's even the next step. But we got to get this stuff out for everyone so you can understand what this is, just like how Uniswap had to get their stuff out for people to understand a Decentralized Exchange. Then you had people building stuff on top of LP pools and how they used it. It's going to be the same thing. But the first iteration of it. It's going to be pretty straightforward what it is. Then where it gets exciting is how people use the decentralized systems. Then, we can even add how we can also be brought to the greater ecosystem. The work is not stopping, we have steps past this, and we all are very excited.
 
@@ -168,7 +168,7 @@ By the way, everybody has the option to chime in. You can set up your push to ta
 
 That makes sense from my perspective as a long-term community member. 🦾
 
-## Utilizing AMAs [[]]() 🙋
+## Utilizing AMAs [[13:19]](https://youtu.be/JVhbjAvQxnM?t=1819) 🙋
 
 **Tyler:** So, I was on an Enter DAO community call earlier. Troy and I have talked about both through Barnbridge and Universe are; I've started to do a lot more AMAs. We have these like every 2 weeks recorded calls. There are things that we're doing across many projects. If you think of Universe as a mesh network that ultimately likes Polymorph, Bond, FLUF World and ASM. 
 
@@ -182,7 +182,7 @@ I'm not trying to drop alpha there. I'm just saying none of us were lazy along t
 
 Even Zeus from [Olympus](https://www.olympusdao.finance/) told me that a lot of the reasons they went with the DAO first was because he used to hang out in the Barnbridge servers. But building those systems also takes time, and we could have spent all the time perfecting the DAO or perfecting the product. So I will say what's happening in the Slack Channels and this concept of core team we tried to hire from within the community and the more active people. But ultimately, where I think DAOs driving protocols and community-driven DAOs driving protocols to go is in 5 years if we're successful. I believe that we have started to blur the line between what community is, what core team is, who makes what decisions, even down to Troy, and I have talked about who deserves an email of something.
 
-## Design Tool by Universe; Soon [[]]() ⏳ 
+## Design Tool by Universe; Soon [[33:55]](https://youtu.be/JVhbjAvQxnM?t=2005) ⏳ 
 
 **Tyler:** So some of these features are more theoretical at this point, but we are going to start moving a lot more of the communications to Discord. The reason for that is even starting down with working on a project. That is going to be a Chrome browser extension— I don't know if any of you have used Muzli. It's essentially a design tool that designers often use every time they open a new tab in Chrome. It sparks design inspiration because it's a curated list of designs essentially. 
 
@@ -192,17 +192,19 @@ And that's something we're all going to have to work together on. The governance
 
 I wasn't hanging out in the discord anymore because everybody was asking about marketplace, and I mean, we're building it; it's not easy. Right now that it's closer, it's time to talk to everyone because we have the stuff to act on, and we're launching a protocol. There's something to govern now. Up to this point, there hasn't been. I'm not answering all the questions head-on because I want to get through some of the things we went through in the last AMA. It wasn't recorded, so everyone can know some of why that AMA got a lot of excitement within the community. One of the things in particular to polymorph, and before I get to polymorphs, I'll bring up Lobby Lobsters. 
 
-## Lobby Lobsters [[]]() 🦞
+## Lobby Lobsters [[36:36]](https://youtu.be/JVhbjAvQxnM?t=2196) 🦞
 
 **Tyler:**  I want to build into Lobby Lobsters long-term because I like them. But that's not like a project for which we essentially have a road map. We gave all that money away, and we were very transparent about it. They're built on the same tech stack as the Polymorph so that we can build things in the long term.
 
 They can't be a priority over the marketplace right now in the same way that Polymorphs could not. People weren't asking about polymorphs; they were asking about the Universe Marketplace. You guys can look on the DAO. We haven't moved the money. We didn't put it anywhere else. But, we have not stopped working on them. We had to put the Dev resources on these other three products that we have to get out there. 
 
-However, we do have a ton in that same 6 months. We didn't stop doing stuff for them. We have like extensive 3D models for them. We've built them so they can be bridged to Crypto Voxels. We've done additional art projects and drops that will get attached to them, a utility that will work around them. We all talked about the battle game; we didn't forget. We still built it and audited it. The battle game isn't as important as the marketplace. That's the main way Universe is going to make money until we all work together as a DAO to figure it out long term. Something has to sustain all this. I would say that we did not forget about the Polymorphs.
+However, we do have a ton in that same 6 months. We didn't stop doing stuff for them. We have like extensive 3D models for them. We've built them so they can be bridged to Crypto Voxels. We've done additional art projects and drops that will get attached to them, a utility that will work around them. We all talked about the battle game; we didn't forget. We still built it and audited it. The battle game isn't as important as the marketplace. That's the main way Universe is going to make money until we all work together as a DAO to figure it out long term. Something has to sustain all this. 
 
 ## Polymorph's [[]]() 🤡
 
-**Tyler:** We did not stop working on them. We just prioritized not launching all of this stuff. And I didn't think it was going to take 6 months for us to get all this done. So we just kept building stuff in the meantime. So, anybody that thought we forgot about them— enjoy what is about to get dropped. 
+**Tyler:** I would say that we did not forget about the Polymorphs. 🧪🧑‍🔬
+
+We did not stop working on them. We just prioritized not launching all of this stuff. And I didn't think it was going to take 6 months for us to get all this done. So we just kept building stuff in the meantime. So, anybody that thought we forgot about them— enjoy what is about to get dropped. 
 
 We've also done other drops that are away from the Polymorphs that are like full Universes of characters. Kind of what we originally started with when I made my profile picture. That Darryl Ape. We have comics. We've hired copywriters to write entire comic lines of stories. I stopped talking about this because people like Beanie; I would talk about something on a Twitter space, and suddenly he had some other version of it somewhere else. 
 
@@ -214,7 +216,7 @@ I know it's a soapbox, and I said my AMA and everyone could jump on, but I want 
 
 I'm pretty sure this one is being recorded. So, Tyler, you did cover the whole scope of it all? I don't know. 
 
-## Community Questions [[]]()❓
+## Community Questions [[40:17]](https://youtu.be/JVhbjAvQxnM?t=2417)❓
 
 **Tyler:** I will hit some questions then. 
 
@@ -387,9 +389,9 @@ We're not launching a clone of OpenSea; it is the easiest way to put it. We've p
 
 **Troy:** I thought he was talking about Gems.
 
-**Nick:** Yeah, he's talking about other marketplace, not ours.
+**Mark:** Yeah, he's talking about other marketplace, not ours.
 
-## Integrations; Gem, Genie & Other Protocols [[]]() ⚙️
+## Integrations; Gem, Genie & Other Protocols [[1:08:10]](https://youtu.be/JVhbjAvQxnM?t=4090) ⚙️
  
 **Algy:** That isn't a marketplace. That is an aggregator. So Gem and Genie will be 2 protocols that we integrate— probably —and they allow people to easily buy NFTs through Universe using certain functions that maybe we haven't built yet. 
 
@@ -435,7 +437,7 @@ Honestly, I am trying to get off because I don't know when burrows are minting, 
 
 I'm a Degen too.
 
-## Universe XYZ Merch [[]]() 🌌 👕
+## Universe XYZ Merch [[1:14:17]](https://youtu.be/JVhbjAvQxnM?t=4457) 🌌 👕
 
 ### Shoutout: Jyn from [Degen Supply](https://www.degen.supply/pages/universexyz) 
 
@@ -445,7 +447,7 @@ I'm a Degen too.
 
 That's our merch partner. He has been with us since Barnbridge. So, if anyone's in Europe or Australia, we did have issues last time getting some stuff delivered because of Covid. But our workaround is that we have EU and Australian merchandise companies out there that are going to support us and help us get stuff shipped out faster. It's all the same gear, but it's getting sourced closer to home on some of you guys. Last year during Covid, we had some problems with some of the mail, but we think this will solve it quickly. Some of our more international people can get their gear faster than they did last time. So everyone, if you bought that gear, you know it's like high quality. I talked about this. All my gear I got from them is still awesome, like black hoodies that didn't fade. They're super comfortable. So they're very quality.
 
-**Tyler:** Whoever that guy's got to make this stuff will make it. But Marks, right. Also, where they're going with this. The Barnbridge stuff was just a hoodie. What those guys are doing with that going forward is dope. I mean, when they originally dropped the Barnbridge ones, I think they came with NFTs, but I think they know where the Metaverse is heading now. It's a year since the Barnbridge one came, so I feel that they're building additional features into them. But that's not even Universe.
+**Tyler:** Whoever that guy's got to make this stuff is gonna make it. But Marks, right. Also, where they're going with this. The Barnbridge stuff was just a hoodie. What those guys are doing with that going forward is dope. I mean, when they originally dropped the Barnbridge ones, I think they came with NFTs, but I think they know where the Metaverse is heading now. It's a year since the Barnbridge one came, so I feel that they're building additional features into them. But that's not even Universe.
 
 **Mark:** We'll give a little alpha on that one. If any of the Barnbridge gang has any of those Barnbridge NFTs from the last merch drop, I definitely would hold on to them or delist them if you have them.
 
@@ -470,7 +472,7 @@ We can't even DCMA people for Polymorphs because we never licensed any of that. 
 **Tyler:** But that's just very important. It's just even down to the level of we're a DAO. There's no way for a DAO to own an IP, at least not now. Something Troy is working on in the long term. But ultimately, that's not just ours; it's everyone's, everything we drop is everyones. It's important that you all know that that is how some of the things are structured. So yeah, Jen's stuff isn't going to the DAO. But he took the initiative. He made a dope-ass drop. I think the whole Community benefits from it, and it brings more utility to our ecosystem. But ultimately, you don't need our permission. Now, if you go off and do terrible stuff with the brand, then we as a collective can say that you're damaging us. If you start doing terrible things with it, don't go crazy. You don't want to like piss off a whole ecosystem of autistic NFT Degens. We're not DCMA anyone. The other thing that I was going to say. Is speaking of the early Barnbridge people; I want to talk about the early people in this community because a lot of you all stuck around, and there's been FUD and bull and people thinking we gave up or retired or gave up on the Polymorph. Prowess came in early on.
 
 
-## Community & Core Team Members [[]]() 👥
+## Community & Core Team Members [[1:20:27]](https://youtu.be/JVhbjAvQxnM?t=4827) 👥
 
 **Tyler:** It is also about how we're trying to empower community engagement and start to blur these lines long term. That doesn't mean everybody can have a job tomorrow like the DAO. That Multi Sig was a lot of our core team's funding; we had to make sure that we delivered the white paper. There is a multi-sig that we make decisions from right now. 
 
