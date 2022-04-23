@@ -200,7 +200,7 @@ They can't be a priority over the marketplace right now in the same way that Pol
 
 However, we do have a ton in that same 6 months. We didn't stop doing stuff for them. We have like extensive 3D models for them. We've built them so they can be bridged to Crypto Voxels. We've done additional art projects and drops that will get attached to them, a utility that will work around them. We all talked about the battle game; we didn't forget. We still built it and audited it. The battle game isn't as important as the marketplace. That's the main way Universe is going to make money until we all work together as a DAO to figure it out long term. Something has to sustain all this. 
 
-## Polymorph's [[]]() 🤡
+## Polymorph's [[38:17]](https://youtu.be/JVhbjAvQxnM?t=2297) 🤡
 
 **Tyler:** I would say that we did not forget about the Polymorphs. 🧪🧑‍🔬
 
