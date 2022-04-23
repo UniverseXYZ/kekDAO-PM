@@ -96,7 +96,7 @@ Before this call, we talked about a little bit of stuff going on and speculating
 
 Next, we'll roll into the Updates and Marketplace. I'll go ahead and go over some of this, and then if Ryan wants to jump in at all, he can. 
 
-## Updates; Marketplace [[9:27]]() 🖼
+## Updates; Marketplace [[9:27]](https://youtu.be/AujNpydtEX8?t=567) 🖼
 
 **Mark:** As everyone knows, we launched our minting last week, and we feel like we had really good feedback. We had a few issues on the front-end, and we want everyone to know that those Minting Contracts we could say were essentially bare, but we have a lot more features coming out soon. One of our founders, [Tim Kang](https://twitter.com/illestrater_), has been putting in a lot of effort and trying to get awesome Minting Contracts written out, and he's been taking that on himself to add new customizable NFTs and NFTs more for the artist.
 
@@ -237,7 +237,7 @@ This guy says my knee hurt. How will XYZ fix this?
 
 **Mark:** I was kidding— but he did ask that. 
 
-## Pre AMA Questions [[36:08]](https://youtu.be/AujNpydtEX8?t=2025)
+## Pre AMA Questions [[36:08]](https://youtu.be/AujNpydtEX8?t=2025) 🙋
 
 ### **Question:**
 
