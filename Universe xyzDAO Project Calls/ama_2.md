@@ -653,4 +653,4 @@ We're going to do and try to post that online, but it's going to be like a unive
 * PolyMorphs: [Universe](https://universe.xyz/collection/0x1cbb182322aee8ce9f4f1f98d7460173ee30af1f)
 * Lobby Lobsters: [Universe](https://universe.xyz/collection/0xc0cb81c1f89ab0873653f67eea42652f13cd8416)
 * STAND WITH UKRAINE: [OpenSea](https://opensea.io/collection/standwithukrainedrop)
-* Core Drops: Coming Soon!
+* Core Drops: Coming Soon! 
