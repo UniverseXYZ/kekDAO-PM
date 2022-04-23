@@ -1,4 +1,4 @@
-# Universe XYZ AMA Notes– #002
+# Universe XYZ AMA Notes– #002 
 
 ### Meeting Date/Time: Wednesday 2022/2/2 at 14:00 UTC
 
