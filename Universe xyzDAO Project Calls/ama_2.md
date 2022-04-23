@@ -46,7 +46,7 @@ I need that in my life. Dude, the polymorphs are one of the first NFTs I was buy
 
 **Tyler:** What did he sell it for?
 
-**Ryan:** .05
+**Ryan:** .05 😬
 
 **Tyler:** Not going to make it. Polymorphs are doing great.
 
@@ -72,7 +72,7 @@ The ripped zombie shirt isn't going to give you a lot of protection in the game,
 
 Okay, so I think most people have joined. Is Troy in here? Maybe not. I think we can go ahead and get started. 
 
-## Merging; Projects calls ➡️ AMAs [[5:16]]()
+## Merging; Projects calls ➡️ AMAs [[5:16]](https://youtu.be/AujNpydtEX8?t=316) 🤝
 
 So the way we usually do this for people is by hopping on or watching the Universe calls online. So one idea that Tyler had was that we wanted to start these calls, making them more community-centric. One thing that we wanted to do was just go ahead and merge our project calls with the Discord AMAs because we had really good feedback from the AMAs, and people seem to like them. So at the beginning of these calls, we'll just run through our normal project style updates, and then we'll answer some of the questions. In the process, we'll probably have everyone direct their questions in the **Pre AMA** channel and leave it open throughout the week. Then everyone can go there and post their questions. Then we'll start addressing the questions when I get in there. Last week people posted questions, and we'll go ahead and answer them too. Eventually, we'll cut it off because this is a recorded call.
 
@@ -86,7 +86,7 @@ Everyone can give their feedback, but I don't think we'll time this call because
 
 **Tyler:** Are we recording this one?
 
-**Mark:** Yeah. Zach already has started recording this.
+**Mark:** Yeah. Zach already has started recording this. 🎥
 
 **Tyler:** Nice.
 
@@ -96,7 +96,7 @@ Before this call, we talked about a little bit of stuff going on and speculating
 
 Next, we'll roll into the Updates and Marketplace. I'll go ahead and go over some of this, and then if Ryan wants to jump in at all, he can. 
 
-## Updates; Marketplace [[9:27]]() 
+## Updates; Marketplace [[9:27]]() 🖼
 
 **Mark:** As everyone knows, we launched our minting last week, and we feel like we had really good feedback. We had a few issues on the front-end, and we want everyone to know that those Minting Contracts we could say were essentially bare, but we have a lot more features coming out soon. One of our founders, [Tim Kang](https://twitter.com/illestrater_), has been putting in a lot of effort and trying to get awesome Minting Contracts written out, and he's been taking that on himself to add new customizable NFTs and NFTs more for the artist.
 
@@ -106,7 +106,7 @@ We want to keep focusing on that and bringing updates to the front-end that peop
 
 We've had some extremely good discussions in our forums over the last few days. 
 
-> [Link to forum](https://forum.universe.xyz/)
+> [Link to forum](https://forum.universe.xyz/) 🚨
 
 People are talking about doing an airdrop, but essentially that's up to the community if we do that. That's the very powerful thing about Universe being a DAO— we need to keep moving in our direction. We will truly have a community-run marketplace that we can all take pride in and say we built it together. 
 
@@ -118,7 +118,7 @@ So Justin, I believe, had like one gold album, five silvers and twenty regular a
 
 It's a weird thing to be price art; how much should I sell it for? It's a weird question for artists to ask themselves or ask other people. Essentially the best thing to do is auction it, and OpenSea had auction reserves where art couldn't go for less than an ETH, and that was one thing that we wanted to fix.
 
-How do artists gauge the fair value of their art? 
+How do artists gauge the fair value of their art? 🧑‍🎨
 
 That was one thing we thought about and we didn't like the current state of auctions and wanted to fix that. There's no reserve, but there's no Universe set reserve. This type of Auction goes 0% to the Universe Marketplace. It's just a way for artists to be able to go and figure out truly what they can get for their art. The NFT platform can take a massive percentage like Foundation does. It's like 15, 30% on some that people are launching. So that's one thing that we wanted to do for the artists. 
 
@@ -152,7 +152,7 @@ It is undergoing some really heavy updates right now, and we're all excited to s
 
 If we're offering lower fees than the rest of the market and there's liquidity at the floors, it becomes clear where you want to be trading. Hopefully, that will be pointing more and more volumes towards the Universe Marketplace over the other ones. So that's where my recent excitement has been focused on.
 
-## Governance & Yield Farming [[23:27]](https://youtu.be/AujNpydtEX8?t=1407)
+## Governance & Yield Farming [[23:27]](https://youtu.be/AujNpydtEX8?t=1407) 🏛 🧑‍🌾🌾
 
 **Mark:** So we'll roll into updates on Yield Farming, just because I like to give everyone updates about the token. So like always, you have the ability to govern the protocol. We have had some proposals going on recently, and we are probably going to start having a lot more now that we have the marketplace and everything rolling out. 
 
@@ -194,7 +194,7 @@ It has like these Lego brick backpacks, but you never know. I mean, that's not a
 
 I think full sets are the coolest thing. It doesn't matter if it's Clown Charles, but I'm biased. Chuba, don't shoot me. Chuba is a Clown Charles maxi.
 
-**Ryan:** True, I am. I can confirm.
+**Ryan:** True, I am. I can confirm. ✅
 
 **Mark:** So I just want everyone to have faith. Don't write off the polymorph. We're going to be doing a lot; I would say 1000 hours of work. We have 3D models going 2D, like sprites, that can go into different types of metaverses. They were built for George's game, in which you're going to be able to control yours and be able to fight each other. You're going to be doing stuff. But George is probably going to kill me for even leaking. 
 
@@ -323,7 +323,7 @@ It's as Troy said; they're not a doxxed team. If we do stuff like that, the repe
 
 **Ryan:** Okay.
 
-**Mark:** The next question is from Flammel, We love you Flammel.
+**Mark:** The next question is from Flammel, We love you Flammel. 💚
 
 ### **Question:**
 
@@ -357,13 +357,13 @@ We even have videos documentation on all the products and features that we're go
 
 ### **Question:**
 
-Let's talk Pepes. Did we ever hear back from Fury?
+Let's talk Pepes. Did we ever hear back from Fury? 🐸
 
 #### **Answer:**
 
 **Mark:** Tyler? I think that's a direct question for you.
 
-**Tyler:** He responded with Shield and Pepe, but he didn't respond to anything other than that. So I don't know.
+**Tyler:** He responded with Shield & Pepe, but he didn't respond to anything other than that. So I don't know.
 
  ### **Question:**
 
@@ -409,7 +409,7 @@ First off, what is XYZ?
 
 Essentially, XYZ is your token to a community-curated marketplace. It's the gateway to what everyone has been asking for the last 6 months, a community-led project that the community controls. We are going to see features get pushed out by the community, and it's also an open-source protocol that anyone can use. And I think that's the powerful thing. And really, maybe the biggest differentiator of us from an OpenSea or some of these other protocols. Or actually, I wouldn't even call them protocols because we are a protocol. And that's what we're going to be as an NFT protocol where you can list these NFTs, and they're going to be listed on the protocol, not just some front-end on OpenSea. I don't know. It's hard to answer what XYZ is if someone else wants to take a crack at it.
 
-**Ryan:** I like the second question he asks, 
+**Ryan:** I like the second question he asks. 
 
 ### **Question:**
 
@@ -431,7 +431,7 @@ So how will we truly take a share of the entire NFT marketplace volume going for
 
 If the artists and teams building these projects believe that XYZ is community-run like it is, then we are genuinely convinced that that's what the incentivization is. Honestly, it also tangles into something that we talked about earlier. We haven't necessarily come up with any plans to incentivize people other than we built this marketplace that essentially is what people have been asking for. An auction house with zero fees will go to their work there. A marketplace that takes a much smaller fee than OpenSea that's going to get people listing there. There are other ways to incentivize people than just giving them free stuff and airdropping. We understand what people want that kind of stuff. 
 
-But what does the Apple iPhone do every year?
+But what does the Apple iPhone do every year? 📱
 
 Do you know what I mean? I think that like there are other ways to incentivize in this LooksRare model where there are people who just bond. I can't even explain it. I don't know. Maybe someone else wants to try and chime in here. 
 
@@ -607,7 +607,7 @@ Okay. I will write up an email if you can send me exactly how this works. If you
 
 **Mark:** Nice.
 
-**Troy:** I'm curious, too.
+**Troy:** I'm curious, too. 🤔
 
 **Mark:** I mean, this is something that we have talked about, part of why we're so nervous about it, don't. So we're just all right, but we see other people.
 
@@ -635,6 +635,8 @@ Also, I would like to say a few more things. We're sponsoring an event. Our part
 
 We're going to do and try to post that online, but it's going to be like a universe panel all where I believe me, Ryan, Tim will speak. We will talk about our mission and what we want to accomplish. Some of those questions that lucky Luke was asking like, What is XYZ? And we'll try to get that recorded and then post that.
 
+
+**Everyone:** ✌️✌️✌️✌️
 
 
 <br>
