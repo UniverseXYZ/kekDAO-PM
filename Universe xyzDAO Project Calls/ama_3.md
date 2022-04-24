@@ -24,7 +24,7 @@ Attendees: Mark Ward, Tyler Ward, Troy Murray, Ryan Shtirmer, Algernon (Young Al
 
 **Ryan:** Awesome. Thank you, Nick. 
 
-## Proposals [[]]()
+## Proposals [[00:45]](https://youtu.be/GtuncSFIZEM?t=45) 🗳
 
 **Ryan:** So the first thing I wanted to talk about a little bit was the proposals that we'll be putting out soon. So we're going to start making a little bit of the snapshot to get some hot, cold tests and decisions that don't need to be on-chain, decisions that don't need to be finalized on-chain. 
 
@@ -67,7 +67,7 @@ So let's look at that channel because there's a question where they type in Pre 
 
 **Ryan:** Yeah, the Pre AMA Channel.
 
-## Polymorphs [[04:37]](https://youtu.be/GtuncSFIZEM?t=277)
+## Polymorphs [[04:37]](https://youtu.be/GtuncSFIZEM?t=277) 🤡
 
 **Algy:** Here. Let's scroll up and see if we have some new ones. We talked in here a bunch, so we didn't get many questions. If you have any questions, drop the Pre AMA Channel. 
 
@@ -279,7 +279,7 @@ So it's not just an auction on Universe.XYZ. It's like your own custom landing p
 
 There you go. I was going to read what you were saying. Is anyone interested in the transcoding pool with XYZ integration alpha?
 
-## XYZ + Graviton [[42:03]](https://youtu.be/GtuncSFIZEM?t=2523)
+## XYZ + Graviton [[42:03]](https://youtu.be/GtuncSFIZEM?t=2523) 🌌 + 🧲
 
 **Troy:** Yeah. Earlier in the week, last AMA, I said that there will be things that the private company we set up will be doing to kind of build utility into XYZ. And one of the things that we are doing that we can talk about now is that we've already started a working group with a live peer. 
 
@@ -331,7 +331,7 @@ But the promise that we would do that is being fulfilled. And I just wanted to t
 
 **Nick:** Underwater area and maybe even some James Bond-style shark tanks. I don't know if you have all seen that episode or movie of James Bond where they got the Sharks are Piranhas; they throw someone in it. We should put one of those in like a spaceship or something some DOXtor knows.
 
-**Algy:** All right, the POAP code is **charles69**.
+**Algy:** All right, the POAP code is **charles69**. 🤡
 
 **Troy:** All lower case.
 
