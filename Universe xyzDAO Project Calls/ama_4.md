@@ -495,7 +495,7 @@ Is there a limit token per time frame?
 **Mark:** I'm not sure what you are referring to on that question. Maybe if you want to come up and maybe reframe that question, I'm not sure what you completely mean.
 
 
-### **Question:DonBovan65**
+### **Question: DonBovan65**
 
 If someone wants to buy a FLUF on secondary, how do we get them to come to the Universe site versus OpenSea when shopping for one to buy?
 
