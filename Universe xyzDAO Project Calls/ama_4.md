@@ -14,7 +14,7 @@ Moderator: Mark Ward
 
 Scribe: Tammy M.
 
-Attendees: Mark Ward, Tyler Ward, Tim Kang, Troy Murray, Ryan Shtirmer, Dragos Rizescu, Cezar Paraschiv, Pavlo Bendus, Dmytro Dutka, Ilia Andreev, Zhivko Todorov, Stanislav Trenev, Andon Mitev, Algernon (Young Algy), Nick Ward
+Attendees: Mark Ward, Tyler Ward, Troy Murray, Ryan Shtirmer, Algernon (Young Algy), Nick Ward, Rayne Leach, Zach Owens, Trevor Latson
 
 ## Intro
 **Mark:** I think we have everyone from the team here now to go ahead and start.
