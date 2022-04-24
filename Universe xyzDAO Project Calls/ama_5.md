@@ -2,7 +2,7 @@
 
 ### Meeting Date/Time: Wednesday 2022/2/23 at 20:00 UTC
 
-### Meeting Duration: 90 mins
+### Meeting Duration: 54 mins
 
 ### [Github Agenda Page](https://github.com/UniverseXYZ/xyzDAO-PM/issues/42)
 
