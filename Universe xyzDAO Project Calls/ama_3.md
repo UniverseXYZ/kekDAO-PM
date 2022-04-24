@@ -49,7 +49,7 @@ And the marketplace is on track for around 4 to 5 weeks out.
 
 1. The first one and the one that we're really excited to share is the DAO governance. When you stake in the DAO and receive your XYZ, you earn some rewards for participating in the governance process. So that's always a lot of fun. 
 
-2. Additionally, you can single-sided stake your XYZ for League DAO for about 3 more weeks, and the Enter DAO has ended. 
+2. Additionally, you can single-sided stake your XYZ for [League DAO](https://dao.leaguedao.com/yield-farming) for about 3 more weeks, and the [Enter DAO](https://dao.enterdao.xyz/yield-farming) farms have ended. 
 
 3. There's an ASTO pool coming soon, but I don't have the start date for that pool. So if anyone is interested in that, you can tag Mark for more information there. 
 
@@ -345,7 +345,7 @@ But I do think some of their talking points are good. One thing that I thought w
 
 I haven't pushed that forward too far, but it starts to solidify just how powerful it is, what we've built. So Amazon scaled as a business because they had these massive referral networks, and those referral networks built Amazon's business. At one point, Amazon just shut the referral network down, which is why you can't ever trust a centralized company because they just thought they were so big. Why are we paying these people anymore? So if we create a finder's fee where curators and influencers, and people can plug into Universe, I think that in a similar way that Amazon scaled, we can scale Universe.
 
-I even talked to Andy from Fractional. This would incentivize Leauge DAO to plug into our Marketplace, where League DAO could have its own Marketplace on its website that plugs into Universe and takes a portion of that. It also incentivizes places, and let's say that in this conversation that we're not even having yet with Metamask, they decide to integrate into Universe. That will incentivize League DAO, Fractional, Enter DAO, FLUF World. Everybody's going to want to essentially accumulate the XYZ tokens so that they can have a say in governance that we don't essentially mark that finders fee to zero. 
+I even talked to [Andy](https://twitter.com/andy8052) from [Fractional](https://twitter.com/fractional_art). This would incentivize Leauge DAO to plug into our Marketplace, where League DAO could have its own Marketplace on its website that plugs into Universe and takes a portion of that. It also incentivizes places, and let's say that in this conversation that we're not even having yet with Metamask, they decide to integrate into Universe. That will incentivize League DAO, Fractional, Enter DAO, FLUF World. Everybody's going to want to essentially accumulate the XYZ tokens so that they can have a say in governance that we don't essentially mark that finders fee to zero. 
 
 The curators will want that. If they built a business on top of Universe the way that people built businesses on top of Amazon, then naturally, they're going to want to have a say in the governance of how that finder's fee is governed. I think that's extremely powerful from a go-to-market perspective versus something like looks. That ultimately shows how many real volumes there are. If they're doing that much volume, you would have seen it cut into OpenSea, and OpenSea is hitting record highs in volume.
 
