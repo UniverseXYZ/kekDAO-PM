@@ -409,7 +409,7 @@ I'm not saying that I think it's going to take that long in an NFT market where 
 
 I think we can move away from this question. Thank you, Fluffer Nutter, for that question that honestly led to a pretty good discussion. 🍻
 
-### **Question: avgmayosandwich **
+### **Question: avgmayosandwich**
 
 If an artist or a contributor has a collection they want to have on the marketplace exclusively, how would they go about getting that started? 
 
