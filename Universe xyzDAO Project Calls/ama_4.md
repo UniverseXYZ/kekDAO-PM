@@ -151,7 +151,7 @@ So that was a Development Update from Tyler.
 
 Now I'll give some updates on the polymorph because we've been a little quiet about them. 🤐
 
-## Polymorphs [[]]() 🤡
+## Polymorphs [[30:59]](https://youtu.be/XGCrJ8x_wYI?t=1859) 🤡
 
 **Mark:** There's something that we have been building in secret. I'm not sure if many people have known, but many people came out and said they didn't like how the Polymorphs looked— they said they were ugly at the beginning of their journey, which hurt my feelings. 
 
@@ -201,7 +201,7 @@ I'll just say I wouldn't play a video game where everybody looked like the Mona 
 
 **Mark:** Yeah, I mean, to each their own. I'm probably on Tyler's side too. When I play Skyrim, I think I usually use the Arc. It's like the Ugliest character in the game. Okay, let's jump off of some of this development stuff. We talked about Polymorphs.
 
-## Tyler Talk [[39:49]](https://youtu.be/XGCrJ8x_wYI?t=2389) 👨‍🏫
+### Tyler Talk; Metaversia— Details Redacted [[39:49]](https://youtu.be/XGCrJ8x_wYI?t=2389) 👨‍🏫 ☢️
 
 **Tyler:** Oh, wait, hold on. I want to say one thing about the Polymorphs— I want to clarify everything around the Polymorph funds. (When we pull out proposals)
 
@@ -249,11 +249,11 @@ But ultimately, you can honestly tell me to get lost. Hopefully, you pay me the 
 
 I just want to build some stuff that I want to use. So I'll drop it. Everything will be coded to the DAO. I'll probably put something on the front end that pulls out at least some money for the artist to help me. And then it's up to everybody here to let me build this. That's what I want to do. We're not taking the polymorph money to do anything with it. If anything, I'm spending my own money to make them cool. I do want to build this. And it's been fun as shit. It's honestly been a blissful distraction from real work.
 
-### End of Tyler Talk 👨‍🏫
+### End of TT; Metaversia— Details Redacted 👨‍🏫 ☢️
 
 **Mark:** You wouldn't know something really funny is to back up what Tyler is saying. We have internal Polymorph calls with our artists. We have many developers, but we also probably have an in-house team of probably between all of the DAOs that Tyler is involved in. We may have 30 to 35, but Universe has 15 to 20 artists working on many different things. 
 
-## Polymorph Leak [[47:35]](https://youtu.be/XGCrJ8x_wYI?t=2855) 🤡 🤫
+### Polymorph Leak [[47:35]](https://youtu.be/XGCrJ8x_wYI?t=2855) 🤡 🤫
 
 Over the last few weeks, we've been working on the high-quality Polymorphs. Some of these Polymorphs you may have seen on Twitter are realistic, but they're not quite fully 3D. We've had three-hour internal calls with which all the artists have been having so much fun. We are going back over because one of our lead artists knows how to do some pretty cool development stuff. His name is Vjislav.
 
@@ -459,57 +459,84 @@ Trevor wants to come up. Maybe he doesn't want to come up and talk anymore.
 
 ## Scraper [[1:20:34]](https://youtu.be/XGCrJ8x_wYI?t=4834) ⛓
 
-**Trevor:** Hey guys. I'm Trevor, CTO over at Graviton, formerly known as Multiverse. I've been an engineer and architect for 20 years now. I've been with Barnbridge and Universe since the beginning. I might know some of you on discord, but I'm not as active on there anymore since I'm usually in the weeds with all the development work I've been doing. So I'd like to discuss a couple of differences between our existing scraper as it is deployed today and some of the other scrapers in the industry and the improvements we've made. So currently, the scraper that you see the results of when you go to the My NFT's page. So that's currently depending on several APIs, namely OpenSea and Morales. And there are many issues with that because you get into throttling rate limiting, and it's also not built in such a way that it's very scalable. So we have vastly improved this. So the current scraper is built on microservice architecture. It's all running on Kubernetes in such a way that it's massively scalable. So anytime we'd like to add additional nodes, we spin up more replicas and have more power going through that scraper.
+**Trevor:** Hey guys. I'm [Trevor](https://www.graviton.xyz/team), CTO over at Graviton 🧲. (Formerly known as Multiverse) 
 
-It also does not depend on any kind of external API whatsoever. We're only using pure blockchain data from a full Ethereum node, so we never get into the situation where we get rate limited. So those are just a couple of the core differences, but overall it's extremely well architected. It's built-in such a way that it's modular, so we'll be able to use this for ERC 20s as well as 721s, 1155s and anything in between. We're also considering possibly making this a service user to build their own analytics. They might be able to do that in the future. And then another core difference here is that this thing is scraping the entire blockchain. So it's not just looking at certain wallets or contracts; it's getting every NFT from the entire blockchain since NFTs were created, and even before that, even supports Crypto Punks. So it's essentially all-inclusive. That means you don't need to wait as soon as you go to Universe and join your wallet. It's already going to have all of that data ready to go. So I think this is pretty exciting. It's a huge victory for us.
+I've been an engineer and architect for 20 years now. I've been with Barnbridge and Universe since the beginning. I might know some of you on Discord, but I'm not as active on there anymore since I'm usually in the weeds with all the development work I've been doing. So I'd like to discuss a couple of differences between our existing scraper as it is deployed today and some of the other scrapers in the industry and the improvements we've made.
 
-We're very proud of it, and I look forward to unleashing this to the public and letting you guys go crazy.
+Currently, the scraper that you see the results of when you go to the My NFT's page. That's currently depending on several APIs, namely OpenSea and [Moralis](https://moralis.io/). And there are many issues with that because you get into throttling rate limiting, and it's also not built in such a way that it's very scalable. We have vastly improved this. So the current scraper is built on microservice architecture. It's all running on Kubernetes in such a way that it's massively scalable. Anytime we'd like to add additional nodes, we spin up more replicas and have more power going through that scraper.
 
-## Shoutout: 
+It also does not depend on any kind of external API whatsoever. We're only using pure blockchain data from a full Ethereum node, so we never get into the situation where we get rate limited. Those are a couple of the core differences, but overall it's extremely well architected. 
 
-**Mark:** Yeah, we're super excited about the scraper. Honestly, we probably could have released paper October, but if it wasn't because of our friends at FLUF World for making such badass entities playing music videos. We are being able to swap trades and do all this crazy stuff. But luckily, they were able to drop that technology to help us build an even better scraper. So shout out to the developers out in New Zealand who have helped us with getting the FLUFs onto the scraper. We appreciate you guys, and shout out to Aaron's team, too, for helping with that.
+It's built-in such a way that it's modular, so we'll be able to use this for ERC 20s as well as 721s, 1155s and anything in between. We're also considering possibly making this a service for users to build their own projects, power analytics etc. 
 
-**Trevor:** I'll share a little bit of statistics with you. The scraper has been running for 16 hours, it has already scraped 261,000 NFT tokens and 335,000 NFT transfers, and that's in under 24 hours. So it's highly optimized, it's extremely fast, it's extremely robust, and it's great.
+They might be able to do that in the future. Another core difference here is that this thing is scraping the entire blockchain. It's not just looking at certain wallets or contracts; it's getting every NFT from the entire blockchain since NFTs were created, and even before that; it even supports Crypto Punks. It's essentially all-inclusive. That means you don't need to wait as soon as you go to Universe and connect your wallet. It's already going to have all of that data ready to go. I think this is pretty exciting. It's a huge victory for us. 
 
-**Algy:** That is awesome. I know we've been working on that one, so that's exciting.
+We're very proud of it, and I look forward to unleashing this to the public and letting you guys go crazy. 🧙
 
-**Mark:** All right, I'm just scrolling through some more questions. If anything, they want to come up and ask them to feel free.  
 
-### **Question:**
+**Mark:** Yeah, we're super excited about the scraper. Honestly, we probably could have released paper October, but if it wasn't because of our friends at FLUF World for making such badass entities playing music videos. We are being able to swap trades and do all this crazy stuff. But luckily, they were able to drop that technology to help us build an even better scraper. 
 
-Gunner asks; Is there a limit token per time frame? 
+### Shoutout: [Fluf World](https://twitter.com/flufworld) Team and the New Zealand developers! 🐇 🥝
+
+They have helped us with getting the FLUFs onto the scraper. We appreciate you guys, and shout out to Aaron's team, too, for helping with that.
+
+**Trevor:** I'll share a little bit of statistics with you. The scraper has been running for 16 hours, it has already scraped 261,000 NFT tokens and 335,000 NFT transfers, and that's in under 24 hours. So it's highly optimized, it's extremely fast, it's extremely robust, and it's exceptional.
+
+**Algy:** That is awesome. I know we've been working on that one, so that's exciting. 👏
+
+**Mark:** All right, I'm just scrolling through some more questions. If anyone would like to come up and ask them to feel free.  
+
+### **Question: Gunner**
+
+Is there a limit token per time frame? 
 
 ### **Answer:**
 
-**Mark:** I'm not sure what you are referring to on that question. Maybe if you want to come up and maybe re ask that, I'm not sure what you mean by that.
+**Mark:** I'm not sure what you are referring to on that question. Maybe if you want to come up and maybe reframe that question, I'm not sure what you completely mean.
 
-All right. 
 
-### **Question:**
+### **Question:DonBovan65**
 
-Don Bovin has another question. It's Don Bovin. I have always been reading his name wrong; If someone wants to buy a FLUF on secondary, how do we get them to come to the Universe site versus OpenSea when shopping for one to buy?
+If someone wants to buy a FLUF on secondary, how do we get them to come to the Universe site versus OpenSea when shopping for one to buy?
 
-**Algy:** This, exactly right here, is a great example of how the top 200 Project airdrop would incentivize people in a way people who have already paid that gas fee to list. I don't know if all of you know this because I know many people are listening who are giving opinions that don't trade NFTs. Every time you trade a new collection, you must pay a gas fee. So that's part of why it would be smart to incentivize people to migrate their listings is because it would cover this gas fee that they're getting charged. So that's a good way to get the FLUF people trading on Universe to offer this incentivization for migrating your listings. Then there are contracts approved, so they can always list moving forward for no extra gas fee. And it's as simple as that.
 
-**Fluffer Nutter:** I've seen many talks about Looks Rare today; they have just announced that they are going to pay people's gas fees to list their NFTs and transfer there.
+### **Answer**
 
-So there are just a lot of ways that we can.
+**Algy:** This, exactly right here, is a great example of how the top 200 Project airdrop would incentivize people in a way people who have already paid that gas fee to list. I don't know if all of you know this because I know many people are listening who are giving opinions that don't trade NFTs. Every time you trade a new collection, you must pay a gas fee. So that's part of why it would be smart to incentivize people to migrate their listings is because it would cover this gas fee that they're getting charged. So that's a good way to get the FLUF people trading on Universe to offer this incentivization for migrating your listings. Then when the contract is approved so they can always list moving forward for no extra gas fee. And it's as simple as that.
 
-I iterated earlier that we don't need to focus on making sure our market before we want to incentivize people even to come there. Do you know what I mean? So there's much leeway and workaround that we can do with these. But the listings and we're eventually going to have to incentivize people is how we feel like a Core Team to come to Universe.
+**Nick:** I've seen many talks about LooksRare today; they have just announced that they are going to pay people's gas fees to list their NFTs and transfer there.
+
+So there are just a lot of ways that we can do this.
+
+I iterated earlier that we don't need to focus on making sure our marketplace works before we want to incentivize people to flock here. There's much leeway and workaround that we can do with incentives. I'm sure that eventually we're going to have to incentivize people to list on our marketplace. That's how I feel as a core team member of Universe.
 
 **Trevor:** Yeah.
 
-**Fluffer Nutter:** It's hard to hear when I hear myself echoing in the back. It's hard to talk.
+**Nick:** Sorry, I know I'm echoing and it's hard for me to talk.
 
-**Trevor:** So another idea that we've discussed is possibly allowing people to stake their XYZ tokens to get a discount on the gas prices, similar to what one inch does. So like on one inch, if you stake a certain amount of one-inch tokens, you get a certain tier of your gas refunded. And then I think another thing that we might want to explore is possibly incentivizing. The first sale of an NFT is minted on the platform. So that would incentivize people to use the platform and Mint quality NFTs on here. And then they would get an incentive for the first sale, but only the first sale because otherwise, you get into watch trading situations as you have on Looks Rare.
+**Trevor:** Another idea that we've discussed is possibly allowing people to stake their XYZ tokens to get a discount on the gas prices, similar to what 1inch does. 
 
-**Algy:** That's the key. What Trevor was saying is how he pointed out, even if instantly when he says these ideas, it's good that we do this, but we just want to make sure nothing can be exploited. These ideas sound cool, but you have to do something that can't be scammed and exploited in the end. We would love to incentivize every single person to move their listing. Then that creates the window for people to create new projects and wallets. We don't want anyone scamming the community or us. So the only way we have to place limits in an extreme measure is to do any type of airdrop without turning into this Ponzi economics that you guys are talking about. We 100% want to avoid that completely. We don't want it to be where you guys are, right? We don't have to do this airdrop. We don't need to FLUF people or any other community list on Universe because this is early in NFTs. We are so early in this space. If we have a marketplace existing with these better tools and opportunities for artists, that's enough overtime for us to have a community organically.
+On 1inch, if you stake a certain amount of tokens, you reach a certain tier and a portion of your gas is refunded. And then I think another thing that we might want to explore is possibly incentivizing— The first sale of an NFT that's minted on the platform. That would incentivize people to use the platform and mint quality NFTs on here. And then they would get an incentive for the first sale, but only the first sale because otherwise, you get into wash trading situations as you have on LooksRare.
 
-It will not hurt us to notify and incentivize these people who have been trading NFTs and take the space seriously, and are still holding these expensive NFTs. Incentivizing those collections would only help the space. I'm talking about all-time best NFTs. I'm not talking about going on OpenSea right now and looking at the stats page. Those are the ones that are going to get the airdrop. I'm talking about the top 200 all time. Maybe even narrow some of those out so that it's not too Gazy. We obviously wouldn't airdrop every dissenterland NFT or Rarible or Foundation NFT; that wouldn't make any sense. It would only be these smaller projects that have this rarity that is made to match the market, and the market is avatar profile pictures, and that's not a debate. That's a fact. That's what the market wants. Metaverse land is just a separate thing. I don't think it would work where we're incentivizing Metaverse landholders just because of how much land there is.
+**Algy:** That's the key. What Trevor was saying. We would love to incentivize every single person to move their listing. But, then that creates the window for people to create new projects and wallets— creating exploits and scammy situations. We don't want anyone scamming the community or us. We 100% want to avoid that completely.
 
-But yes, finding some way to incentivize these, and honestly, people should be running their Metaverse Land. They should be holding it and running their Metabolic Land on entertainment. Incentivizing these top 200 profile picture projects, in my opinion, is a smart thing because the communities are super positive. Most of them are pretty organic, and they're all diamond hands, for the most part, especially the top 200. So yes, that's just a super good way to grow the community with people caring about NFTs. It's just that simple. Like the XYZ token is a governance token. The point of it is to decentralize the voting process so that we can make decisions moving forward about voting. And it's not anything more than that. So we can essentialize NFT holders specifically. It seems like that's the goal of the token.
+You guys are right, we don't have to do this airdrop. We don't need to FLUF people or any other community list on Universe because this is early in NFTs. We are so early in this space. If we have a marketplace existing with these better tools and opportunities for artists, that's enough over time for us to have a community organically.
 
-**Mark:** Thanks, Al. The next question is from JVR. He's asking us what things we use. I'll message you. Is that AJ? Are you still here?
+It will not hurt us to notify and incentivize these people who have been trading NFTs and take the space seriously, and are still holding these expensive NFTs. Incentivizing those collections would only help the space. I'm talking about all-time best NFTs. I'm not talking about going on OpenSea right now and looking at the stats page and deduce that those are the ones that are going to get the airdrop. 🙅
+
+> I mean the top 200 all time; Maybe even narrow some of those out so that it's not fugazi. (Broken beyond repair) 
+
+We obviously wouldn't airdrop every Decentraland NFT, Rarible or Foundation NFT; that wouldn't make any sense. It would only be these smaller projects that have this rarity that is made to match the market, and the market is avatar profile pictures, and that's not a debate. That's a fact. That's what the market wants. Metaverse land is a separate thing. I don't think it would work where we're incentivizing Metaverse landholders just because of how much land exists.
+
+Finding some way to incentivize these, and honestly, people should be renting their Metaverse Land. They should be holding it and running their metaverse land on EnterDAO. ([Landworks](https://landworks.xyz/))
+
+Incentivizing these top 200 profile picture projects, in my opinion, is a smart thing because the communities are super positive. Most of them are pretty organic, and they're all diamond hands— for the most part. Especially the top 200. That's a super good way to grow the community with people caring about NFTs. It's that simple. 
+
+The XYZ token is a governance token. The point of it is to decentralize the voting process so that we can make decisions moving forward about voting. And it's not anything more than that. So, any ways that we can decentralize things for NFT holders, specifically— It seems like that's the goal of the token.
+
+**Mark:** Thanks, Aly. The next question is from JVK. He's asking us what things we use. I'll message you. 
+
+Is that AJ? Are you still here?
 
 **AJ:** Yeah. Okay.
 
@@ -519,32 +546,65 @@ But yes, finding some way to incentivize these, and honestly, people should be r
 
 **Mark:** Because I saw your question. Yeah. So take it away, dude.
 
-## Jibaros
+## [Jibaros](https://www.jibaros.net/) [[1:33:15]](https://youtu.be/XGCrJ8x_wYI?t=5595) 🇵🇷 🧑‍🎨
 
-**AJ:** Okay. Hello, guys. I'm AJ. I am the founder of Jíbaros, along with my team. Mr. Tranquilidad is here, Joanne is here, and Ellis is here. We created the first Culturally Influenced Generative series. It's called Jíbaros. It's based on the culture of Puerto Rico. We created this because there's a big demand on the market for people not currently participating in the NFT space who would love to participate. After all, currently, in the NFT space, most of the sales are happening between the top 5% of people that are actually in the space. Not many people are looking into ways to integrate communities that want to participate in the NFT Ecosystem but don't know where to start. So we created Jibaros. It came out of a Hackathon here in Puerto Rico, and we launched it during the Hackathon. Usually, during a Hackathon, you present the idea. But we launched the whole thing, and then we did some brainstorming in order to make the NFT unique. We appealed to the people from here, and right now, half of the holders, it was their first NFT, and we're working on replicating this around the world. As I said before, in the 6th concept Culturally Influenced Generative series, we want to create communities worldwide to push the adoption from the ground up instead of like top to bottom.
+**AJ:** Hello, guys. I'm AJ. I am the founder of Jíbaros, along with my team. Mr. Tranquilidad is here, Joanne is here, and Ellis is here. 
 
-And when I say top to bottom is that the people that got early on the NFT space, they might have been at the right place at the right time, and they ended up just buying NFTs to show that they can just purchase them because they are expensive and from the ground up. We are proposing the adoption of connecting with different people in different regional locations. So there are things around the world that are pushing adoption. When I say adoption from the ground, we're creating a balance between virtual and digital events and metabolic events. We have a small gallery where we do events every week or every other week. And then we're also connecting with entrepreneurs, business owners, and restaurant owners in order to be able to get to the masses. People on the Internet who know about NFTs are just a portion of all the possible people participating in the ecosystem. Next week, on Monday, we have the reveal of our shopping, which is a physical token that is going to serve so people can authenticate that they own an NFT. We give them this physical token so they can participate in the ecosystem.
+We created the first Culturally Influenced Generative series. (CIGS) 🎨
 
-Then it would be harder for people to try to game the system because not everyone understands MetaMask. Someone could put a picture of their NFT on their MetaMask and then trick the cashier; for example, at this event on Monday, people who show their token will be able to redeem a free burger. And we have other different benefits with other companies and businesses. We're working hard on connecting with the people on a local level because that's what we think, which is going to be able to push the adoption globally. Another of our benefits right now is that every month, people who hold one of our entities, the Jiro, participate in our monthly art drop from different Puerto Rican Artists that might be new in the ecosystem. They've been traditional artists before, and not many people know them yet. Then it's very difficult for artists to do their art, do their promotion, do their marketing, and run social media. So anyhow, if Jiro will be able to claim, for example, for January, we have the Three Kings Days installation that we got from Spain.
+It's called Jíbaros. It's based on the culture of Puerto Rico. We created this because there's a big demand on the market for people not currently participating in the NFT space who would love to participate. After all, currently, in the NFT space, most of the sales are happening between the top 5% of people that are actually in the space. 
 
-We had 8 pieces made by 10 Artists because 3 Artists went work in one part on alcohol. Then over 200 holders were able to go to the website and get 8 NFTs per Jibaro. The reason we are doing this since we are all about that option; people need to have material to give away for a low price. That's, for example, someone that has 3 Jiros; for example, they would end up with 24 NFTs. Our NFTs run on Polygon because we target people not currently participating in the ecosystem. So telling someone that they're going to pay as much or more gas than the NFT cost wouldn't make much sense. But this allows people to send NFTs to other people and then start pushing the adoption from the ground up. For this month, Valentine's drop is going to have the claim it's going to be up on the 21st. People that have one of the first 700 Jiros we're at 640 right now, will be able to get 17 pieces of art from different artists from Puerto Rico. We want to do this around the world.
+Not many people are looking into ways to integrate communities that want to participate in the NFT Ecosystem but don't know where to start. We created Jibaros. It came out of a Hackathon here in Puerto Rico, and we launched it during the Hackathon. Usually, during a Hackathon, you present the idea. But we launched the whole thing, and then we did some brainstorming in order to make the NFT unique. We appealed to the people from here, and right now, half of the holders, it was their first NFT, and we're working on replicating this around the world. As I said before, the 6th concept Culturally Influenced Generative series, we want to create communities worldwide to push the adoption from the ground up instead of like top to bottom.
 
-So I'm going to take this opportunity to let anyone know that if you guys are interested in creating a 6 team reach out to us. The main benefit of creating these 16 in different regions is that the artist has the chance to do art for their initial layers and then benefit from the revenue that the whole team gets. When I say a team, the artist is going to work on the art. But then you have people working with social media; you have people working in connecting with other businesses. So we take out many of the responsibilities that NFT artists currently have that they have to do of them by themselves and create a product from it, so they have more time to work on their art. So after they finish their layers and it's launched, they can do backup art to help for promotions and things, but they have to be constantly making art all the time in this Ecosystem that is so competitive. Also, the supply of NFTs it's almost infant, and then the demand is quite limited. So by creating a 6, you're making a product that is not competing for the most part with the current supply because it's a unique product.
+And when I say top to bottom is that the people that got early on the NFT space, they might have been at the right place at the right time, and they ended up just buying NFTs to show that they can just purchase them because they are expensive and from the ground up. We are proposing the adoption of connecting with different people in different regional locations. So there are things around the world that are pushing adoption. When I say adoption from the ground, we're creating a balance between virtual and digital events and metabolic events. 
 
-And since it's going to have different leaders and teams worldwide, they can push adoption forward. And then these teams end up becoming like, quote, unquote authorities under regions because since they are connecting with Artists, they're helping them out, they're switching adoption. They would have a voice, and then we could have an impact.
+We have a small gallery where we do events every week or every other week. And then we're also connecting with entrepreneurs, business owners, and restaurant owners in order to be able to get to the masses. People on the Internet who know about NFTs are just a portion of all the possible people participating in the ecosystem. Next week, on Monday, we have the reveal of our shopping, which is a physical token that is going to serve so people can authenticate that they own an NFT. We give them this physical token so they can participate in the ecosystem.
 
-**Mark:** This even goes back to what Troy was talking about. Tyler was saying, Troy went and spoke today. Much of the stuff that AJ is working on is part of what Troy went and talked about in today's teaching. I know you guys know, but some of us have moved to Puerto Rico. Part of what we've been doing is AJ has been trying to teach people about the industry because there are so many ways to benefit. AJ has been helping artists on the island bring and show them you can start a Polygon Wallet. You don't need to spend $150. That was something really interesting that I thought they did. That was very easy, and they had very good success. The biggest point that AJ said was a lot of those Jibaros that people Jibaros, I still need to get a little bit better Spanish. I still say Ja instead of I'm still learning my J's. But the fact that those NFTs that those people bought were their first NFTs. The whole point of this is culturally influenced generative theories where we can have people around the world being okay; I'm from Japan or Florida.
+Then it would be harder for people to try to game the system because not everyone understands MetaMask. Someone could put a picture of their NFT on their MetaMask and then trick the cashier; for example, at this event on Monday, people who show their token will be able to redeem a free burger. 🍔 
 
-Florida is big. It could be its own country in a way. Florida has its own culture; Japan has its own culture; China has its own culture. AJ wants to get in touch with everyone Worldwide, and we can start cultural NFTs that people are okay. One of the biggest things that someone has said to me is that since I moved to Puerto Rico, there are ten times as many Puerto Ricans in New York City than there are in Puerto Rico. In Puerto Rico, many people have moved out depending on their reasons, but they still love their culture. Some of the Puerto Rican people I've met here are passionate about Puerto Rico. So many people want to; there's this American dream. People want to move to America, but they still relate with the people back home. Not only is that super powerful, but teaching people in some of these other countries where Crypto isn't as easy to access, you're teaching them about NFTs, you onboard, them on layer 2, which is more gas efficient. And that's the whole point of Crypto, right?
+We have different benefits with other companies and businesses. We're working hard on connecting with the people on a local level because that's what we think, which is going to be able to push the adoption globally. Another of our benefits right now is that every month, people who hold one of our entities, the Jiro, participate in our monthly art drop from different Puerto Rican Artists that might be new in the ecosystem. They've been traditional artists before, and not many people know them yet. Then it's very difficult for artists to do their art, do their promotion, do their marketing, and run social media. So any holder of Jibaro will be able to claim, for example, for January, we have the Three Kings Days installation that we got from Spain.
 
-Let's onboard, everybody. Let's teach people around the world. Let's bank the unbanked, and let's make an economy that yes.
+We had 8 pieces made by 10 Artists because 3 Artists worked on their part. Then over 200 holders were able to go to the website and get 8 NFTs per Jibaro. 
 
-**AJ:** The best part is that it doesn't have to be about a state or a country because, for example, we have two teams in New York. One is working on the 6th of New York. If anyone in New York wants to reach out, I can connect you with them. Then we have another one made by Puerto Rico that was mostly raised there, and he's creating the New Rican version of it. We also have a team in Slovakia. We also have a team in Guatemala. We also have a team in Venezuela. We need to keep building this because the part of building teams and brainstorming for the trades camera in parallel while we do everything else, and then when everything is ready, we help them lose the contract. I can give you more details later but just go to this card if you want to be part of this cultural energy revolution.
+The reason we are doing this since we are all about that option; people need to have material to give away for a low price. That's, for example, someone that has 3 Jibaros; for example, they would end up with 24 NFTs. Our NFTs run on Polygon because we target people not currently participating in the ecosystem. So telling someone that they're going to pay as much or more gas than the NFT cost wouldn't make much sense. But this allows people to send NFTs to other people and then start pushing the adoption from the ground up. For this month, Valentine's drop is going to have the claim it's going to be up on the 21st. People that have one of the first 700 Jiros we're at 640 right now, will be able to get 17 pieces of art from different artists from Puerto Rico. 
 
-**Mark:** You can reach out to me. I'll get you in touch with Jay doing an NFT project like this, and they want to be involved. We want this to be a global project, and part of the reason why we think that this is something is so on ETHo with NFTs and Crypto. We're all going to make it in this whole community that we can build Worldwide. This is the perfect way to do it. We can teach people around the world. Many people believe that the people who are benefiting from NFTs are Americans. But the fact of the matter is that anyone can benefit from this technology. The people who can benefit from it the most are the artists worldwide. I know we've talked about starving artists. We hope that NFT ends that and that we can create this technology that's going to empower it. Aj, thank you so much, dude, for coming up. I think we're going to have an AMA with the Jibaros team, and if anyone is interested, please reach out to me or reach out to AJ. I'm going to say his name is JVR 214.
+We want to do this around the world.
 
-He's in the chat right now, and if I don't respond, tag me in the discord because I have my DMs turned on, but you guys can tag me, and I'll get you in touch with them, dude. Thank you so much, and I think we're going to have an AMA that just on Jibaros and cultural influence generative projects because we believe that this is we believe this is a great approach to teaching people around the world about NFTs.
+So I'm going to take this opportunity to let anyone know that if you guys are interested in creating a CIGS reach out to us. The main benefit of creating these in different regions is that the artist has the chance to do art for their initial layers and then benefit from the revenue that the whole team gets. When I say a team, the artist is going to work on the art. But then you have people working with social media; you have people working in connecting with other businesses. So we take over many of the responsibilities that NFT artists currently have that they have to do of them by themselves and create a product from it, so they have more time to work on their art. So after they finish their layers and it's launched, they can do backup art to help for promotions and things, but they have to be constantly making art all the time in this Ecosystem that is so competitive. Also, the supply of NFTs it's almost infinite, and then the demand is quite limited. So by creating a CIGS, you're making a product that is not competing for the most part with the current supply because it's a unique product.
 
+And since it's going to have different leaders and teams worldwide, they can push adoption forward. And then these teams end up becoming like, quote, unquote authorities under regions because since they are connecting with artists, they're helping them out, they're pushing adoption. They would have a voice, and then we could have an impact.
+
+**Mark:** This even goes back to what Troy was talking about. 
+
+Tyler was saying, Troy went and spoke today. Much of the stuff that AJ is working on is part of what Troy went and talked about in today's teaching. I know you guys know, but some of us have moved to Puerto Rico. 🇵🇷
+
+Part of what we've been doing is AJ has been trying to teach people about the industry because there are so many ways to benefit. AJ has been helping artists on the island bring and show them you can start a Polygon wallet. You don't need to spend $150. That was something really interesting that I thought they did. That was very easy, and they had very good success. The biggest point that AJ said was a lot of those Jibaros, I still need to get a little bit better Spanish. 
+
+The fact that those NFTs that those people bought Jibaros and they're their first NFTs. The whole point of this is Culturally Influenced Generative Series where we can have people around the world creating together; From Japan to Florida. 🏯 🏖
+
+Florida is big. It could be its own country in a way. Florida has its own culture; Japan has its own culture; China has its own culture. AJ wants to get in touch with everyone Worldwide, and we can start cultural NFTs that represent different people. One of the more interesting things that someone has said to me since I moved to Puerto Rico— there are ten times as many Puerto Ricans in New York City than there are in Puerto Rico. 🤯
+
+In Puerto Rico, many people have moved out depending on their reasons, but they still love their culture. Some of the Puerto Rican people I've met here are passionate about Puerto Rico. But, so many people want to leave; there's an American dream. People want to move to America, but they still relate with the people back home. Not only is that super powerful, but teaching people in some of these other countries where Crypto isn't as easy to access, you're teaching them about NFTs, you onboard, them to layer-2, which is more gas efficient. And that's the whole point of Crypto, right?
+
+Let's onboard, everybody. Let's teach people around the world. Let's bank the unbanked, and let's make an economy that empowers everyone. 😌
+
+**AJ:** The best part is that it doesn't have to be about a state or a country because, for example, we have two teams in New York. One is working on the CIGs of New York. If anyone in New York wants to reach out, I can connect you with them. Then we have another one made by Puerto Ricans in America that was mostly raised there, and he's creating the New York Rican version of it.
+
+We also have a team in Slovakia. We also have a team in Guatemala. We also have a team in Venezuela. We need to keep building this because the part of building teams and brainstorming for the traits works in parallel while we do everything else. When everything is ready, we help them launch the contract. 
+
+I can give you more details later but just go to our Discord if you want to be part of this cultural NFT revolution.
+
+**Mark:** You can reach out to me. I'll get you in touch with AJ. If you're interested in doing an NFT project like this, and want to be involved. 
+
+We want this to be a global project, and part of the reason why we think that this is something is so on ethos with NFTs and Crypto. We're all going to make it in this whole community that we can build Worldwide. This is the perfect way to do it. We can teach people around the world. Many people believe that the people who are benefiting from NFTs are Americans. But the fact of the matter is that anyone can benefit from this technology. 
+
+The people who can benefit from it the most are the artists worldwide. I know we've talked about starving artists. We hope that NFT ends that stigma. We can create this technology that's going to empower people. 
+
+AJ, thank you so much, dude, for coming up. I think we're going to have an AMA with the Jibaros team, and if anyone is interested, please reach out to me or reach out to AJ. I'm going to say his name is JBR 214.
+
+He's in the chat right now, and if I don't respond, tag me in the Discord because I have my DMs turned off. 
+
+You guys can tag me, and I'll get you in touch with them. Dude. Thank you so much, and I think we're going to have an AMA that just on Jibaros and cultural influence generative projects (CIGS) because we believe that this is we believe this is a great approach to teaching people around the world about NFTs.
 
 
 
