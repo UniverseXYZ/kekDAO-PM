@@ -335,6 +335,8 @@ But the promise that we would do that is being fulfilled. And I just wanted to t
 
 **Troy:** All lower case.
 
+## Scaling the Universe [[47:07]](https://youtu.be/GtuncSFIZEM?t=2827) 📈
+
 **Tyler:** Also, while we're on this Ben Franklin on here, I had a call with him on Sunday, and he asked some pretty good questions about our generalized go-to-market, and I want to just touch on that. Everyone contributed to that post and on the forum. Honestly, that was one of the more dope things I've seen on my attached projects. I think that was one of the most engaging. That was like YFI level engagement or Olympus level engagement for a forum post in terms of this community's ideas and gigabrains. I've been talking a lot with Ryan, Tim, Troy even before that, and we had a call with it like JPEG, XYZ. It's like the old Yam kids. They talked about XYZ; they saw it most closely aligned with Zora, a centralized company that uses many of our talking points to build an open protocol. Ultimately a centralized company just is never going to build as open protocol as what we're doing the protocol.
 
 **Troy:** That's such a cool idea.
@@ -349,7 +351,12 @@ I even talked to [Andy](https://twitter.com/andy8052) from [Fractional](https://
 
 The curators will want that. If they built a business on top of Universe the way that people built businesses on top of Amazon, then naturally, they're going to want to have a say in the governance of how that finder's fee is governed. I think that's extremely powerful from a go-to-market perspective versus something like looks. That ultimately shows how many real volumes there are. If they're doing that much volume, you would have seen it cut into OpenSea, and OpenSea is hitting record highs in volume.
 
-So we don't want just to launch a Ponzi and try to vampire attack OpenSea, and we waste a bunch of our tokens and governance so that we're not drumming up any real volume. So we've thought about how do we release something in the long term to go after the monopoly that is OpenSea. But to clarify OpenSeas moat, the monopoly lives in the fact that all of the listings are on OpenSea. And if you think about Laredo's Law and just the 8020 principles, the top 200 collections on OpenSea account for 95% of the volume. And so, I think that what we should be doing is incentivizing those collections to move over. And so, in the short run, if we do that by making it cheaper to make trades on Universe, yes, that will cut into the fees that the DAO essentially accumulates. But keep in mind, if you look at the Coin Market Cap from 2017 until now, the top 200 projects are entirely different. None of them are essentially the same. So I think our Auctions are revolutionary and will take care of the long tail where more groups will plug into us because we're marking those fees to zero at auctions on Primary.
+
+### Incentivizing Liquidity 💸
+
+So we don't want just to launch a Ponzi and try to vampire attack OpenSea, and we waste a bunch of our tokens and governance so that we're not drumming up any real volume. So we've thought about how do we release something in the long term to go after the monopoly that is OpenSea. But to clarify OpenSeas moat, the monopoly lives in the fact that all of the listings are on OpenSea. 
+
+If you think about the NFT market with Paretos's Law— the 80/20 principle, the top 200 collections on OpenSea account for 80-95% of the volume. And so, I think that what we should be doing is incentivizing those collections to move over. And so, in the short run, if we do that by making it cheaper to make trades on Universe, yes, that will cut into the fees that the DAO essentially accumulates. But keep in mind, if you look at the Coin Market Cap from 2017 until now, the top 200 projects are entirely different. None of them are essentially the same. So I think our Auctions are revolutionary and will take care of the long tail where more groups will plug into us because we're marking those fees to zero at auctions on Primary.
 
 During this call, I've had two different groups ask me if they can plug into our Auction Contracts for a use case that they want to utilize it for. So that's how you get all the new tokens that came in between 2017 and 2021. Those will naturally come to our platform to keep the analogy going because all the initial listings get posted up when you do the auction. When you're doing those initial listings, and it's all on the same platform, that takes care of the long tail. What do we need to do in the immediate term? Where do people want to move over all of their current listings? How do we attack the true mode that OpenSea has, which is those listings? Because of the mote of our liquidity layer, once we move all of that over and have the long tail. This is not like when Uniswap was vampire attacked by Sushi, where there was probably a 80-20 principal, 20% liquidity providers providing 80% of Uniswaps liquidity. All you have to do is convince the 20% people to move over, ERC 20 tokens which are fully fungible.
 
@@ -375,11 +382,15 @@ So we are thinking about this. 🧠
 
 **Nick:** Who's talking? So that we know, because it doesn't bring you to the top or anything. Awesome.
 
+### Sustainability 💦 🌱  
+
 **Tyler:** Also, just so everyone knows a lot when I say that those four buckets were inspired by what was in that forum post. We just internalized it and put it into the short, medium and long term. I think they're all important. So I don't want to make it sound like we read all that and didn't listen and just doing our own thing. We wrapped everything that was said that was really good ideas into a workable format. 
+
+> [Click here to get to the forum post](https://forum.universe.xyz/t/airdrop-to-opensea-users-web3-discussion-and-proposal/73) 
 
 So, first of all, thank you all for contributing because it helped us formulate a plan. And to Troy's point, it's not even about the legality of looks. It's that what they're doing is not real. It's not taking any volume away from OpenSea. So what's the point? It put us into sketchy regulatory waters, and we want to be building this for I don't know how long I'm going to live, but it's not effective. If it was very effective, we need to take it ultimately; it's still a DAO people could vote in.
 
-And essentially, it's not our decision. The issue, though, is that it's not ideal. There are numerous red flags about it. So we, fortunately, were able to see through SOS and Looksrare— they only work optically. So let's come up with something that works properly. That's what we're going for here to build. Are we going to take over all of the OpenSeas volumes? Probably not in the first year, but we need to take enough of it. And yeah, Ponzinomics are probably not the way to do it as we've seen; we have something much more sustainable.
+And essentially, it's not our decision. The issue, though, is that it's not ideal. There are numerous red flags about it. So we, fortunately, were able to see through SOS and LooksRare— they only work optically. So let's come up with something that works properly. That's what we're going for here to build. Are we going to take over all of the OpenSeas volumes? Probably not in the first year, but we need to take enough of it. And yeah, Ponzinomics are probably not the way to do it as we've seen; we have something much more sustainable.
 
 **Ryan:** We're more interested in effective incentives that create a healthy marketplace and not 2 minutes of marketing hype because we're doing volume that will not last long. That's my two cents.
 
@@ -402,6 +413,8 @@ Yes, as long as you're the auctioneer, plug into it.
 **Algy:** So it's not just on primary sale.
 
 **Ryan:** Anyone can sell whatever they want without fees on the auctions. But you do have to pay your collection royalties and whatever other royalties tied into that NFT. So it doesn't get around any of these royalties you're paying otherwise. But it doesn't have this 2.5% OpenSea fee or whatever marketplace fee Universe is charging. It does have the ability to be configured by the DAO, though. So in the future, if the DAO does decide to turn on fees for auctions, it could opt for a fee and maybe a fee lower than the Universe Marketplace, for example, to kind of stay true to that vision.
+
+## NFT 4 NFT; Secure P2P NFT Trades [[1:07:46]](https://youtu.be/GtuncSFIZEM?t=4066) 🖼 ➡️ 🖼
 
 **Algy:** What do you guys think about possibly eventually, like for maybe a V2 making a function where we made it possible for people to trade NFTs directly?
 
@@ -501,6 +514,8 @@ That would have generated the protocol more money, and it just created problems 
 
 **Algy:** If you want to talk to George, you can join the Enter DAO AMAs.
 
+### Private Transactions [[1:17:07]](https://youtu.be/GtuncSFIZEM?t=4627) 🤝
+
 **Ryan:** So people are commenting on the private sales and whether it makes sense to offer no-fee private sales. You can argue that the services of the marketplace match buyers and sellers. So if you already have a buyer and seller, the DAO can, I guess, for free offer the ability to trust us to make that exchange. But there is an argument that should only take fees for matches, that it helps facilitate where you didn't know the buyer or seller before agreeing. I can see both arguments, but I also don't think that having felt private listings takes a big hit out of the overall fees the DAO would be earning.
 
 **Algy:** It just prevents people from getting scammed is the bigger thing. Of course, it would help the DAO, I guess, to take the fee. 
@@ -533,11 +548,11 @@ I used to like Mint Polygon NFT to try to reach people if there was no other way
 
 **Troy:** Yeah. I don't know— it's kind of an interesting concept, you could create with the Universe front-end. You could create a mailing system through it. But you said there are probably some problems there.
 
-**Tyler:** Hey everybody, I got to hop because I need to get dinner before I get other calls this evening. I love all of you. 💚
+**Tyler:** Hey everybody, I got to hop because I need to get dinner before I get other calls this evening. I love all of you. 💙 
 
 **Troy:** I'm going to hop too! 
 
-Yeah, we love you guys. 💚
+Yeah, we love you guys. 💙
 
 **Algy:** Talk to you guys later.
 
