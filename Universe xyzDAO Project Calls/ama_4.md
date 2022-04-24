@@ -14,7 +14,7 @@ Moderator: Mark Ward
 
 Scribe: Tammy M.
 
-Attendees: Mark Ward, Tyler Ward, Troy Murray, Ryan Shtirmer, Algernon (Young Algy), Nick Ward, Rayne Leach, Zach Owens, Trevor Latson
+Attendees: Mark Ward, Tyler Ward, Ryan Shtirmer, Algernon (Young Algy), Nick Ward, Rayne Leach, Zach Owens, Trevor Latson
 
 ## Intro
 **Mark:** I think we have everyone from the team here now to go ahead and start.
