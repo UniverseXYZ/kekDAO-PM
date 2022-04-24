@@ -337,7 +337,7 @@ But the promise that we would do that is being fulfilled. And I just wanted to t
 
 ## Scaling the Universe [[47:07]](https://youtu.be/GtuncSFIZEM?t=2827) 📈
 
-**Tyler:** Also, while we're on this Ben Franklin on here, I had a call with him on Sunday, and he asked some pretty good questions about our generalized go-to-market, and I want to just touch on that. Everyone contributed to that post and on the forum. Honestly, that was one of the more dope things I've seen on my attached projects. I think that was one of the most engaging. That was like YFI level engagement or Olympus level engagement for a forum post in terms of this community's ideas and gigabrains. I've been talking a lot with Ryan, Tim, Troy even before that, and we had a call with it like JPEG, XYZ. It's like the old Yam kids. They talked about XYZ; they saw it most closely aligned with Zora, a centralized company that uses many of our talking points to build an open protocol. Ultimately a centralized company just is never going to build as open protocol as what we're doing the protocol.
+**Tyler:** Also, while we're on this Ben Franklin on here, I had a call with him on Sunday, and he asked some pretty good questions about our generalized go-to-market, and I want to just touch on that. Everyone contributed to that [post and on the forum](https://forum.universe.xyz/t/airdrop-to-opensea-users-web3-discussion-and-proposal/73). Honestly, that was one of the more dope things I've seen on my attached projects. I think that was one of the most engaging. That was like YFI level engagement or [Olympus](https://twitter.com/OlympusDAO) level engagement for a forum post in terms of this community's ideas and gigabrains. I've been talking a lot with Ryan, Tim, Troy even before that, and we had a call with it like JPEG, XYZ. It's like the old Yam kids. They talked about XYZ; they saw it most closely aligned with Zora, a centralized company that uses many of our talking points to build an open protocol. Ultimately a centralized company just is never going to build as open protocol as what we're doing the protocol.
 
 **Troy:** That's such a cool idea.
 
@@ -352,7 +352,7 @@ I even talked to [Andy](https://twitter.com/andy8052) from [Fractional](https://
 The curators will want that. If they built a business on top of Universe the way that people built businesses on top of Amazon, then naturally, they're going to want to have a say in the governance of how that finder's fee is governed. I think that's extremely powerful from a go-to-market perspective versus something like looks. That ultimately shows how many real volumes there are. If they're doing that much volume, you would have seen it cut into OpenSea, and OpenSea is hitting record highs in volume.
 
 
-### Incentivizing Liquidity 💸
+### Incentivizing Liquidity [[52:03]](https://youtu.be/GtuncSFIZEM?t=3123) 💸
 
 So we don't want just to launch a Ponzi and try to vampire attack OpenSea, and we waste a bunch of our tokens and governance so that we're not drumming up any real volume. So we've thought about how do we release something in the long term to go after the monopoly that is OpenSea. But to clarify OpenSeas moat, the monopoly lives in the fact that all of the listings are on OpenSea. 
 
@@ -366,7 +366,20 @@ And we have to do that through listings and not listings themselves, but listing
 
 And also need to Port those listings over because it doesn't matter if we have a better experience looking at them. Ultimately what they're going to do is they're going to use all of the tools that we custom-built. There are no listings; they're going to make the trades on OpenSea. So we're just driving value to OpenSea. 
 
-So number one is making sure that we get listings ported over. Number two is making sure that we communicate with industry players and partners that this finders fee exists because OpenSea doesn't give one, and Zora can change it. So we have a competitive reason that they should want to integrate with us. The 3rd bucket is custom experiences for top projects, and I had a 4th one, but I'm 05:00 P.m., so I just want to communicate with everyone that I don't control this. We are going to have to vote on things, on how all this gets rolled out, but that's my vote in a well-thought-out way that we can, oh, sorry. The fourth thing was the auctions for Longdale. If we're attracting more talented artists to our platform because they can keep more of what they created, we're going to get better artists like people don't like to pay a fee if they don't have to.
+**Bucket Approach**
+
+1. Making sure that we get listings ported over.
+ 
+2. Making sure that we communicate with industry players & partners that this finders fee exists. 
+   - OpenSea doesn't give one, and Zora can change it.
+   - So we have a competitive reason that they should want to integrate with us. 
+
+3. Custom experiences for top projects. 
+   - I want to communicate with everyone that I don't control this. 
+   - We are going to have to vote on things, on how all this gets rolled out, but that's my vote in a well-thought-out way that we can.
+
+4. The fourth is the auctions for long-tail.
+   - If we're attracting more talented artists to our platform because they can keep more of what they created, we're going to get better artists— people don't like to pay a fee if they don't have to.
 
 So if we can execute on those four things, the Universe will put a dent into OpenSeas Monopoly. That is much more sustainable than if we launched some Ponzinomics bullshit. If I wanted to build a Ponzi scheme, I could build one, but that's not what we set out here to do. So I think that our go-to-market summer short term. Summer long term. I do not think it will be hard to incentivize the top 200 projects. Ryan can correct me if I'm wrong, but it seems pretty easy. I think that we can incentivize the listings, and then that just comes down to other people telling many projects that they can do this and me. The top 20 experience again, can't do that out of the gate. And then the auctions are just a long tail thing. Something that launches on our platform will become a top 200 project and replace the other ones, and that's good. Hopefully, all the top 200 projects were launched on our platform via auctions. I mean, unrealistic. But if that happens, OpenSea no longer has any motion against us.
 
@@ -382,7 +395,7 @@ So we are thinking about this. 🧠
 
 **Nick:** Who's talking? So that we know, because it doesn't bring you to the top or anything. Awesome.
 
-### Sustainability 💦 🌱  
+### Sustainability [[1:03:03]](https://youtu.be/GtuncSFIZEM?t=3783) 💦 🌱  
 
 **Tyler:** Also, just so everyone knows a lot when I say that those four buckets were inspired by what was in that forum post. We just internalized it and put it into the short, medium and long term. I think they're all important. So I don't want to make it sound like we read all that and didn't listen and just doing our own thing. We wrapped everything that was said that was really good ideas into a workable format. 
 
