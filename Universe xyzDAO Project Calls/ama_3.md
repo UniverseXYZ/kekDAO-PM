@@ -369,17 +369,17 @@ So we are thinking about this. 🧠
 
 **Troy:** Yeah. I think that once everyone wrapped their heads around this concept, it opened the floodgates of everyone being okay; yeah, this makes much sense. The big thing is everyone always wonders how we're going to get the marketplace to take over without doing stuff that puts us in a weird gray area with the law. I'm in full support of this idea, too. Once we all saw it and started thinking about it, it seemed like a no-brainer.
 
-**Add Speaker:** I've been here in Universal Marketplace, and I'm excited about it, and I intend to be one of those dope artists that do come over that Zach was speaking about. Yeah, I have some successful pieces on OpenSea, and I just know the people behind all of this are wizards, so, yeah, I'm excited for that.
+**Gbergphoto:** I've been here in Universal Marketplace, and I'm excited about it, and I intend to be one of those dope artists that do come over that Zach was speaking about. Yeah, I have some successful pieces on OpenSea, and I just know the people behind all of this are wizards, so, yeah, I'm excited for that. 🧙
 
-**Tyler:** Nice.
+**Troy:** Nice.
 
 **Nick:** Who's talking? So that we know, because it doesn't bring you to the top or anything. Awesome.
 
-**Add Speaker:** Hey Now
+**Tyler:** Also, just so everyone knows a lot when I say that those four buckets were inspired by what was in that forum post. We just internalized it and put it into the short, medium and long term. I think they're all important. So I don't want to make it sound like we read all that and didn't listen and just doing our own thing. We wrapped everything that was said that was really good ideas into a workable format. 
 
-**Tyler:** Also, just so everyone knows a lot when I say that those four buckets were inspired by what was in that forum post. We just internalized it and put it into the short, medium and long term. I think they're all important. So I don't want to make it sound like we read all that and didn't listen and just doing our own thing. We wrapped everything that was said that was really good ideas into a workable format. That's reasonabl and destroys point. So, first of all, thank you all for contributing because it helped us formulate a plan. And to Troy's point, it's not even about the legality of looks. It's that what they're doing is not real. It's not taking any volume away from OpenSea. So what's the point? It put us into sketchy regulatory waters, and we want to be building this for I don't know how long I'm going to live, but it's not effective. If it was very effective, we need to take it ultimately; it's still a DAO people could vote in.
+So, first of all, thank you all for contributing because it helped us formulate a plan. And to Troy's point, it's not even about the legality of looks. It's that what they're doing is not real. It's not taking any volume away from OpenSea. So what's the point? It put us into sketchy regulatory waters, and we want to be building this for I don't know how long I'm going to live, but it's not effective. If it was very effective, we need to take it ultimately; it's still a DAO people could vote in.
 
-And essentially, it's not our decision. Right. The issue, though, is that it's not. So on top of it, there are numerous red flags about it. So we, fortunately, were able to see through SOS and Looks that mode only works optically. So let's come up with something that works. That's what we're going for here to build. Are we going to take over all of the OpenSeas volumes? Probably not in the first year, but we need to take enough of it. And yeah, Ponzinomics are probably not the way to do it as we've seen; we have something much more sustainable.
+And essentially, it's not our decision. The issue, though, is that it's not ideal. There are numerous red flags about it. So we, fortunately, were able to see through SOS and Looksrare— they only work optically. So let's come up with something that works properly. That's what we're going for here to build. Are we going to take over all of the OpenSeas volumes? Probably not in the first year, but we need to take enough of it. And yeah, Ponzinomics are probably not the way to do it as we've seen; we have something much more sustainable.
 
 **Ryan:** We're more interested in effective incentives that create a healthy marketplace and not 2 minutes of marketing hype because we're doing volume that will not last long. That's my two cents.
 
@@ -387,11 +387,11 @@ And essentially, it's not our decision. Right. The issue, though, is that it's n
 
 Yes, as long as you're the auctioneer, plug into it.
 
-**Tyler:** I'm going to do an auction with the Genesis FLUFF and his Queen wife and one of my Snoop Burrows like a 3 piece. And I'll just auction it, and everyone can bid what they want on it. That's the use case of the auctions. I can auction out my own collection. I was never going to sell the Genesis FLUF, but ultimately I are enough about the Universe, and I want the whole Fluffy Ecosystem to pay attention. So, yeah, I'm going to do that.
+**Tyler:** I'm going to do an auction with the Genesis FLUFF and his Queen wife and one of my Snoop Burrows like a 3 piece. And I'll just auction it, and everyone can bid what they want on it. That's the use case of the auctions. I can auction out my own collection. I was never going to sell the Genesis FLUF, but ultimately I care enough about Universe, and I want the whole Fluffy Ecosystem to pay attention. So, yeah, I'm going to do that.
 
 **Ryan:** I think I plan to create the 25th shirtless Charles through scrambling and then auction him off as a one of one. That should be fun.
 
-**Tyler:** I'm also working on auctions, which Transmental talked about today. So we'll figure that out. Ultimately, it doesn't make a difference because the money goes to the DAO.
+**Tyler:** I'm also working on auctions, which Transmental (Zach) talked about today. So we'll figure that out.
 
 **Algy:** I feel like I should know this. Are you guys saying that when I auction-like, let's say, an NFT that I own that I didn't make, or that I just already owned that has zero fees as well?
 
@@ -403,21 +403,21 @@ Yes, as long as you're the auctioneer, plug into it.
 
 **Ryan:** Anyone can sell whatever they want without fees on the auctions. But you do have to pay your collection royalties and whatever other royalties tied into that NFT. So it doesn't get around any of these royalties you're paying otherwise. But it doesn't have this 2.5% OpenSea fee or whatever marketplace fee Universe is charging. It does have the ability to be configured by the DAO, though. So in the future, if the DAO does decide to turn on fees for auctions, it could opt for a fee and maybe a fee lower than the Universe Marketplace, for example, to kind of stay true to that vision.
 
-**Algy:** What do you guys think about possibly eventually, like for maybe a V2 making a function where we made it possible for people to trade NFTs?
+**Algy:** What do you guys think about possibly eventually, like for maybe a V2 making a function where we made it possible for people to trade NFTs directly?
 
 **Tyler:** I don't think there's any reason we shouldn't do that because I think that will at least reduce some of the wash tradings. Are you talking about having an escrow that transfers when both sides are met?
 
-**Algy:** Yes. I don't know how exactly it would be set up, but I was saying, " Yeah, basically somebody.
+**Algy:** Yes. I don't know how exactly it would be set up.
 
-**Troy:** Could you put something in, and then both sides would agree and agree. And once both sides agreed, it would just activate. So it would be like an escrow.
+**Troy:** You can set it up where both sides need to agree. And once both sides agreed, it would just activate the contract. So it would be like an escrow.
 
 **Algy:** Exactly.
 
-**Troy:** And then it would like you would match it up. And if you said yes and the other person said yes, it would just flip it. Like the last person that hit yes would just pay the transaction fee for the swap.
+**Troy:** The last person that hit yes would pay the transaction fee for the swap.
 
-**Ryan:** So our contracts do support NFT swaps on the marketplace. I think the question is how you create a good user experience around NFT trading. I know a few others have tried their hand at it. I haven't seen anything that I like yet, and I think it is revolutionary, but I think innovation on that front would be awesome.
+**Ryan:** So our contracts do support NFT swaps on the marketplace. I think the question is how you create a good P2P user experience around NFT trading. I know a few others have tried their hand at it. I haven't seen anything that I like yet, and I think it is revolutionary, but I think innovation on that front would be awesome.
 
-**Zach:** I think it would be dope if you could if you went to somebody's page and they had a sick Escrow, and you had this marijuana that you thought was on the same level, rarity wise, you could click the little three dots and then submit NFT for trade, and if they accept it, then the transaction goes through.
+**Zach:** I think it would be dope if you could if you went to somebody's page and they had a sick Escrow, and you had this Marijuana that you thought was on the same level, rarity wise, you could click the little three dots and then submit NFT for trade, and if they accept it, then the transaction goes through.
 
 **Tyler:** But that seems like the easiest shit in the world. I don't know how nobody's built that properly. Maybe they're trying to build it where you're swapping, and they're trying to figure out how much it's worth. But Troy is right. You just have a vault that they go to. It custom creates a vault, and then both sides have to hit approve, and then it swaps it. If one side is declined, then it just goes back. They send it back to each other's wallets.
 
@@ -439,11 +439,17 @@ Yes, as long as you're the auctioneer, plug into it.
 
 **Tyler:** Okay, cool. Well, yeah, it's not going to be there at launch, everybody. But you can expect it, probably.
 
-**Algy:** Another thing that I also have, I think I've talked to you guys about being interested in, is something that OpenSea used to do is allow people to make private sales with no fee. They took it away; when they took it away, what ended up happening was that people started using these alternate sites to trade on. In my opinion, it is best to allow people to make private sales on our website for no fees. What ended up happening to OpenSea is they ended up having to shut down many board apes and expensive NFTs that they had just kept trading and allowed the private sales to go on these NFTs that would not have got turned off, would have probably overall made they don't have a DAO. But let's say for us as a DAO, it would generate more revenue to the DAO than forcing people to go on another website and potentially having to deal with them getting scammed. I don't know. I've said that, in my opinion, just from my experience, I think OpenSea backfired on them a lot because a lot less people are able to, not a lot less people, but a lot of NFTs have gotten turned off.
+**Algy:** Another thing that I also have, I think I've talked to you guys about being interested in, is something that OpenSea used to do is allow people to make private sales with no fee. 
 
-That would have generated the protocol more money, and it just created problems for people. So, yeah, in my opinion, we also should have a situation where people can make private sales for zero fees because, I mean, private sales don't happen that often. And if they are going to happen, they're going to happen. There's not a way around it. So it might as well just make a safe experience for people to get that done so that we don't have to deal with somebody stealing their NFT.
+They took it away; when they took it away, what ended up happening was that people started using these alternate sites to trade on. 
 
-**Troy:** I agree. I agree 100% of that just because having stuff like that, I mean, that just plays into our whole ethos. Right? We don't take fees on the auctions. That just makes total sense.
+In my opinion, it is best to allow people to make private sales on our website for no fees. What ended up happening to OpenSea is they shut down many Bored Apes and expensive NFTs that had kept trading through private sales— they lost the power to turn them off with private sales. 
+
+Let's say for us as a DAO, it would generate more revenue to the DAO than forcing people to go on another website and potentially having to deal with them getting scammed. I don't know. I've said that, in my opinion, just from my experience, I think OpenSea backfired on them a lot because a lot less people are able to, not a lot less people, but a lot of NFTs have gotten turned off.
+
+That would have generated the protocol more money, and it just created problems for people. So, yeah, in my opinion, we also should have a situation where people can make private sales for zero fees because, I mean, private sales don't happen that often. And if they are going to happen, they're going to happen. There's no way around it. So it might as well just make a safe experience for people to get that done so that we don't have to deal with somebody stealing their NFT.
+
+**Troy:** I agree. I agree 100% that we should have stuff like that, I mean, that just plays into our whole ethos. We don't take fees on the auctions. That just makes total sense.
 
 **Algy:** Yeah. Nice. I'm glad we are on the same page on that.
 
@@ -453,16 +459,15 @@ That would have generated the protocol more money, and it just created problems 
 
 **Ryan:** But that would require integration, partners, and people building out curated marketplaces. Of course.
 
-**Tyler:** Yeah, but that's whom we're talking with. We're talking with the JPEG guys. We're talking with Fractional; we're talking with Enter DAO is going to do it. They help build the Universe.
+**Tyler:** Yeah, but that's whom we're talking with. We're talking with the JPEG guys. We're talking with Fractional; we're talking with Enter DAO. They are thinking of doing it. They help build Universe.
 
 **Ryan:** They can all hook in. They can put up their fee, whatever they want to charge on their funds, and the DAO gets their 1.5% or whatever DAO fee ends up being voted on.
 
-
-**Ryan:** My friends endearingly called the Polymorphs, Chuba Punks, and I always feel good when they say that. Maybe a year ago, not at first, but now they're always texting me about the Chuba Punks. And I'm like, I love you guys.
+**Ryan:** My friends endearingly called the Polymorphs, Chuba Punks, and I always feel good when they say that. Maybe a year ago, not at first, but now they're always texting me about the Chuba Punks. And I'm like, I love you guys. 💙
 
 **Algy:** You didn't get one.
 
-**Tyler:** What are Cuba Punks?
+**Tyler:** What are Cuba Punks? 
 
 **Ryan:** No, I'm saying my friends call the Polymorphs— Chuba Punks.
 
@@ -474,7 +479,7 @@ That would have generated the protocol more money, and it just created problems 
 
 **Algy:** No, they can trademark the word Crypto Punk, but they can't trademark the word punk.
 
-**Ryan:** Interesting.
+**Ryan:** Interesting. 🤔
 
 **Tyler:** I don't know. They might be able to.
 
@@ -482,7 +487,7 @@ That would have generated the protocol more money, and it just created problems 
 
 **Tyler:** I don't know, but I think we can name it a Chuba Punk.
 
-**Algy:** Polymorph. Let's name it a Polymorph. This is how we came up with the name Polymoprh. So you're about to name it a Chuba Punk.
+**Algy:** Polymorph. Let's name it a Polymorph. This is how we came up with the name Polymorph.
 
 **Ryan:** They really should be— George Punks, but that's okay.
 
@@ -496,11 +501,15 @@ That would have generated the protocol more money, and it just created problems 
 
 **Algy:** If you want to talk to George, you can join the Enter DAO AMAs.
 
-**Ryan:** So people are comminting on the private sales and whether it makes sense to offer no-fee private sales. You can argue that the services of the marketplace match buyers and sellers. So if you already have a buyer and seller, the DAO can, I guess, for free offer the ability to trust us to make that exchange. But there is an argument that should only take fees for matches, that it helps facilitate where you didn't know the buyer or seller before agreeing. I can see both arguments, but I also don't think that having felt private listings takes a big hit out of the overall whatever fees the DAO would be earning.
+**Ryan:** So people are commenting on the private sales and whether it makes sense to offer no-fee private sales. You can argue that the services of the marketplace match buyers and sellers. So if you already have a buyer and seller, the DAO can, I guess, for free offer the ability to trust us to make that exchange. But there is an argument that should only take fees for matches, that it helps facilitate where you didn't know the buyer or seller before agreeing. I can see both arguments, but I also don't think that having felt private listings takes a big hit out of the overall fees the DAO would be earning.
 
-**Algy:** It just prevents people from getting scammed is the bigger thing. Of course, it would help the DAO, I guess, to take the fee, but overall, the bigger thing is it's just not looking at the bigger picture. It's just looking at it through a microscope. You have to understand that if we have to turn off NFTs, that is going to lose us more money than taking the fee on these private sales. Most people don't do private sales. I've collected over 200 NFTs, and I join the discord every time I buy a new NFT and participate. So I'm trying to consolidate nowadays into ones I believe in. But there already are places to do feeless trading, and there's no community where everyone's like, let's avoid the fee. Everybody trades through the discord. That just doesn't happen. Most people are lazy, and I'm trying to snipe the best deal. Also, many people list on the floor. People aren't very confident is another thing. They don't want to go into the Discord and say let's create a private sale.
+**Algy:** It just prevents people from getting scammed is the bigger thing. Of course, it would help the DAO, I guess, to take the fee. 
 
-Because they don't even talk, they don't even say hey in the discord; they just look for the announcements. So that isn't something that I think is a good argument because that's not what will happen. There's not going to be a revolution where every person is we're only going to make private sales. Even if that did happen, I would be so impressed that I would not care that much anyway. That would just be impressive. Honestly.
+You have to understand that if we have to turn off NFTs, that is going to lose us more money than taking the fee on these private sales. Most people don't do private sales. I've collected over 200 NFTs, and I join the Discord every time I buy a new NFT and participate. So I'm trying to consolidate nowadays into ones I believe in. But there already are places to do feeless trading, and there's no community where everyone's like, let's avoid the fee. Everybody trades through the Discord. That just doesn't happen. Most people are lazy, and I'm trying to snipe the best deal. Also, many people list on the floor. People aren't very confident is another thing. They don't want to go into the Discord and say let's create a private sale.
+
+Because they don't even talk, they don't even say hey in the Discord; they just look for the announcements. 
+
+So that isn't something that I think is a good argument because that's not what will happen. There's not going to be a revolution where every person is only going to make private sales. Even if that did happen, I would be so impressed that I would not care that much anyway. That would just be impressive. 
 
 **Ryan:** There was another argument, Algy; you made for this before. I'm trying to remember exactly how you made it. I guess if I remember.
 
@@ -508,35 +517,39 @@ Because they don't even talk, they don't even say hey in the discord; they just 
 
 **Ryan:** The amount of money that we could lose if we turn off these NFTs can be much greater than the fees collected on the private sales because of the number of users getting scammed on these private listings.
 
-**Algy:** Overall, it will allow a better continuing flow, not having as many issues with people. It was greedy when OpenSea turned off. They had it off at the beginning, and it was because it made sense. They turned it on because they got greedy, in my opinion. I mean, how else could you argue? When they did that, it messed up what they had going because now they are constantly dealing with scams, and they don't want to admit they were wrong, so they don't turn it back off. 
+**Algy:** Overall, it will allow a better continuing flow, not having as many issues with people. It was greedy when OpenSea turned off. They had it on at the beginning, and it was because it made sense. They turned it off because they got greedy, in my opinion. I mean, how else could you argue? When they did that, it messed up what they had going because now they are constantly dealing with scams, and they don't want to admit they were wrong, so they don't turn it back on. 
 
-**Ryan:** Somebody goes, maybe one day we might contact message an NFT holder. Prior to the exchange, I used to like Mint Polygon NFT to try to reach people if there was no other way of accessing a communication channel with them. I know there's an email now and a few other things, but I think that's still the best way to contact NFT holders. Just make them a polygon NFT and send it over to them.
+**Ryan:** Somebody goes, maybe one day we might contact message an NFT holder— prior to the exchange. 
 
-**Troy:** Are you using email?
+I used to like Mint Polygon NFT to try to reach people if there was no other way of accessing a communication channel with them. I know there's an ethmail now and a few other things, but I think that's still the best way to contact NFT holders. Just make them a polygon NFT and send it over to them.
+
+**Troy:** Are you using ethmail?
 
 **Ryan:** No, not that I'm aware of. I have one email in there that somebody sent me. I have no idea why they sent me an email or how they found my address.
 
-**Troy:** We looked into using that as a way to give out. People could have Barnbridge email accounts and stuff. We always thought that would be a cool way to decentralize DAO communications. But that was almost over a year ago. I was just curious if someone had actually or if people had caught on to if that was like a usable system.
+**Troy:** We looked into using that as a way to give out email accounts. People could have Barnbridge email accounts and stuff. We always thought that would be a cool way to decentralize DAO communications. But that was almost over a year ago. I was just curious if someone had actually or if people had caught on to if that was like a usable system.
 
-**Ryan:** No, there's a new system that came out that doesn't have ENS support that and you definitely can't do subdomain support. Maybe they could look at it. I don't know what their tech looks like or how upgradable their contracts are. I know like yes, I'm sorry, I was going to say ENS is upgradable. So you don't own your ENS domains like this could always be pulled in a contract upgrade or something. So I don't know how to like whether it's the same situation.
+**Ryan:** No, there's a new system that came out that doesn't have ENS support that and you definitely can't do subdomain support. Maybe they could look at it. I don't know what their tech looks like or how upgradable their contracts are. I know ENS is upgradable. So you don't own your ENS domains like this could always be pulled in a contract upgrade or something. So I don't know how to like whether it's the same situation.
 
-**Troy:** Yeah, I don't know—kind of an interesting way that you could create in the Universe front-end. You could create a mailing system through it. But you said there are probably some problems there.
+**Troy:** Yeah. I don't know— it's kind of an interesting concept, you could create with the Universe front-end. You could create a mailing system through it. But you said there are probably some problems there.
 
-**Algy:** Hey everybody, I'm going to hop too.
+**Tyler:** Hey everybody, I got to hop because I need to get dinner before I get other calls this evening. I love all of you. 💚
 
-**Tyler:** I got to hop because I need to get dinner before I get other calls this evening. I love all of you.
+**Troy:** I'm going to hop too! 
 
-**Troy:** Yeah, we love you guys.
+Yeah, we love you guys. 💚
 
-**Tyler:** Talk to you guys later.
+**Algy:** Talk to you guys later.
 
 **Troy:** 69Charles all lower case
 
-**Ryan:** Charles70 is the code talk to you.
+**Ryan:** Charles70 is the code— talk to you all soon.
+
+**Tyler:** I thought it was Chuba Punk? 🤔
 
 **Troy:** Damn it. I don't remember.
 
-**Tyler:** I forgot, but yeah, I'm pretty sure it was Chuba Punk,
+**Tyler:** I forgot, but yeah, I'm pretty sure it was Chuba Punk.
 
 **Troy:** Chuba Punk. Yeah, that sounds right.
 
@@ -544,9 +557,11 @@ Because they don't even talk, they don't even say hey in the discord; they just 
 
 **Troy:** Later.
 
-**Tyler:** Peace.
+**Tyler:** Bye everyone! 
 
-**Algy:** All right, bye guys. Yeah, we're all hoping.
+**Ryan:** Peace. ✌️
+
+**Algy:** All right, bye guys. We're all hoping. 👋🐰
 
 
 
