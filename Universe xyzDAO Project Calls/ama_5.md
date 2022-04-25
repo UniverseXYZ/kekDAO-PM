@@ -420,11 +420,9 @@ You can make any collection and mint on the Universe Contracts. They're up and w
 
 Thank you for the question; team off.
 
-**Algy:** We'll have other minting features. Any idea that you probably thought of? We probably thought of it, but drop it if you want other features for the minting; let us know what you want those to be.
+**Algy:** We'll have other minting features. Any idea that you probably thought of...we probably thought of it, but drop it if you want other features for the minting; let us know what you want those to be.
 
-**Mark:** Is it through the app? I don't think we have an app. So if you're using a Universe App, maybe send it to me because I don't think it's our app. Oh, the POAP.
-
-Yeah. It's through the POAP app. It's through POAP. But I think you have to DM the bot.
+**Mark:** You have to DM the bot and it works through the POAP app.
 
 You go to Universe category and then POAP claim. It looks like people are typing questions, so we'll extend this a little bit, we'll answer when Universe Marketplace sale of hopefully it's March 5.
 
