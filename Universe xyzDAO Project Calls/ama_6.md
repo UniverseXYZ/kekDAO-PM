@@ -34,7 +34,9 @@ The DAO has too launch the protocol. If it gets delayed in any capacity, it's no
 
 **Mark:** I am looking for new questions that we didn't answer. 
 
-We don't have too many questions. If anybody has questions, they can come up and ask them directly, or you can type them in the Pre AMA channel. ☎️
+We don't have too many questions. 
+
+If anybody has questions, they can come up and ask them directly, or you can type them in the Pre AMA channel. 🖖
 
 ### **Question: TaeKwonKrypto**
 
