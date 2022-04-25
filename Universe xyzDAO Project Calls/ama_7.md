@@ -19,7 +19,7 @@ Attendees: Mark Ward, Tyler Ward, Troy Murray, Ryan Shtirmer, Algernon (Young Al
 
 ## Intro
 
-## Marketplace [[]]() 🖼
+## Marketplace [[00:04]](https://youtu.be/1q0eM9tKe_o?t=4) 🖼
 
 **Mark:** The main update in the Marketplace is coming in the next few days. We will try our best to deploy the contracts and then create a DAO vote to launch the protocol. Our goal is to do that within the next few days. I'm not going to give an exact date. 
 
@@ -27,7 +27,7 @@ Attendees: Mark Ward, Tyler Ward, Troy Murray, Ryan Shtirmer, Algernon (Young Al
 
 **Troy:** Let me put it this way. We are forming the proposal right now, and we plan on putting it in on Friday. So we're there, people.
 
- ## Pre AMA Question [[]]() ❓
+ ## Pre AMA Question [[01:06]](https://youtu.be/1q0eM9tKe_o?t=66) ❓
 
 ### **Question: Resistance**
 
@@ -231,7 +231,7 @@ A lot of requests have come through the support. We have been taking feature req
 
 **Mark:** Dima has been working on this, and I think we will be able to make that happen, but not right away when it launches. It'll come through as we scale everything and get everything attached. I don't think we have any more questions.
 
-## Feature Set
+## Feature Set [[27:27]](https://youtu.be/1q0eM9tKe_o?t=66)
 
 **Rayne:** Along with feature request stuff, I'm working a lot on putting together community checklists and guides that can be used to make your way through the ecosystem. I also want to work on standards and terms used frequently and consistently so everyone is on a similar page.
 
