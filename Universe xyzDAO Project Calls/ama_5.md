@@ -304,15 +304,13 @@ We cannot control that outside of incentivizing. That's up to thousands of peopl
 
 **Nick:** Any of my NFTs are getting listed for a ridiculous price. I'm going to list all my NFTs. If you buy them, thank you very much.
 
-**Algy:** There you go, buy Nicks's NFTs.
+**Algy:** There you go, buy Nick's NFTs.
 
-**Fluffer Nutter:** I will list the NFTs on Universe that I have on Opensea instead. 
+**Fluffer Nutter:** I will list my NFTs on Universe instead of Opensea. 
 
-I guess I didn't have enough time to type everything. But I think just the general atmosphere and the NFT space right now is that there have been all these new marketplaces that come out, and I think at this point, people are hesitant. But people also know about Universe and know it's been getting built a long time. 
+I guess I didn't have enough time to type everything. But I think the general atmosphere of the NFT space right now is that there have been all these new marketplaces that come out, and I think at this point, people are hesitant. But people also know about Universe and know it's been getting built a long time. But, at this exact moment, I wonder, how do we incentivize people to list? Because if we go and tell people to list, list, list— on the Universe platform, I think people will be hesitant to do that. I mean, at a certain point.
 
-At this exact moment, I wonder, how do we incentivize people to list? Because if we go and tell people to list, list, list— on the Universe platform, I think people will be hesitant to do that. I mean, at a certain point.
-
-**Add Speaker:** Tyler, it might be better if you talk on Marks MIC because you're cutting in and out.
+**Nick:** Tyler, it might be better if you talk on Marks MIC because you're cutting in and out.
 
 **Mark:** No, he was. I was on mute, and he didn't know.
 
@@ -320,75 +318,87 @@ At this exact moment, I wonder, how do we incentivize people to list? Because if
 
 I did not integrate my wallet with X2Y2, whatever the platform's name because there is a delegate call function that they could be malicious. I mean, I don't know who's building it. I'm not saying anything about their character. I just read the Smart Contracts. But I think we will be in a different situation than people in the industry who know us and trust us. So you're not operating off of this random anon thing that I'm allowing and giving permissions to. So while I hear what you're saying, I think we probably are in a situation. And I believe that the community that is listening to this call if they push all their friends to do it, this is most likely a safer situation.
 
-**Mark:** It goes back to the same argument of what is better, organic growth or paying influencers to do something. Everyone hates the influencers. But that's how some of us look at this incentivization stuff. If you build a platform that's good enough, they will come. Our platform fees are lower than OpenSea. They're competitively lower than any other marketplace that exists. Our auction house has 0% fees. Honestly, if you're a collector, you'll want to earn more money. So that's the incentive right there. We will give you 100% if you're an artist, and there's your incentive there. And also we're going to be building a beautiful technology. Most people don't even know how decentralandized NFTs are. Universal is striving to make NFs completely decentralandized where they live on-chain forever. And I think that is enough incentive for artists to trust that their work will live forever on the blockchain and not have to worry about an OpenSea type character taking down their work because it's not something that goes with their ethos or something along those lines.
+**Mark:** It goes back to the same argument of what is better, organic growth or paying influencers to do something. Everyone hates the influencers. But that's how some of us look at this incentivization stuff. If you build a platform that's good enough, they will come. Our platform fees are lower than OpenSea. They're competitively lower than any other marketplace that exists. Our auction house has 0% fees. 
 
-**Tyler:** Later, if we think we need incentives later, we can add them like that.
+Honestly, if you're a collector, you'll want to earn more money. So that's the incentive right there. We will give you 100% if you're an artist, and there's your incentive there. And also we're building a beautiful technology. Most people don't even know how decentralized NFTs can get. Universal is striving to make NFs completely decentralized where they live on-chain forever. And I think that is enough incentive for artists to trust that their work will live forever on the blockchain and not have to worry about an OpenSea type character taking down their work because it's not something that goes with their ethos or something along those lines. 🗝
 
-**Algy:** Also, out of the gate.
+**Tyler:** Later, if we think we need incentives later, we can add them like X2Y2.
 
-**Tyler:** Out of the gate. They didn't do incentives, and then they realized they needed a very good chance that we could launch without incentives and get market share organically. And then what do we give all these incentives away? There was no reason to do it. But you can't take incentives back. But we can launch this, let it organically happen where we're at, and then come up with a game plan to do better. So because we don't need to do it out of the gate, we can see where we're. Then I think that we let it iteratively grow and see where we're standing, and then we make a plan. Right now, we're operating off of assumptions, and no one on this question is the right way to do it. But what we do know is that we'll know more 3 weeks from now than we know right now. So when we get more data, we'll have a better picture.
+Out of the gate. They didn't do incentives, and then they realized they needed them. Theres a very good chance that we could launch without incentives and get market share organically. And then why do we give all these incentives away? There was no reason to do it. You can't take incentives back. 
 
-**Fluffer Nutter:** Those are good. Also, let me say one more thing, and then I'll stop. While you guys were talking, I realized that you have a lot going for you. The Looks Rare team sold all of their profit. You guys are a DAO. All your money is going into the DAO. Then also, the reason that I stopped selling my NFTs is that I don't feel safe in the NFT space. What I think most people are looking for in the NFT space is a safe and secure platform that incentivizes enough. And I'm happy that nothing is being given to anyone because then I think that is even more organic. And honestly, I don't think people care about an airdrop anymore in the NFT space. They just want to operate and sell and trade their NFTs safely. I haven't sold in a month because I don't feel safe. So I appreciate your input. Thanks for letting me talk.
+We can launch this, let it organically happen and watch it, and then come up with a game plan to do better. Because we don't need to do it out of the gate, we can see where we are at. Then I think that we let it iteratively grow and see where we're standing, and then we make additional plans. We're operating off of assumptions, and no one on this question has the right way to do it. But what we do know is that we'll know more 3 weeks from now than we know at present. 
 
-**Tyler:** Well, that sucks.
+When we get more data, we'll have a better picture. 📸
 
-**Mark:** Love for Nutter. That honestly sucks for the NFT industry that you feel that way because I'm sure other people feel the same.
+**Fluffer Nutter:** Those are good. Also, let me say one more thing, and then I'll stop. While you guys were talking, I realized that you have a lot going for you. The LooksRare team sold all of their profit. You guys are a DAO. All your money is going into the DAO. 
 
-**Algy:** You guys got to remember that most people probably don't use Crypto and NFTs, and that number is probably over 90%. So all of us using it are ahead of the curve. Even our marketplace is taking a year of extra time to build. I still think we're way ahead of the market as far as NFTs go. There still aren't games released for these NFTs we trade; all people know about NFTs right now is trading images, and there's way more to do with NFTs than that. That's something people got to remember about the Universe. Most people don't use crypto because there's so much hate for it. People think it's a scam. If you look up on Google, crypto is it says crypto is a scam is the first thing people look at. And until this attitude towards crypto changes, which I think has to do with what Mark brought up about these influencers pumping and dumping, until that attitude towards crypto changes, I don't think we'll see the full potential of what it is. I think it will happen where it's all going to be based on more technology being built and making it more user-friendly.
+The reason that I stopped selling my NFTs is that I don't feel safe in the NFT space. What I think most people are looking for in the NFT space is a safe and secure platform— thats incentivizing enough. And I'm happy that nothing is being given to anyone because then I think that is even more organic. And honestly, I don't think people care about an airdrop anymore in the NFT space. They just want to operate and sell and trade their NFTs safely. I haven't sold in a month because I don't feel safe. So I appreciate your input. Thanks for letting me talk. 💙
 
-You can see that Metamascardi has made attempts since this OpenSea thing to warn people more about signing stuff. As the space grows, I don't think that there's any. What I'm saying is one of the questions was, What if people don't switch over from OpenSea? I don't think that matters at all, honestly, just because most of the users that are going to be using NFTs in the future long term don't use NFTs right now.
+**Mark:** Well, that sucks. That honestly sucks for the NFT industry that you feel that way because I'm sure other people feel the same.
 
-**Mark:** Explain why it doesn't matter a very important role in the NFT space. They help onboard people the same way Coinbase does. They're a Fia on-ramp for NFT. You can buy a Board Ape with your credit card. If you have a million-dollar credit limit, you can buy an NFT with your credit card. You don't have to be a crypto savant. That's good for the industry. We need Coin bases; we need OpenSeas. But what Aly is saying is we are still just so early. When you see the whole space scale, it's not going to matter because the whole DeFi side of crypto, the whole DeFi side of finance, is expanding, but it still has so many fewer users. But over time, this is a paradigm shift in the way of thinking of why people are drawn towards Ethereum, and these Decentralandized technologies are they want to be their bank. It sucks that many people in NFTs don't understand that, and artists don't want to be their bank. So we need to focus on education for NFT people because many of them skipped over DeFi.
+**Algy:** You guys got to remember that most people probably don't use Crypto and NFTs, and that number is probably over 90%. 
 
-But you have to look at how the growth opportunity of the market. It's okay if OpenSea kept all its users; in 2 years, ten to 15 million users will be buying NFTs. Right now, there's hardly 1 million. So when you think about the growth potential of the entire network, as long as you can capture new market share, you don't have to worry so much about the old market share because there's just so much opportunity coming forward.
+All of us using it are ahead of the curve. Even our marketplace is taking a year of extra time to build. I still think we're way ahead of the market as far as NFTs go. There still aren't games released for these NFTs we trade; all people know about NFTs right now is trading images, and there's way more to do with NFTs than that. That's something people got to remember about Universe. Most people don't use crypto because there's so much hate for it. People think it's a scam. 
 
-**Tyler:** Also, in the state where we're dropping right now, I am concerned using a lot of these platforms. That's why I looked here. I haven't used that other platform. When the Phishing attack was going on with OpenSea, they weren't 100% sure where the attack was coming from. I think that the NFT markets that come into the market continue to do well. There's a reason that Lindy effects exist in crypto networks and are so strong because people trust compound more than cream. After all, compound has been in the market longer. They had one thing that affected them negatively. At one point, funds at the protocol level weren't lost. I think people out of the gate will trust us more than us. And I believe that OpenSea has earned that. I believe when Coinbase launches a platform, people will trust that platform because Coinbase has earned that.
+If you look up on Google, crypto— it usually says crypto is a scam, that's the first thing people look at. And until this attitude towards crypto changes, I don't think we'll see the full potential of what it is. I think it will happen where it's all going to be based on more technology being built and making it more user-friendly.
 
-**Mark:** I'm going to trust that. I trust Coinbase every day to help me manage my funds. There's no reason I wouldn't trust them. They manage my NFT.
+You can see that Metamask has made attempts since this OpenSea thing to warn people more about signing stuff.  What I'm saying is one of the questions was, What if people don't switch over from OpenSea? I don't think that matters at all, honestly, just because most of the users that are going to be using NFTs in the future long term don't use NFTs right now.
 
-**Tyler:** But the point is that I think the more people trust the platform, and also, because of the vulnerability issues, I don't believe that it's ethical for us to encourage everybody to the platform. Day one is good to have over and move over. And then I think that we incentivize things long-term downstream. But ultimately, we are much code, and I think we need to let it roll out. We need to allow users to use the platform. And then, over time, if we need to implement incentives, we have that ability. So I think that we roll it out and let people start using it. We've audited the crap out of this, building it for a long time. I think the industry is waiting for what we made. I want users, and it sounds like other people do, too. So let's roll it out and get worried about incentives later.
+**Mark:** I'll explain why it doesn't matter— Opensea has a very important role in the NFT space. 
 
-**Mark:** Okay? I don't think we have any more questions, so if anyone has anymore in the Pre AMA chat.
+They help onboard people the same way Coinbase does. They're a fiat on-ramp for NFT. You can buy a Bored Ape with your credit card. If you have a million-dollar credit limit, you can buy an NFT with your credit card. You don't have to be a crypto savant. That's good for the industry. We need Coinbases; we need OpenSeas. But what Aly is saying is we are still just so early. When you see the whole space scale, it's not going to matter because the whole DeFi side of crypto, the whole DeFi side of finance, is expanding, but it still has so many fewer users. But over time, this is a paradigm shift in the way of thinking of why people are drawn towards Ethereum, and these decentralized technologies, and why they want to be their bank. 
 
-## POAP
+It sucks that many people in NFTs don't understand that, and artists don't want to be their bank. So we need to focus on education for NFT people because many of them skipped over DeFi.
 
-**Algy:** No, don't type it in the chat. Okay? You got to go to the POAP claim channel under the Universe category and follow the directions. The POAP distribution event is now active. DM me to get your POAP. DM POAP bot and poke claim under the Universe category xyzrunner, all lowercase if you want the POAP.
+But you have to look at how the growth opportunity of the market. It's okay if OpenSea kept all its users; in 2 years, ten to 15 million users will be buying NFTs. Right now, there's hardly 1 million. So when you think about the growth potential of the entire network, as long as you can capture new market share, you don't have to worry so much about the old market share because there's just so much opportunity going forward.
+
+**Tyler:** Also, in the state where we're dropping right now, I am concerned using a lot of these platforms. 
+
+That's why I looked here. I haven't used that other platform. When the Phishing attack was going on with OpenSea, they weren't 100% sure where the attack was coming from. I think that the NFT markets that come into the market continue to do well. There's a reason that Lindy effects exist in crypto networks and are so strong. People trust Compound more than Cream. After all, Compound has been in the market longer. They had one thing that affected them negatively. At one point, funds at the protocol level weren't lost. I think people out of the gate will trust us more than us. And I believe that OpenSea has earned that. I believe when Coinbase launches a platform, people will trust that platform because Coinbase has earned that.
+
+**Mark:** I'm going to trust that. I trust Coinbase every day to help me manage my funds. There's no reason I wouldn't trust them to manage my NFTs.
+
+**Tyler:** But the point is that I think more people trust the platform. And also, because of vulnerability issues, I don't believe that it's ethical for us to encourage everybody ape the platform day one. It's good to release slowly and encourage users to move over. Then I think that we incentivize things long-term downstream. But ultimately, we are releasing a ton of code, and I think we need to let it roll out. 
+
+We need to allow users to use the platform. And then, over time, if we need to implement incentives, we have that ability. So I think that we roll it out and let people start using it. We've audited the crap out of this, building it for a long time. I think the industry is waiting for what we made. I want users, and it sounds like other people do, too. So let's roll it out and get worried about incentives later.
+
+**Mark:** Okay? I don't think we have any more questions.
+
+## POAP [[46:16]](https://youtu.be/hJde3E-fuB4?t=2776) 🎁
+
+**Algy:** No, don't type it in the chat. 
+
+You got to go to the POAP claim channel under the Universe category and follow the directions. 
+
+> The POAP distribution event is now active. DM me to get your POAP. 
+
+DM POAP bot via poap-claim under the Universe category; **xyzrunner**, all lowercase if you want the POAP.
 
 **Mark:** I always hate when you guys make me do this. I have to undo my DMs, and then I get a million DMs.
 
-**Algy:** Maybe we should never mind. We'll leave it in the call this time. But next time, we will wait until we end the call and give the POAP. You're only going to get the POAP in the call.
+**Algy:** Next time, we will wait until we end the call and give the POAP. You're only going to get the POAP in the call.
 
-**Mark:** What the f__k? It's not working for me, guys.
+**Mark:** What the heck? It's not working for me, guys.
 
-**Algy:** Or do you think it's good to leave it in the video and leave it timed for a bit after so that people in other times?
+**Algy:** Or do you think it's good to leave it in the video and leave it timed for a bit after so that people in other timeszones can claim?
 
 **Mark:** What's the word?
 
-**Algy:** The word?
-
-**Mark:** I'm getting this.
-
 **Algy:** The word is thin mints, all lower case.
 
-**Mark:** Thank you, Transmental, for doing the POAP art. We mess with the polymorphs.
+**Mark:** Thank you, Transmental, for doing the POAP art. We mess with the Polymorphs. 🤡
 
-**Algy:** Yeah, the polymorphs are the coolest thing.
+**Algy:** Yeah, the Polymorphs are the coolest thing.
 
-## Clown Charles
+## Clown Charles [[48:19]](https://youtu.be/hJde3E-fuB4?t=2899) 🤡
 
-**Mark:** Okay, I'm going to send a little tweet on the channel so that everyone can see it. But I want everyone to know who Clown Charles is because it was revealed today.
+**Mark:** Okay, I'm going to send a little tweet on the channel so that everyone can see it.
+
+I want everyone to know who Clown Charles is because it was revealed today.
 
 **Algy:** Oh, no. Yeah. If you didn't know who Clown Charles was, look, it's hilarious.
 
-**Tyler:** If you don't know who Clown Charles is, get off of YouTube if you're listening to this later and read Charles.
-
-**Mark:** Okay, but if you're on YouTube, go to UniverseXYZ DAO and hit, like, and subscribe. Follow us. We have a sick YouTube channel. We post all our AMAs and our project calls. So get on that.
-
-**Algy:** Faces. The polymorphic faces are going to be lit. So is Temple. So is Goblin Town. Yeah, the following ones will go into therapy.
-
-**Mark:** Yeah, you guys don't even want to know that I'm not ready.
-
-**Tyler:** All right, let's go back to it.
+**Tyler:** If you don't know who Clown Charles is, get off of YouTube if you're listening to this later and read the Clown Charles account.
 
 **Mark:** I think we're good if there are no more questions. Wait, hold on. There were some questions. 
 
@@ -402,7 +412,11 @@ What is the code?
 
 ## Translate Calls and Docs & Education
 
-**Mark:** Also Knowledgeable Idiot is going to start trying to get our calls and our docs transcribed into different languages. So if anybody has requests or specific languages that they'd like to see, one of the first ones that we'll focus on is Spanish because we think that there's not a ton of Spanish documentation on NFT tech. But, yeah, we're going to try and expand because NFT education is something that we're super focused on. I mean, not like focused on, but it's super important that we educate the masses and get good information. And if that means we need to translate our docs. We want to do that because we want to help and facilitate anybody in all cultures because NFTs are for everyone, and we want to be able to help and teach everyone about this. Are we all free to use the mint feature and create collections right now? Yeah, you can make any collection and mint on the Universe Contracts. They're up and working, and we will continue to add features to them, but they're safe to use as of right now. They're good, and they're immutable. They're sick.
+**Mark:** Also [Knowledgeable Idiot](https://twitter.com/raynemang) is going to start trying to get our calls and our docs transcribed into different languages. 
+
+If anybody has requests or specific languages that they'd like to see, one of the first ones that we'll focus on is **Spanish** because we think that there's not a ton of Spanish documentation on NFT tech. But, yeah, we're going to try and expand— NFT education is something that we're super focused on. I mean, not like focused on, but it's super important to us— we need to educate the masses and get good information. And if that means we need to translate our docs. We want to do that because we want to help and facilitate anybody in all cultures because NFTs are for everyone, and we want to be able to help and teach everyone about this. 
+
+You can make any collection and mint on the Universe Contracts. They're up and working, and we will continue to add features to them, but they're safe to use as of right now. They're good, and they're immutable. They're sick.
 
 Thank you for the question; team off.
 
@@ -410,26 +424,19 @@ Thank you for the question; team off.
 
 **Mark:** Is it through the app? I don't think we have an app. So if you're using a Universe App, maybe send it to me because I don't think it's our app. Oh, the POAP.
 
-Yeah. It'S through the POAP app. It's through POAP. But I think you have to DM the bot.
+Yeah. It's through the POAP app. It's through POAP. But I think you have to DM the bot.
 
-**Algy:** To find the bot.
-
-**Mark:** You go to Universe category and then POAP claim. It looks like people are typing questions, so we'll extend this a little bit, we'll answer when Universe Marketplace sale of hopefully it's March 5 is the day Somnia probably has one of those high IQ brains, and that's why he asked good questions. Without question, Mark, that's a high IQ. People do. Someone's going to write history. It's going to be Somnia.
-
-**Algy:** I met Somnia in real life I can confirm that he's chill.
-
-**Mark:** Jump 22 is having trouble with the POAP. I didn't have any trouble. I was good to claim, so maybe you're doing something wrong, homie, but maybe DM Zach and Zach may be able to help you. I don't even think there are 50 people in here, so there's no way.
+You go to Universe category and then POAP claim. It looks like people are typing questions, so we'll extend this a little bit, we'll answer when Universe Marketplace sale of hopefully it's March 5.
 
 I think we're good. I think we're out of questions. So thank you, everyone, for coming and joining our space. Thank you for the questions. Thank you for taking the time to go and listen to us. We wish everyone a great week, and marketplace is going to be launched on March 5.
 
-**Tyler:** We appreciate you, wild noodles.
+We appreciate you, wild noodles.
 
-**Mark:** Thank you, sir.
+Thank you, sir! 💙
 
 **Algy:** Bye. Bye. 👋
 
-**Mark:** Bye, everyone. ✌️
-
+**Nick:** Bye, everyone. ✌️
 
 
 
