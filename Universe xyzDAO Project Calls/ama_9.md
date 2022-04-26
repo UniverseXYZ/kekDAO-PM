@@ -14,25 +14,27 @@ Moderator: Mark Ward
 
 Scribe: Tammy M.
 
-Attendees: Mark Ward, Tyler Ward, Tim Kang, Troy Murray, Ryan Shtirmer, Dragos Rizescu, Cezar Paraschiv, Pavlo Bendus, Dmytro Dutka, Ilia Andreev, Zhivko Todorov, Stanislav Trenev, Andon Mitev, Algernon (Young Algy), Nick Ward
+Attendees: Mark Ward, Tyler Ward, Troy Murray, Ryan Shtirmer, Algernon (Young Algy), Nick Ward, Rayne Leach, Zach Owens
 
 ## Intro
 
-**Mark:** We'll start the AMA off and do it the same way we have been the last few weeks. We'll answer questions. Today we are giving access to the Marketplace. It is the beta.
+**Mark:** Today we are giving access to the Marketplace. It is the beta.
 
 **Tyler:** It's on the main net, and it is the live version of the Marketplace. If anybody goes on there and lists something for a ridiculous price and sells it, it will sell out of your real wallet. 
 
-**Mark:** The link is in the Pre AMA, and Tyler sent the password and username. I'll resend the link one more time, so everyone here has it. Copy and paste that. I don't know why I didn't post it as a link, but that's the link. So we're going to run back up to the top and answer these questions. 
+**Mark:** The link is in the Pre AMA, and Tyler sent the password and username. 
 
-## Pre AMA Questions ?
+I'll resend the link one more time, so everyone here has it. I don't know why I didn't post it as a link, but that's the link. Time to answer these questions. 
 
-### **Question:**
+## Pre AMA Questions [[]]() ❓
 
-James F asked; He was trying to understand when we would be able to use the Marketplace?
+### **Question: James F**
 
-#### **Answer:**
+When can we would be able to use the Marketplace?
 
-**Mark:** We were hoping it would be a few days ago, but it's today. We're giving access to everyone today. We feel it's in the right place to let the community start trying to use it. I think we've smoothed out the majority of all the bugs. All the contracts are working as designed, and we had a few things we needed to work on. One of them is that not all of the NFTs are showing up. Our back-end scraper is still catching up. It has to scrape the entire blockchain over 6 to 7 years. There are a lot of NFTs that it's scraping; it's scraping the new NFTs and going back in time at the same time.
+### **Answer:**
+
+**Mark:** It's today. We're giving access to everyone today. I think we've smoothed out the majority of all the bugs. All the contracts are working as designed. One thing— not all of the NFTs are showing up. Our back-end scraper is still catching up. It has to scrape the entire blockchain over 6 to 7 years. There are a lot of NFTs; it's scraping the present and the past at the same time.
 
 Some of your older NFTs probably aren't showing up. Some of the newer ones are. We're trying to go in and load as many NFT collections as we can that we know people are interested in right away, so we can prioritize them in the queue. We've already prioritized the top 230 all-time collections. So far, that's honestly what we have. But we feel we have a beta that is in good enough shape that everyone can start using it and start listings and buy NFTs there. We wanted to give early access to the people who joined this AMA today because we appreciate everyone who joins our AMAs.
 
@@ -56,15 +58,14 @@ Chuba, I can't hear you.
 
 We have some awesome, really cool custom minting contracts that people are going to be able to get creative with. So I'll leave it at that. We are going to add anything that you see grayed out. We have more features that you don't even see in the UI right now. So there's a lot to look forward to. It's just that we need to release it in steps. 
 
-### **Question:**
+### **Question: Resistance**
 
-So Resistance has a question; 
 1. Wen new UI for airdrop? 
 2. What is this collection about?
 
-#### **Answer:**
+### **Answer:**
 
-**Mark:** So we have the AirDrop UI done. We just haven't implemented it. We were going to do it a few weeks ago, and then we all got extremely busy with the Marketplace. It's just been the priority, and we have been focused on it. I'll try to get it launched next week, but I think the main focus is still going to be on the Marketplace. All we have to do is publish it. I just need to talk with Vahan and make sure that everything's up to date and good there.
+**Mark:** So we have the airdrop UI done. We just haven't implemented it. We were going to do it a few weeks ago, and then we all got extremely busy with the Marketplace. It's just been the priority, and we have been focused on it. I'll try to get it launched next week, but I think the main focus is still going to be on the Marketplace. All we have to do is publish it. I just need to talk with Vahan and make sure that everything's up to date and good there.
 
 We should be able to push that live.
 
@@ -82,7 +83,7 @@ If you're holding XYZ for the incentive of being, I want to vote and be rewarded
 
 Are there any plans to add additional ERC? Oh, wait a minute. I think I skipped over TaeKwonKrypto; How many days away before I can upload a comment cover and sell ERC 1155?
 
-#### **Answer:**
+### **Answer:**
 
 **Mark:** We're going to add ERC 1155. That's going to be something to come in one of the later iterations of the Marketplace. But like we said, we're starting with ERC 721 and some basic Marketplace features; there's more coming; it's done. We have to scale it out, build it out, and make sure that when we're releasing something and adding something, it's not going to break something else. We wanted to get something out sooner rather than later to everybody so they can start using something. But yes, 1155s are coming, and we're going to look at Layer 2 assets. Any plans to add ERC 20 tokens as payment options? Yes, we're starting with USDC ETH, Wrapped ETH, XYZ, and DAI. If people want to see tokens get added, we can run that through governance and get any token added that people want. I'm sure many people will want to see tokens like the Apecoin get added but let's make those decisions through governance.
 
@@ -106,7 +107,7 @@ A feature request form. James F, I tagged Rayne on your post, and he added a fea
 
 Do you plan on rewarding activities on the platform to boost its launch? It doesn't look like it, but better to ask. 
 
-#### **Answer:**
+### **Answer:**
 
 **Mark:** We have plans, but we have not publicly said what they are.
 
@@ -118,7 +119,7 @@ Do you plan on rewarding activities on the platform to boost its launch? It does
 
 What is Universe Singularity?
 
-#### **Answer:**
+### **Answer:**
 
 **Mark:** Multiverse Singularity is the name of our contract. It's the name we chose for the minting contracts. It was some sort of space thing. I forget exactly why we named it that. Anyone can mint to that contract. Otherwise, you have to create your own collection. When you create your own collection, you're creating your own minting contract that only you can mint too. Many people in the industry asked for this a year ago, so we did it, but it took us a little bit. It costs a little bit of money to deploy. The last time I was looking, it was $150 to $250 to deploy 1 of those contracts. But then, when you're minting to it, it's $30 depending on the qwei. If you want to mint directly to that Universe Contract, you can. It's like the Rariable Contract where you can just mint, and it's a Rariable NFT. It's not part of any collection. Could we add more messaging around the decentralization aspect?
 
@@ -132,7 +133,7 @@ I think many people would move their NFT over if some were messaging around it?
 
 I like how you gotchi incentivized voting by rewarding in Game XP for participation. (leading to in-game stat boosts). Something we can explore further once Polymorphs utility is deployed.
 
-#### **Answer:**
+### **Answer:**
 
 **Mark:** Interesting.
 
@@ -446,7 +447,7 @@ Okay, we answered this; Besides XYZ, Eth and Weth, what other currencies will be
 
 A view-only app means more work updating for team...  if uni Marketplace works well with browsers and continues to, then why? 
 
-#### **Answer:**
+### **Answer:**
 
 **Mark:** I don't think anyone's too worried about the app, but we'll talk about it as a community. 
 
@@ -454,7 +455,7 @@ A view-only app means more work updating for team...  if uni Marketplace works w
 
 What's the fee? How is the fee decided?
 
-#### **Answer:**
+### **Answer:**
 
 **Mark:** Then 1.69% is the fee for the Marketplace. We decided that because what better to do when you build a dope-a-- Marketplace and just put a cherry on top? That's a meme and just put a little 69. We were going to do 69420, but we wanted to make it simple.
 
@@ -466,7 +467,7 @@ What's the fee? How is the fee decided?
 
 What is the vesting schedule for the remaining tokens? 
 
-#### **Answer:**
+### **Answer:**
 
 **Mark:** I think it's 104 weeks, and we're in week 30. It hasn't even been a year. We'll say 30 something. Off the top of our head is what week we're in out of like 100-104. I don't think there's any incentive for using XYZ as a currency. We just wanted to make it an option because it's our token. Does anybody have any other questions? I think we have gotten to the end of our list. 
 
@@ -474,7 +475,7 @@ What is the vesting schedule for the remaining tokens?
 
 When decentralization video?
 
-#### **Answer:**
+### **Answer:**
 
 **Mark:** I'll talk to Ivan, and we'll see if we can get that cranked out in the next few weeks. And Zach and I will work on all that copy and get our Founders to review it and make sure everything is to T, and we will get that out to you guys.
 
@@ -482,7 +483,7 @@ When decentralization video?
 
 I have a question for someone. This lindy person asked something that I didn't understand. Access points to the wallet, Zapper, Rainbow Wallet, etc. All that. 
 
-#### **Answer:**
+### **Answer:**
 
 **Algy:** We're on Zapper already. I'm not saying that that's answering your question, but I'm wondering what is your vision for integration with Zapper or Rainbow Wallet? 
 
@@ -496,7 +497,7 @@ I have a question for someone. This lindy person asked something that I didn't u
 
 Will there be rarity charts for all collections or just universe collections?
 
-#### **Answer:**
+### **Answer:**
 
 **Tyler:** We should give a grant to the first project that builds and opens sources and documents, launching a custom Marketplace Universe. We should give a grant in XYZ, the first project.
 
@@ -506,7 +507,7 @@ Will there be rarity charts for all collections or just universe collections?
 
 How will you decide which NFTs show on the home screen? 
 
-#### **Answer:**
+### **Answer:**
 
 **Mark:** All right, this is something that we have not decided on as a team.
 
@@ -518,7 +519,7 @@ How will you decide which NFTs show on the home screen?
 
 Then your next question about; How projects will be verified? 
 
-#### **Answer:**
+### **Answer:**
 
 **Mark:** We're honestly not going to verify projects. We're going to start letting people. Hopefully, they're not. Nick, stop, bro. We're not verifying the projects. You're going to have to verify the contract address. We will not verify anyone in the first few months of this. If the community wants us to start verifying projects, we will vote. But we had this conversation before. We don't want to play favouritism. Also, we think that people need to be verifying contracts you want to verify a collection, check the chain because that's the safest and best way to do it. Learn how to read Etherscan and find a valid contract, and verify. You go into the Board Ape Discord. They have that contract address pinned.
 
