@@ -233,59 +233,65 @@ That'll be cool.
 
 What's your favourite feature that you're looking forward to on the Universe Marketplace?
 
-**Algy:** I just went to this FLUF event in Austin. I was able to link with a ton of Artists and Performers. I was able to educate so many big-name people and their management about how NFTs will work on Universe. How it's going to work is you're going to be able to mint if you're an artist and don't have Dev talent. Our goal is to eventually set up for you to be able to mint on decentralized contracts that you own. You'll be able to mint your NFTs in whatever way you want. You'll be able to do that easily with even a large amount of art. These tools will take time, but eventually, we want Artists to have a way to mint any drop they want and sell it however they want on our site. And if you're a big Artist and you want to do your one-on-one, you don't even have to worry about auctioning when you auction it; you don't have to worry about fees because there we also tools for artists.
+**Algy:** I just went to this FLUF event in Austin. 
 
-A good group has agreed that that will end up working well; we'll add these tools to the Universe, and then we'll leave them there for everyone to use. Specifically, I'm going to push for this regardless of what the team wants. I'll try to get proposals to have minting tools. I know the space well, and I know that Artists need this right now. There's no way for artists to do anything without a Dev. What are you going to do? Go release on OpenSea or pray that Nifty allows you to release your content. Even in that situation, you're on the centralized contracts, and then if you release through Rariable, you're paying fees on every NFT. So there needs to be some lazy minting process and more available options for artists to be able to release content. 
+I was able to link with a ton of Artists and Performers. I was able to educate so many big-name people and their management about how NFTs will work on Universe. You're going to be able to mint if you're an artist— without dev talent. 
 
-So many Artists have their best content, NFTs, that they are just saving because they don't want to release it and have to split the money because they don't know how to build a smart contract. That's not fair to an artist to expect them to have to hire a Dev team. Then they'll be able to sell these on our Auctions and get zero fees in that aspect. Then if I do want to do primary on a different way, I even want to do other ways that probably won't have zero fees. 
+Our goal is to have it set up so you can mint on decentralized contracts that you own. You'll be able to mint your NFTs in whatever way you want. Even with a large amount of art. These tools will take time, but eventually, we want Artists to have a way to mint any drop they want and sell it however they want on our site. And if you're a big Artist and you want to do your one-of-ones (1/1s), you don't have to worry about auctioning. When you auction; you don't have to worry about fees.
+
+A decent size group has agreed— that that will end up working well; we'll add these tools to the Universe, and then we'll leave them there for everyone to use. Specifically, I'm going to push for this regardless of what the team wants. I'll try to get proposals to have minting tools. I know the space well, and I know that Artists need this right now. There's no way for artists to do anything without a dev. What are you going to do? Go release on OpenSea or pray that Nifty allows you to release your content. Even in that situation, you're on the centralized contracts, and then if you release through Rarible, you're paying fees on every NFT. There needs to be some lazy minting process and more available options for artists to be able to release content. 
+
+So many Artists have their best content ready for NFTs, they are waiting because they don't want to release it and have to split the money because they don't know how to build a smart contract. That's not fair to an artist to expect them to have to hire a dev team. Then they'll be able to sell these on our Auctions and get zero fees in that aspect. Then if I do want to do primary on a different way, I even want to do other ways that probably won't have zero fees. But, I would like to see other ways of having primary sales.
 
 I would try to push for a proposal, and those types of things are things I want, and I think we are all aligned on that. We all want there to be tools for artists, and that's the whole point of Universe, from my understanding of the Founders, the reason they created it.
 
 **Mark:** It's all about the artists. That was our approach. The collectors are important too, but I think we did have more so the artists and collectors in mind, and some people ask why we launched minting first. It aligned with our original plan that we wanted to build tools for artists, and minting contracts and custom minting contracts are what the artists were asking for. So we jumped on that.
 
-**Zach:** I'm most excited for the decentralized part of the Marketplace and see how that rolls out. And then I'm also excited for Temple, which is something that you all see coming soon.
+**Nick:** I'm most excited for the decentralized part of the Marketplace and see how that rolls out. And then I'm also excited for Temple, which is something that you all see coming soon. 😉
 
-**Algy:** I can't believe that we talked about Temple. I'm immensely excited for Temple. Nick Warden has been working super hard on that. He's been doing a great job organizing that with the group that has been putting that together. Big shout out to our Sadema too. He's our graphic designer. He does an amazing job too.
+**Algy:** I can't believe that we haven't talked about Temple. I'm immensely excited for Temple. Nick / Warden has been working super hard on that. He's been doing a great job organizing that with the group that has been putting that together. Big shout out to [Dima](https://twitter.com/dimadutka) too. He's our graphic designer. He does an amazing job too.
 
 **Mark:** Temple is coming, but we're not going to say too much about that because that's highly secret alpha, and we'll tell you about the name. 
 
-**Tyler:** I agree with you, Zach. I add that one of the things I'm looking forward to is that there will be more transactions during the development process. We're going to be moving to 2 weeks sprints. So the updates we give, if we don't prioritize a feature request, I think will honestly help the community start to understand better a feature requested go. But it's a massive lift. This feature requested that we add sprint so we can all, as a company, prioritize and understand setbacks are in certain requests that will allow us to be a lot more active and transparent.
+**Tyler:** I agree with you. 
 
-### **Question:**
+I add that one of the things I'm looking forward to is that there will be more transparency during the development process. We're going to be moving to 2 weeks sprints. So the updates we give, if we don't prioritize a feature request, I think it will honestly help the community. It will help everyone understand how feature requests turn out. Even when we think the requests are dope— sometimes they're a massive lift. When a feature request gets added to a sprint we can all see it and deal with the process. This will help the community understand how we prioritize and work around setbacks. That will allow us to be a lot more active and transparent.
 
-James F's question is; What's the plan to make sure someone doesn't fork the Marketplace on other chains and beat Universe to demand there? 
+### **Question James:**
+
+What's the plan to make sure someone doesn't fork the Marketplace on other chains and beat Universe to demand there? 
 
 ### **Answer:**
 
-**Mark:** Honestly, the only thing they'll be able to fork is our contracts, and we will start building. We have partners.
+**Mark:** Honestly, the only thing they'll be able to fork is our contracts. We already started scoping the design. We have partners.
 
 **Ryan:** Our L2 and side-chain contracts are going to be different from our L1 contracts.
 
-**Mark:** You can't deploy the same contracts on polygon as ETH.
+**Mark:** You can't deploy the same contracts on Polygon as ETH.
 
-**Ryan:** L2 specific, so they'll be built specifically for low transaction fees instead of our main net contracts built to be usable even when gas fees are high.
+**Ryan:** They are L2 specific, so they'll be built specifically for low transaction fees instead of our main net contracts— built to be usable even when gas fees are high.
 
-**Tyler:** In the back end, you'd have to send those APIs. I don't know. I'm sure we will get one side chain, but ultimately, I think we should probably look at polygon because,
+**Tyler:** Even the back end, you'd have to use APIs. I'm sure we will get to one side chain, I think we should probably look at Polygon.
 
-**Mark:** We have been talking to polygon. I've been talking to polygon for the last six months about this. It's just that we're not done with ETH.
+**Mark:** We have been talking to Polygon. I've been talking to Polygon for the last six months about this. It's just that we're not done with ETH.
 
-**Tyler:** Polymorphs have a polygon; Polymorphs League DAO has some Polymorphs. We've already been working with that team. We just have to get on; we need to get it working on Ethereum. Most value transfer NFT is on Ethereum, so that is the carrot. I think polygon and optimism are absolute that we should look into. I don't know if we need to build an NFT market for Solana.
+**Tyler:** Polymorphs have a Polygon bridge coming soon. League DAO has NFTs on Polygon. We've already been working with that team. We need to get it working on Ethereum. The most valuable transfers of NFTs are on Ethereum, so that is the carrot. I think Polygon and Optimism are absolutely solutions that we should look into. I don't know if we need to build an NFT market for Solana.
 
 **Mark:** I don't think we're going to do that.
 
-**Tyler:** We are going to spread ourselves too thin we're not going to be all right.
+**Tyler:** We are going to spread ourselves too thin.
 
-**Mark:** We are talking about L2s. As long as its own whole other thing.
+**Mark:** We are talking about L2s. Solana is a whole other thing.
 
-**Tyler:** The point is that someone probably there's a chance that takes Solana as an example. If someone builds a Marketplace there, they may be better at being a Solana market because of our focus on ASM machine. So I think that instead of trying to be all things focused on getting one thing right and prioritizing other L1s and L2s, that initial success. Over 90% of the volume has to be on.
+**Tyler:** The point is there's a chance that; take Solana as an example. If someone builds a Marketplace there, they may be better at being a Solana market because of our focus on Ethereum and the virtual machine. I think that instead of trying to be all state for everything we need to focus on getting one thing right and prioritizing other L1s and L2. Over 90% of the volume has to be on Eth mainnet.
 
-**Ryan:** I don't think people trust moving things like Board Apes or Punks over the polygon. But when they do ZK's on there, people will be more likely to do that. I think we'll want to be on polygon at that point.
+**Ryan:** I don't think people trust moving things like Bored Apes or Punks over the Polygon. But when they do ZK's on there, people will be more likely to do that. I think we'll want to be on Polygon at that point.
 
-**Tyler:** It's probably not Board Apes there when you look at something like optimism. It's probably a more financial and NFT perspective, like DeFi and the uni B3, those G uni things like Olympic bonds. That's a very different type of Marketplace. But my gut says that there's an L2 rivaling the financial value of a base chain. It might not be hard.
+**Tyler:** It's probably not Bored Apes there when you look at something like Optimism. It's probably a more financial-NFT perspective, like DeFi-NFTs and the Uni V3, those G Uni things like Olympic bonds. That's a very different type of Marketplace. But my gut says that there's an L2 rivaling the financial value of a base chain. It might not be hard.
 
-**Mark:** It might be particles.
+**Mark:** It might be Particlons.
 
-**Tyler:** It might be music. I think market development is over 90% of our effort or volume right now.
+**Tyler:** It might be music. 
 
 ### **Question:**
 
@@ -297,17 +303,21 @@ We had another question; Are there plans for stables as a way to buy and sell NF
 
 **Ryan:** Less stables XYZ. You can list NFTs for sale and make bids right from the get-go.
 
-**Algy:** I want to point out the L2. We have stuff we want to incorporate on the Ethereum end of our Marketplace. That is more of a priority than building out something for an L2 until we have most of our features released. At that point, Vitalik comes out and tries to tell us every month that Ethereum is going to be low gas fees soon. We're going to have to see where the space is at naturally. Just let it flow and see what happens. Once we get to the point where we're ready to expand, by that point, Ethereum might be low gas fees. Everybody who has been building out all these L2 stuff has wasted their time because they could have waited for an Ethereum and built on Ethereum. We got to see where we are at in this space. That sounds like I'm big on ETH, and I am. I'm down to wait and see how long it takes for Ethereum to get it right.
+**Algy:** I want to point out the L2. We have stuff we want to incorporate on the Ethereum end of our Marketplace. That is more of a priority than building out something for an L2 until we have most of our features released. At this point, Vitalik comes out and tries to tell us every month that Ethereum is going to be low gas fees soon. We're going to have to see where the space is at naturally. Just let it flow and see what happens. Once we get to the point where we're ready to expand, by that point, Ethereum might be low gas fees. Maybe, everybody who has been building out all the L2 stuff has wasted their time because they could have waited for Ethereum to scale. We got to see where we are at in this space. That sounds like I'm big on ETH, and I am. I'm down to wait and see how long it takes for Ethereum to get it right.
 
-**Mark:** We have a question. Is there any news on the Polymorphs? I don't think there's anything; jump out like crazy news. We've talked about the comedy writers we've been working with. We're going to try to make some animated polymorph episodes.
+### **Question:** 
 
-**Zach:** The Polymorphs are in therapy right now. The show until the Marketplace is up and running. The Polymorphs are just working out their problems and talking it through with some real expert-level guys. Well, you'll see what all that is about soon.
+Is there any news on the Polymorphs? 🤡
 
-**Algy:** Hopefully.
+### **Answer:**
 
-### **Question:**
+**Mark:** I don't think there's anything; jump out like crazy news. We've talked about the comedy writers we've been working with. We're going to try to make some animated Polymorph episodes.
 
-It looks like Gunner has a question about his beloved Polys and wants to know; If they're planning on destroying the Seekers? 
+**Nick:** The Polymorphs are in therapy right now. Until the Marketplace is up and running. The Polymorphs are just working out their problems and talking it through with some real expert-level guys. Well, you'll see what all that is about soon— hopefully.
+
+### **Question: Gunner**
+
+Are my beloved Poly's planning on destroying the Seekers? 
 
 ### **Answer:**
 
@@ -315,9 +325,11 @@ It looks like Gunner has a question about his beloved Polys and wants to know; I
 
 **Ryan:** I'm not sure about the Seekers. The best psychiatrist I know tells me that Charles needs 30 days institutionalized.
 
-**Algy:** Tyler is the one who leaked the alpha on Goblin Town in the FLUF. People speculate because Tyler loves the Polymorph. Does that mean they're connected? They just talked about in this AMA yesterday how Goblin Town works. Are there going to go and destroy the Seekers or something like that? I don't know exactly what they were saying. I probably said that wrong just now. They said it in the AMA. So we don't know what it's going to be. But that's the speculation that the people in the FLUF chatter community say that they think the Polymers will have. Don't do anything ridiculous based on what we just said. It's pure speculation that the Polymorphs are going to be a part of Goblin Town. 
+**Algy:** Tyler is the one who leaked the alpha on Goblin Town in the FLUF— People speculate because Tyler loves the Polymorphs. Does that mean they're connected? They just talked about in this AMA yesterday how Goblin Town works. Are there going to go and destroy the Seekers or something like that? I don't know exactly what they were saying. I probably said that wrong just now. They said it in the AMA. So we don't know what it's going to be. It's the FLUF community bantering. Don't do/say anything ridiculous based on what we just said. It's pure speculation that the Polymorphs are going to be a part of Goblin Town. 
 
-**Zach:** I will just emphasize and just say that's FLUF's project.
+**It's complete speculation by the FLUF community— strictly related to Tylers love for the Polymorphs**.
+
+**Nick:** I will just emphasize and just say that's FLUF's project.
 
 Tyler gave it to FLUFs, and it's not much more than that. We don't know anything on the Universe side other than what Tyler thought. Even Tyler doesn't know what they're going to do with it.
 
@@ -327,99 +339,123 @@ Tyler gave it to FLUFs, and it's not much more than that. We don't know anything
 
 **Mark:** We're going to Goblin Town.
 
-**Zach:** They were more asking about the Seekers and how it was all related, and we were saying that,
+**Nick:** They were more asking about the Seekers and how it was all related, and we were saying that— we are unaware.
 
-**Tyler:** Dorian, as the Silo people are our boys, whatever they do. But I gave all creative direction to FLUF World and started working on deviants. The artist that I was using, I could find out running that project. The alpha that people are getting is mostly just disinformation. Aaron found a group in New Zealand that develops the game. They source a pretty sick artist. I've helped them, and Zach has helped them with the dynamics of the drop and what we're generally doing. But my gut says they're prioritizing Seekers, Goblin Town, and the stuff I'm doing with the deviants. I've shared with Aaron and the FLUF World guys, making sure all the art lines up because I want those to be compatible in the Metaverse that we built in the same way they're in the Polymorph are compatible working. We've been building together for years. I would assume that we're just going to build together and have fun. I think that ecosystem between Universe and Polymorph and what the Enter DAO squads like Sharded Mind, what FLUF World is doing, what ASM and what Seekers is doing, to me, are the most technically advanced things happening in all of NFTs right now.
+**Tyler:** Dorian, as the Sylo people are our boys, whatever they do. I gave all creative direction to FLUF World and started working on Deviants. The artist that I was using (are shifted there), I could find out running that project. 
+
+The alpha that people are getting is mostly just disinformation. Aaron found a group in New Zealand that develops the game. They sourced a pretty sick artist. I've helped them, and [Zach](https://twitter.com/transmental) has helped them with the dynamics of the drop and what we're generally doing. But my gut says they're prioritizing Seekers, Goblin Town. The stuff I'm doing with the Deviants. I've shared with Aaron and the FLUF World guys, making sure all the art lines up because I want those to be compatible in the Metaverse that we built in the same way they're in the Polymorph are compatible with their work. We've been building together for years— all of us are boys. I would assume that we're just going to build together and have fun. I think the ecosystem between [Universe](https://universe.xyz) and [Polymorphs](https://universe.xyz/polymorphs) and what the [Enter DAO](https://enterdao.xyz/) squad is doing— [Sharded Minds](https://sharded-minds.enterdao.xyz/), what [FLUF World](https://www.fluf.world/) is doing, what [ASM](https://www.alteredstatemachine.xyz/) and what [Seekers](https://seekers.xyz/) is doing, to me, are the most technically advanced things happening in all of NFTs right now.
 
 I don't see us stopping building together because a lot of the innovation comes from us throwing ideas off each. We focused on getting the Marketplace out, and FLUF World and ASM can focus specifically on those things. But I think what's coming behind it is much non-shared work that we've been waiting to release. As we keep building, we will be more opportunities to collaborate.
 
-**Algy:** Tyler. Do you want to tell us anything about the deviance at all?
+**Algy:** Tyler. Do you want to tell us anything about the Deviants at all? 🤔
 
-**Tyler:** No, just that we're building a dgen race track.
+**Tyler:** No, just that we're building a degen race track. 😏
 
-**Algy:** We'll keep the dgens a secret.
+**Algy:** We'll keep the degens a secret.
 
-Just a sneak peek or something. There's already been one. There's already been a sneak peek of the deviance, and you all had to be paying attention. You can go back and find it. I don't know if it's still there, but there's been a sneak peek, believe it or not. It was super obvious.
+Just a sneak peek or something. There's already been one. There's already been a sneak peek of the Deviants, and you all had to be paying attention. You can go back and find it. I don't know if it's still there, but there's been a sneak peek, believe it or not. It was super obvious.
 
 **Tyler:** One of them. But we haven't. We're launching them like 2D art with 3D backgrounds, but the 3D art comes directly behind it because of the 2D characters.
 
-**Mark:** Plenty. Your question is good.
-
-**Tyler:** I just don't want to leave too much, alpha.
-
-**Mark:** Then don't; who knows?
+I just don't want to leave too much, alpha.
 
 **Algy:** I think we'll leave it at that.
 
-**Mark:** We're focused on the Marketplace right now. How will the FLUFs and ASM, et cetera, prioritize XYZ over OpenSea and other Marketplaces? Well, I can just say that we're aligned with them directly, and we are going to have competitively lower fees. We can't force people to sell on a Marketplace, but our team at FLUF, all the Founders and everybody are very aligned with Universe, and they're going to be. We hope that they're going to be pushing us over OpenSea.
+**Mark:** We're focused on the Marketplace right now. 
 
-**Tyler:** Aaron was asking us, yeah, I think they're planning on integrating with us at a high level. The lowest hanging fruit would be to help them build a custom interface that lives on FLUF with their website. They can post a market and probably want to do that for your project.
+### Question:**
 
-**Mark:** We're all going to make it. Don't worry, everyone; we're almost there. I'm sorry that we've held all the Polymorph stuff from you guys. I think it's important that we've pushed out the Marketplace and prioritized everything potentially. I think we've gotten through most of the questions. If anybody has any final thoughts or anything they want to ask us, I'll give everyone a few more minutes. 
+How will the FLUFs and ASM, etcetera, prioritize XYZ over OpenSea and other Marketplaces? 
 
-## Shoutout:
+### Answer:**
 
-**Mark:** We want to shout out to the community, too. We've been building this for a long time. We appreciate many people who have stuck with us and told their friends about us. Our community has grown massively. I think there were only 2 or 3000. I don't even know how many people you had, but we've gained much following because of friends and people sticking with us. You can't do it without the community, and we want to say we appreciate it as builders that everyone was sticking with us while we've been building everything. 
+**Mark:** Well, I can say that we're aligned with them directly, and we are going to have competitively lower fees. We can't force people to sell on a Marketplace, but our team & FLUF— all the Founders and everybody are very aligned with Universe. We hope that they're going to be pushing us over OpenSea.
+
+**Tyler:** Aaron was asking us, already. I think they're planning on integrating with us at a high level. The lowest hanging fruit would be to help them build a custom interface that lives on FLUF with their website. They can deploy a proper market.
+
+**Mark:** We're all going to make it. Don't worry, everyone; we're almost there. I'm sorry that we've held all the Polymorph stuff from you guys. I think it's important that we've pushed out the Marketplace and prioritized everything properly. I
+
+think we've gotten through most of the questions. If anybody has any final thoughts or anything they want to ask us, I'll give everyone a few more minutes. 
+
+## Shoutout: Community 💚 🫂
+
+**Mark:** We want to shout out to the community, too. We've been building this for a long time. We appreciate many people who have stuck with us and told their friends about us. Our community has grown massively. I think there were only 2 or 3000 at the beginning. (I don't even know how many people we had) 
+
+We've gained much following because of friends and people sticking with us. You can't do it without the community, and we want to say we appreciate it as builders that everyone was sticking with us while we've been building everything. 🙏
 
 ### **Question:**
 
-Why do orphans like, Boomerang so much? You guys are pretty savage.
-
-**Tyler:** Okay. All right, dude.
-
-### **Question:**
-
-Can you talk about the XYZ token?
+Will there be any reward for trading morphs in your marketplace?
 
 ### **Answer:**
 
-**Algy:** Marketplace's just too easy to be exploited, not even our own. We're never going to incentivize people to list or sell NFTs on our Marketplace because it is too easy to be exploited. It's that simple. There will be incentives for holding your polymorphs so that you can count on that. So I guess that's subliminal. I think a way to incentivize trading. Not really. We're just trying to make the Polymorphs fun. It's not about if they're trading at a rapid volume or anything. It's just about the current people. There are only 170 Polymorphs listed right now out of 10,000. That's ridiculous. It's because all the people who hold them want to keep them.
+**Algy:** Marketplace's just too easy to be exploited, not even our own. We're never going to incentivize people to list or sell NFTs on our Marketplace because it is too easy to be exploited. It's that simple. There will be incentives for holding your Polymorphs so that you can count on that. So I guess that's subliminal. Not really. We're just trying to make the Polymorphs fun. It's not about if they're trading at a rapid volume or anything. There are only 170 Polymorphs listed right now— out of 10,000. That's ridiculous. It's because all the people who hold them want to keep them.
 
-**Add Speaker:** What are we talking about?
+**Mark:** What are we talking about?
 
-**Algy:** Incentivize people for holding them? That's kind of it. We're just trying to build cool stuff for the Polymorphs. They're a character for you to use in the games we release. That's what they are.
+**Algy:** Incentivize people for holding Polymorphs. They are what they are, that's kind of it. We are building cool stuff for the Polymorphs. They're a character for you to use in the games we release. That's what they are.
 
-**Mark:** I mean, we're believers in the open Metaverse. People are going to build stuff, and you're going to integrate with Polymorphs. We just finished a lot of our art for the World Wide Web thing. We're about to send over some stuff to those guys so they can integrate the Polymorphs into their game. Yeah, we're working on it plenty. We don't talk about the price. XYZ, you probably shouldn't sell your dog. Don't sell your dog, dude.
+**Mark:** I mean, we're believers in the open Metaverse. People are going to build stuff, and you're going to integrate with Polymorphs. We just finished a lot of our art for the [World Wide Web](https://twitter.com/Worldwide_WEB3). We're about to send over some stuff to those guys so they can integrate the Polymorphs into their game. Yeah, we're working on it plenty. 
 
-### **Question:**
-
-I want us to address what Mica just asked, though. Mark, can you answer that question? Would we be able to contact a seller on Universe?
-
-### **Answer:**
-
-**Mark:** If you guys know how silo works, we will try, and I was with the silo guys this weekend; they want to integrate with us. We think that that would be a cool tool to integrate with. We're going to try our best to try and get that thing on. They're on sends net; they're not even on Ethereum. They explained to me this weekend that it's possible. But we don't want to build a whole decentralized messaging app. But we do like the ability to contact sellers. This does open up an opportunity for scams. Being able to message someone on a Marketplace is just as dangerous as accepting a message on Discord from someone you don't know. We're going to have to teach the community; hey, let's not click on links from people you don't know. Don't give people your seed phrase that kind of stuff. I still think that education is something that we can't get too far ahead of because we will always have new people in the space. This weekend at south by a south plaza, I heard someone say that getting robbed or hacked is your baptism in the Crypto and NFTs.
-
-I don't necessarily agree with that. I guess it does help you figure out, I got to be careful, but everyone shouldn't have to come into crypto space and learn how to do this and then get robbed and be sorry this happens to everyone. I think that's kind of shitty. That's how the industry is. So I believe that we need to focus on that.
-
-**Algy:** That Discord could take is when you make an account, start the profile off with Discord messages on private. I do not understand why Discord accounts start as default where anyone can message you because that's the source of how many scams are happening. If most people just kept their messages private, it would prevent a lot. But even then, I remember having a Party Bears. You got to be so careful. Even when you're being careful, you got to be careful because it can happen when you would just like in the weirdest situation that makes no sense.
-
-**Mark:** One thing. We are going to have those. You're going to be able to connect your Twitter to verify that the person is their actual Twitter. That may help to start. If you tune into many of our early project calls, we talk about turning Universe into a social Media Marketplace. I have already spoken a lot about how NFTs are so social in nature. That's why Facebook and Instagram have jumped on the NFTs. Facebook has rebranded to Meta. They're very bullish on the Metaverse, but they're already so social by nature. But one thing that I didn't understand is why do we have to leave the website to go to Discord or Twitter? Why can't we bring some of that to the website? There are a lot of Internet KPIs that marketers use. But one of the most important things is how long does someone stay on your website before they leave? I never understood why OpenSea just never let people message each other. I think it's because they don't want to deal with the headache of scams on their platform.
-
-We're never going to get rid of scams in the world. Scammers will keep scamming, and they will find out new ways. It's like whack a mole; you kill one, and five more pop up. We can do our best to eliminate these things, and we'll try our best, but we're not going to not do it, though, like OpenSea and some of these other platforms. But our best bet is to probably integrate with silo on this because building decentralized messaging is not an easy lift. 
+Also, we don't talk about the price of XYZ, and you probably shouldn't sell your dog. Don't sell your dog, dude.
 
 ### **Question:**
 
-Mica, this is pretty good too, bro; Pre-selected questions. 
+Would we be able to contact a seller on Universe?
 
 ### **Answer:**
 
-**Mark:** I think that works. But eventually, you're going to get to a point where you maybe aren't going to be able to communicate or perhaps you can take the conversation off. I don't know. We'll have to consider it. I think it's something to consider, but it will lead to many dead-end questions. I don't know if anyone listened to one of David's chats this weekend at FLUF World. They were streaming the events. They use bots for talking to people in some of those things, and even a messaging app; you'd be surprised sometimes when you're talking about a bot, and you don't even realize it or even one of those bots that's in support of the website that you go and view.
+**Mark:** If you guys know how [Sylo](https://sylo.io/) works, we will try, and I was with the Sylo guys this weekend; they want to integrate with us. 
+
+We think that that would be a cool tool to integrate with. We're going to try our best to try and get that thing on. They're on [CENNZnet](https://twitter.com/CENNZnet); they're not even on Ethereum. They explained to me this weekend that it's possible. But we don't want to build a whole decentralized messaging app. But we do like the ability to contact sellers. This does open up an opportunity for scams. Being able to message someone on a Marketplace is just as dangerous as accepting a message on Discord from someone you don't know. We're going to have to teach the community; hey, let's not click on links from people you don't know. Don't give people your seed phrase that kind of stuff. I still think that education is something that we can't get too far ahead of because we will always have new people in the space. This weekend at south by southwest (sxsw), I heard someone say that getting robbed or hacked is your baptism in the Crypto and NFTs.
+
+I don't necessarily agree with that. I guess it does help you figure out, I got to be careful, but everyone shouldn't have to come into crypto space and learn how to do this and then get robbed and be sorry this happens to everyone. I think that's kind of shitty. That's how the industry is. So I believe that we need to focus on that. 🕵️
+
+**Algy:** With Discord they can help by starting a profile with Discord messages on private. I do not understand why Discord accounts start with messages on as a default setting— this is where anyone can message you —that's the vulnerable area. If most people kept their messages private, it would prevent a lot. But even then— you got to be so careful. Even when you're being careful, you got to be careful because it can happen in the weirdest situations that makes no sense. (You're too zoomed in / moving fast)
+
+**Mark:** One thing. We are going to have ways to verify accounts. You're going to be able to connect your Twitter to verify that the person is their actual Twitter. That may help to start. 
+
+If you tune into many of our early project calls, we talk about turning Universe into a social Media Marketplace. I have already spoken a lot about how NFTs are so social in nature. That's why Facebook and Instagram have jumped on NFTs. Facebook has rebranded to Meta. They're very bullish on the Metaverse, they're already social by nature. One thing that I didn't understand is why do we have to leave the website to go to Discord or Twitter? Why can't we bring some of that to the website? There are a lot of Internet KPIs that marketers use. But one of the most important things is how long does someone stay on your website before they leave? I never understood why OpenSea never let people message each other. I think it's because they don't want to deal with the headache of scams on their platform.
+
+We're never going to get rid of scams in the world. Scammers will keep scamming, and they will find out new ways. It's like whack a mole; you kill one, and five more pop up. We can do our best to eliminate these things, and we'll try our best, but we're not going to not do it, though, like OpenSea and some of these other platforms.
+
+Our best bet is to probably integrate with Sylo on this because building decentralized messaging is not an easy lift. ⭕️
+
+### **Question:**
+
+Maybe a selection of pre made questions only, to choose from, would do. Just a point of contact? 
+
+> Like trying to find the owner of an unminted thingie for example
+
+### **Answer:**
+
+**Mark:** I think that works. But eventually, you're going to get to a point where you maybe aren't going to be able to communicate or perhaps you can take the conversation off. I don't know. I think it's something to consider, but it will lead to many dead-end questions. I don't know if anyone listened to one of David's chats this weekend at FLUF World. They were streaming the events. They use bots for talking to people in some of those things, and even a messaging app; you'd be surprised sometimes when you're talking about a bot, and you don't even realize it or even one of those bots that's in support of the website that you go and view.
 
 I mean, AI is getting very smart, and I don't know; there's much stuff we got to think about with the messaging part. That's part of why it's in the later renditions of the market.
 
 That's the best way to answer that. We are trying to decentralize it all, but we got to go in steps. We got to get the Marketplace out, and then we'll work on it. That's where our heads are at is more of a social Marketplace where people can contact each other and make galleries and view each other's NFTs and then maybe comment on a gallery that someone hosts. We have a whole bunch of really cool ideas on how to bring information and data to the Marketplace and allow everyone to learn and get information so that they're not. How do we, this is another thing Tim has talked to me about, and I feel it's ingrained in it.
 
-It's just that we do need to continue to educate people. What about the history of Board Apes. What about the history of some of these things. How do we get that information onto the Marketplace so that people can learn about NFTs? Because like we said, we have new people every week, every day. I think that we need to continue to try and educate those people, or we're not going to make it as an industry. We need to knock it complacent and think that we're better than anyone, and we need to be able to be when we were all like we're all going to make it GM. No man was left behind. I think that's really what many people liked about NFTs. And then we had a lot of scammers and influencers kind of ruined that because people got burned. I think the people that stick around are the people who want to help each other. So I just think we need more of that in the NFT space. But I'll end my ramble and let everyone go because I don't think we have any more questions.
+We do need to continue to educate people. What about the history of Bored Apes? What about the history of some of these things How do we get that information onto the Marketplace so that people can learn about NFTs? 
 
-But if anybody has any closing thoughts on the Universe team, for sure, chime in. But I think we've gone for an hour.
+Because like we said, we have new people every week, every day. I think that we need to continue to try and educate those people, or we're not going to make it as an industry. We can't get complacent and think that we're better than anyone, and we need to be able to be when we were all like— we're all going to make it— WAGMI, GM. No man was left behind. 
 
-**Algy:** Later, once we've built out the Marketplace and have that ready, it's also an option. We're going to have a way for you to link people's social media. You can just talk to them through there, and we'll try to get that set up as fast as possible. I like silo.
+I think that's really what many people liked about NFTs. And then a lot of scammers and influencers kind of ruined that because people got burned. I think the people that stick around are the people who want to help each other. We need more of that in the NFT space. I'll end my ramble and let everyone go because I don't think we have any more questions. 
 
-**Mark:** Yeah, we like silo. We want Charged Particlons. We will continue to align with all the best builders in the space. You can bet on that. We will try to support every artist in the NFT space the best we can with custom contracts and anything we can do. So bring on the feature request, I guess. Open the floodgates. Get ready, Rayne. It's coming, brother. I love all the posts on the Universe Merch.
+But if anybody has any closing thoughts on the Universe team, for sure, chime in. But I think we've gone for an hour. 😅
 
-Thank you for joining. We love you all. Thank you, everybody, for being so supportive. We'll see you guys next week, and I think hopefully, we're going to have a Marketplace to play with by next week. This is what a peak NFT Marketplace looks like, and there's not a f---ing thing you can do about it, baby.
+**Algy:** Later! 
 
+Once we've built out the Marketplace and have that ready, it's also an option. We're going to have a way for you to link people's social media. You can talk to them through there, and we'll try to get that set up as fast as possible. I like Sylo.
 
+**Mark:** Yeah, we like Sylo. We want the Charged Particles— Particlons. We will continue to align with all the best builders in the space. You can bet on that. We will try to support every artist in the NFT space the best we can with custom contracts and anything we can do. 
+
+Bring on the feature requests! Open the floodgates. Get ready, Rayne. It's coming, brother. 🦾
+
+I love all the posts on the Universe Merch.
+
+Thank you for joining. We love you all. Thank you, everybody, for being so supportive. We'll see you guys next week, and I think hopefully, we're going to have a Marketplace to play with by next week. T
+
+his is what a peak NFT Marketplace looks like, and there's not a dang thing you can do about it, baby. 😘 
 
 
 
