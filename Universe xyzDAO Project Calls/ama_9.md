@@ -36,27 +36,32 @@ When can we would be able to use the Marketplace?
 
 **Mark:** It's today. We're giving access to everyone today. I think we've smoothed out the majority of all the bugs. All the contracts are working as designed. One thing— not all of the NFTs are showing up. Our back-end scraper is still catching up. It has to scrape the entire blockchain over 6 to 7 years. There are a lot of NFTs; it's scraping the present and the past at the same time.
 
-Some of your older NFTs probably aren't showing up. Some of the newer ones are. We're trying to go in and load as many NFT collections as we can that we know people are interested in right away, so we can prioritize them in the queue. We've already prioritized the top 230 all-time collections. So far, that's honestly what we have. But we feel we have a beta that is in good enough shape that everyone can start using it and start listings and buy NFTs there. We wanted to give early access to the people who joined this AMA today because we appreciate everyone who joins our AMAs.
+Older NFTs may not appear. Newer ones will. We're trying to go in to pre-load as many NFT collections as we can that we know people are interested in.We can prioritize them in the queue. We've already prioritized the top 230 all-time collections. We have a beta that is in good enough shape that everyone can start using it and start listing, buying NFTs there. We wanted to give early access to the people who joined this AMA today because we appreciate everyone who joins our AMAs.
 
-Chuba, I can't hear you.
 
-**Ryan:** I was saying on the data that if you see NFTs that you think should be in the top 200 and aren't showing up, let us know, and we'll try to deal with that as quickly as we can. Then for other collections, we can have DAO Votes through snapshot to get it in very quickly. Otherwise, all new collections deployed will be going forward, and we'll still be scraping the chain going back. I know people want to get certain collections listed. I think going old snapshot is going to be the best way to do that.
+**Ryan:** If you see NFTs that you think should be in the top 200 and aren't showing up, let us know, and we'll try to deal with that as quickly as we can. 
 
-**Mark:** We didn't want to delay the scraper catching up because we don't know how long it would take. After all, there are new NFTs minted every day. It's very hard to determine many unknowns or how long it will take to get all of them. We didn't want to take that extra time because we know people are very interested in being able to use a decentralized alternative.
+Then for other collections, we can have DAO Votes through snapshot to get it in very quickly. Otherwise, all new collections deployed will be going forward, and we'll still be scraping the chain going back. I know people want to get certain collections listed. 
 
-**Tyler:** It will eventually scrape all of them, though.
+Good ol' snapshot is going to be the best way to do that.
 
-**Mark:**  It'll get there. 
+**Mark:** We didn't want to delay the scraper catching up because we don't know how long it would take. There are new NFTs minted every day. It's hard to determine the many unknowns. We know people are very interested in a decentralized alternative.
 
-**Ryan:** We'll have every NFTs, 721, and 1155 scraped, but it will take time. We have to process every single block in the blockchain.
+**Tyler:** It will eventually scrape all of them, though. 👑
 
-**Tyler:** At that point, it will be scraping faster than OpenSea.
+**Ryan:** We'll have every NFT— 721, and 1155 scraped. It will take time. We have to process every single block in the blockchain.
 
-**Ryan:** Yeah.
+**Mark:** So that everyone knows how this process is going to work from now on, now that the Marketplace is out; We're going to be rigorously moving to get the rest of the features out. 
 
-**Mark:** So that everyone knows how this process is going to work from now on, now that the Marketplace is out, we're going to be rigorously moving to get the rest of the features that we have written out. We have many different contracts that we have written, and the UI is done. It's just that we got to integrate all of these things. And we need to release it in steps. It's just easier to scale everything this way. We will know what's breaking versus just dropping everything at once if something breaks. But we do have more to drop. This is a bare-bones Marketplace; first, we are going to release all of these features within 1-2 months. Have a lot more features and a lot more types. You'll have bundles listings; you will be able to add floor bids. Genie, our Gem, will be integrating with us very soon. I think they're ready to go. We have other minting contracts and different; I don't want to drop too much alpha on some of these things that were dropping.
+We have many different contracts, and the UI is done. We need to release it in steps. It's just easier to scale everything this way. If something breaks we can diagnose it. 
 
-We have some awesome, really cool custom minting contracts that people are going to be able to get creative with. So I'll leave it at that. We are going to add anything that you see grayed out. We have more features that you don't even see in the UI right now. So there's a lot to look forward to. It's just that we need to release it in steps. 
+> This is a bare-bones Marketplace; ideally all features release in a few months. 
+
+You'll have bundled listings, floor bids. Genie or Gem, will be integrating with us soon. We have unique minting contracts.
+
+I'll leave it at that. We are going to add anything that you see grayed out. We have more features that you don't even see in the UI right now. 
+
+There's a lot to look forward to. 👀
 
 ### **Question: Resistance**
 
@@ -65,39 +70,82 @@ We have some awesome, really cool custom minting contracts that people are going
 
 ### **Answer:**
 
-**Mark:** So we have the airdrop UI done. We just haven't implemented it. We were going to do it a few weeks ago, and then we all got extremely busy with the Marketplace. It's just been the priority, and we have been focused on it. I'll try to get it launched next week, but I think the main focus is still going to be on the Marketplace. All we have to do is publish it. I just need to talk with Vahan and make sure that everything's up to date and good there.
+**Mark:** We have the airdrop UI done. We just haven't implemented it, yet. 
 
-We should be able to push that live.
+The marketplace has been the priority. We'll try to get it launched next week. All we have to do is publish it. There are a few details to go over then we should be able to push that live.
 
-Sorry, this Universe singularity collection. That was our original; I want to say our second take on our minting contract; that collection it's still live. You can go mint to the contract, but we're not going to let you can go mint to them from Etherscan. There was a bug, and we needed to fix it. So we took the contract off, fixed the bug, and redeployed. There's nothing wrong with those NFTs. It's just that we needed to make the fix. We did, and that's ka dead collection. That was the old Universe. Anyone can mint this contract the same way OpenSea has a contract, and Rariable has those. Tyler's playing with his Enter DAO NFTs. Then he goes in to talk about regarding if voting will be incentivized? I think we've talked about this before. Yours incentivize for staking in the DAO. I mean, we don't incentivize you to vote. If you want to vote, it's up to you, but your incentive to vote is wanting to improve the Marketplace and improve the DAO.
 
-If you're holding XYZ for the incentive of being, I want to vote and be rewarded; then I think we need to think of the mindset as the incentive is that we get to do. We're running companies completely like this; this isn't a company. We get to have a say on what we all will do and build. I think that's an awesome incentive. But the team hasn't discussed if you all want to incentivize voting. The DAO has the ability to go and vote and make that happen. We can probably put some systems in place, but we have to talk about that as a community.
+### Question
 
-**Tyler:** I mean, everybody can push proposals forward if they're smart. We will support them.
+What is Universe Singularity?
 
-**Add Speaker:** And a well-thought plan. You have to plan where those funds will be coming from. Perhaps it needs to be well thought out and have a vision of where we're trying to go with our ETHos.  
+### Answer
 
-**Mark:** I'm just going to skip over this discussion because this is a lot for me to read. I'll come back to it and put my input in Discord. I like this idea of giving POAPS for voting. We can take snapshots after every vote. We did take a snapshot after the last vote to launch the Marketplace, so we've thought about it, but we haven't decided anything. To launch the Marketplace because that's what we've all been waiting for. And obviously, we're going to do something with that list. And Zach's already dropped POAPs, but it seems like not everybody got them. So we'll try and figure that out with POAP. It was something to do with their server, and it wasn't working the day that Zach tried to do it.  
+That's the Universe Singularity Collection. That was our original; and that collection it's still live. There was a bug, and we needed to fix it. So we took the contract off, fixed the bug, and redeployed. There's nothing wrong with those NFTs. We needed to make a fix. We did, and that's a dead collection. 
+
+### Question
+
+Will voting will be incentivized? 
+
+### Answer
+
+The incentive for staking in the DAO is the pooled rewards. 
+
+We don't incentivize you to vote. If you want to vote, it's up to you. **Your incentive to vote is wanting to improve the products and the DAO.**
+
+> If you hold $XYZ for any other reason other than Governance— you are speculating on the token value vs voting power. 
+
+This isn't a company— It's a DAO. We each have a say on what we all do and build. I think that's an awesome incentive. The team hasn't discussed voting incentives. The DAO has the ability to make that happen. We can probably put some systems in place, but we have to talk about that as a community. 
+
+**Tyler:** I mean, everybody can push proposals forward if they're smart and make sense. We will support well designed proposals. 🦾
+
+**Nick:** And a well-thought plan. You have to plan where those funds will be coming from. It needs to be well thought out and with a vision that aligns in the direction of our ethos. 🔑
+
+**Mark:** I like the idea of giving POAPS for voting. We can take snapshots after every vote. We did take a snapshot after the last vote to launch the Marketplace, so we've thought about it. 
+
+Obviously, we're going to do something with that list. [Zach's](https://twitter.com/transmental) already dropped POAPs, but it seems like not everybody got them. So we'll try and figure that out with POAP. It was something to do with their server, and it wasn't working the day that Zach tried to do it. 🤦 
 
 ### **Question:**
 
-Are there any plans to add additional ERC? Oh, wait a minute. I think I skipped over TaeKwonKrypto; How many days away before I can upload a comment cover and sell ERC 1155?
+How many days away before I can upload a comic cover and sell ERC 1155?
 
 ### **Answer:**
 
-**Mark:** We're going to add ERC 1155. That's going to be something to come in one of the later iterations of the Marketplace. But like we said, we're starting with ERC 721 and some basic Marketplace features; there's more coming; it's done. We have to scale it out, build it out, and make sure that when we're releasing something and adding something, it's not going to break something else. We wanted to get something out sooner rather than later to everybody so they can start using something. But yes, 1155s are coming, and we're going to look at Layer 2 assets. Any plans to add ERC 20 tokens as payment options? Yes, we're starting with USDC ETH, Wrapped ETH, XYZ, and DAI. If people want to see tokens get added, we can run that through governance and get any token added that people want. I'm sure many people will want to see tokens like the Apecoin get added but let's make those decisions through governance.
+**Mark:** We're going to add ERC 1155. That's going to be something to come in one of the later iterations of the Marketplace. 
 
-**Tyler:** Someone's wilding.
+We're starting with ERC 721 and some basic Marketplace features. We have to scale it out first. We are making sure our releases don't break anything. 
 
-**Mark:** Someone's balling.
+Yes, 1155s are coming, and we're going to look at Layer 2 assets.  
 
-A feature request form. James F, I tagged Rayne on your post, and he added a feature request form in the Pre AMA channel. We can also add that in the announcements channel to make it easier for everybody to find.
 
-## Shoutout:
+### Question
+
+Any plans to add ERC 20 tokens as payment options?
+
+### Answer
+
+**Mark:** Yes, we're starting with USDC-ETH, Wrapped ETH, XYZ, and DAI. 
+
+If people want to see tokens get added, we can run that through governance. I'm sure many people will want to see tokens like Apecoin get added. Let's make those decisions through governance.
+
+### Question
+
+A feature request form?
+
+### Answer
+
+**Mark:** I tagged Rayne on your post, and he added a feature request form in the Pre AMA channel. 
+
+> [Feedback Form](https://forms.gle/j4yWGRaiMncDvNYh8)
+
+We can also add that in the announcements channel.
+
+
+## Shoutout: [Hal Finney](https://twitter.com/halfin)
 
 **Tyler:** Shout out to Hal Finney for talking about NFT trading cards back in 1993.
 
-**Mark:** Can we also post that and announcements so that everyone sees it. It's a good announcement.
+> [Crypto Trading Cards](https://lists.cpunks.org/pipermail/cypherpunks-legacy/1993-January/001489.html)
 
 **Tyler:** Hal Finney will only use Universe when he returns from the dead due to cryogenic freezing.
 
@@ -111,27 +159,43 @@ Do you plan on rewarding activities on the platform to boost its launch? It does
 
 **Mark:** We have plans, but we have not publicly said what they are.
 
-**Tyler:** If we're going to do something, I think it's most likely that we should incentivize listings because I've talked about this in-depth. But OpenSeas Monopoly is around their listings. If you even look at where Looks Rariable is getting organic volume. It's from the Jim. So I think over time, with our auctions and minting and many things happening on our platform. It will not be out of the gate that we catapult in volume. But I think that we're launching now. It will be a long work that we keep pushing forward.
+**Tyler:** If we're going to do something, most likely, we incentivize listings because I've talked about this in-depth. 
 
-**Algy:** If I mute you, just tell us in the Pre AMA channel if you want to come up and talk.
+OpenSea's monopoly is around their listings. If you even look at where Looks, Rarible is getting organic volume. It's from Gem. Over time, with our auctions and minting we'll get a fraction of their volume.
+
+**Algy:** If I mute you, just tell us in the Pre AMA channel— if you want to come up and talk.
 
 ### **Question:**
 
-What is Universe Singularity?
+What is the point of Universe Singularity?
 
 ### **Answer:**
 
-**Mark:** Multiverse Singularity is the name of our contract. It's the name we chose for the minting contracts. It was some sort of space thing. I forget exactly why we named it that. Anyone can mint to that contract. Otherwise, you have to create your own collection. When you create your own collection, you're creating your own minting contract that only you can mint too. Many people in the industry asked for this a year ago, so we did it, but it took us a little bit. It costs a little bit of money to deploy. The last time I was looking, it was $150 to $250 to deploy 1 of those contracts. But then, when you're minting to it, it's $30 depending on the qwei. If you want to mint directly to that Universe Contract, you can. It's like the Rariable Contract where you can just mint, and it's a Rariable NFT. It's not part of any collection. Could we add more messaging around the decentralization aspect?
+**Mark:** Anyone can mint to that contract. Otherwise, you have to create your own collection. 
+
+When you create your own collection, you're creating your own minting contract that only you can mint too. Many people in the industry asked for this a year ago, so we did it. It costs a little bit of money to deploy. 
+
+The last time I was looking, it was $150 to $250 to deploy 1 of those contracts. When you mint with it, it's $30 depending on the network. If you want to mint directly to that Universe Contract, you can. It's like the Rarible Contract where you can easily mint. 
+
+### Question
+
+Could we add more messaging around the decentralization aspect?
 
 I think many people would move their NFT over if some were messaging around it?
 
-**Tyler:** Well, I think we should is the short answer. But why do you think that it would get people to move over? Because I think that's how we need to be approaching what the messaging is.
+### Answer
 
-**Mark:** We are looking into making a video explaining how Universe is decentralized. We've already started it, but we are working on the copy and the wording of how we say it is decentralized. But we'll try to release a 2-3 minute video on all the aspects of how it's decentralized. One of the people who do those videos for us is Ivan, he actually lives in Ukraine, and he hasn't been making as many videos right now. He's been able to edit some of them, but we've been giving him a little bit of a break because of what is going on over there. He's still working, but we have that other video we're going to work on, and we have to finish still. But we'll get that out, James F. 
+**Tyler:** Well, I think we should is the short answer. 
+
+Why do you think that it would get people to move over? I think that's how we need to be approaching what the messaging contains.
+
+**Mark:** We are looking into making a video explaining how Universe is decentralized. 
+
+We've already started it. We'll try to release a 2-3 minute video on all the aspects of decentralization and Universe. One of the people who do those videos for us is Ivan, he actually lives in Ukraine, and he hasn't been making many videos at the moment. He's been able to edit some of them, but we've been giving him a little bit of a break because of what is going on over there.
 
 ### **Question:**
 
-I like how you gotchi incentivized voting by rewarding in Game XP for participation. (leading to in-game stat boosts). Something we can explore further once Polymorphs utility is deployed.
+Aavegotchi incentivized voting by rewarding in-game XP for participation. (leading to in-game stat boosts).
 
 ### **Answer:**
 
@@ -141,11 +205,11 @@ I like how you gotchi incentivized voting by rewarding in Game XP for participat
 
 **Mark:** Yeah.
 
-**Tyler:** Again, incentivizing voting is tough since if we're talking about incentivizing anything, I think it has to be even more than voting right now. Getting listings on the platform is very important; that has to be a vote.
+**Tyler:** Again, incentivizing voting is tough. I think it has to be even more than voting right now. Getting listings on the platform is very important.
 
 ### **Question:**
 
-Will Universe have a similar token staking mechanism? Like Looks Rare? 
+Will Universe have a similar token staking mechanism— Like LooksRare? 
 
 #### **Answer:**
 
@@ -157,63 +221,71 @@ What about a Doc or channel for requested collections?
 
 #### **Answer:**
 
-**Mark:** In Discord, that wouldn't be a bad idea. Honestly, it's a good idea.
+**Mark:** In Discord, that wouldn't be a bad idea. 💭
 
-**Rayne:** I can make another form for that. So it doesn't just get cluttered because we can make a super small form that people can send the contract address to, and then we can query it and see if we should add it.
+**Rayne:** I can make another form for that. So it doesn't just get cluttered.
 
-**Mark:** Can we just make a channel and make that form the only thing there and don't let people type. Just leave that form.
+We can make a super small form that people can send the contract address to, and then we can query it and see if we should add it.
 
-**Rayne:** Yeah, I'll put that. Maybe we move project requests and feature requests to the channel. That's easy to find.
+**Mark:** We can make a channel and put that form as the only thing there— don't let people type.
 
-**Add Speaker:** Tyler just made add a project request right here.
+**Rayne:** Yeah, I'll put that in the Discord. Maybe we move project requests and feature requests to a specific channel.
 
-**Rayne:** Do it similarly to Rariable, or they did before.
+They do something like this at Rarible— or they did before.
 
 **Mark:** Sorry for the delay, guys. We're trying to set that up quickly. 
 
-### **Question:**
+### **Question: Fluffer Nutter**
 
-Okay, Fluffer Nutter's question; Can I have an option to get paid for my NFT in more than one token? Like list my NFT for 4 ETH or the equivalent of XYZ, can receive a combo of both or the full amount in either token. 
+Can I have an option to get paid for my NFT in more than one token? 
+
+Like list my NFT for 4 ETH or the equivalent of XYZ, can receive a combo of both or the full amount in either token. 
  
 #### **Answer:**
 
-**Mark:** No, you can't. But if you guys want to do that, we can make a contract that allows you to do that; that's tough. I don't know if that's possible. We would probably have to upgrade the contracts to add that feature. I probably can't answer that question because I don't know if that is possible. I think it's possible, but I don't know if we can just upgrade it willy-nilly like that. That's a good question. Is Ryan here?
+**Mark:** No, you can't. 
 
-**Ryan:** Yeah, what's up? Sorry, I'm working on the Marketplace.
+If you guys want to do that, we can make a contract that allows you to do that; that's tough. We would have to upgrade the contracts to include that feature. I can't answer that question because I don't know if that is possible. I'm unsure if we can upgrade it willy-nilly like that. 
 
-**Mark:** FlufferNutter asked, Is it possible to get paid for an NFT and multiple tokens? Like if he wanted to get paid 4 ETH, but someone wanted to offer 2 ETH and then 20,000 XYZ just to make it simple math.
+Ryan, Is it possible to get paid for an NFT and multiple tokens? Like if someone wanted to get paid 4 ETH, but someone wanted to offer 2 ETH and then 20,000 XYZ— to make it simple math.
 
-**Ryan:** I think we can support that without a smart contract upgrade using ERC 20 bundles. I'd have to look into it, but I think it could be possible.
+**Ryan:** I think we can support that without a smart contract upgrade using ERC20 bundles. I'd have to look into it, but I think it could be possible.
 
 **Mark:** Okay, well, there's your answer. That's a great question. Fluffer Nutter.
 
 **Ryan:** We can always do a DAO vote. So nothing's off the table.
 
-### **Question:**
+### **Question: James F**
 
-Yes. Okay. James F asked another question; You all brought up additional functionality for XYZ in the past. What's the plan on that? 
+You all brought up additional functionality for $XYZ in the past. 
+
+What's the plan on that? 
 
 #### **Answer:**
 
-**Mark:** We've answered this question for the last three weeks. Troy comes up and talks about this. He's not giving too much information about it, but there is planned utility. We'll just leave it at that. But yes, we do have plans, and no, we're not going to say it just yet, but when all that stuff is ready, it's going to be badass.
+**Mark:** There is planned utility. We'll leave it at that. We do have plans, and no, we're not going to say it yet, when all that stuff is ready, it's going to be badass.
 
-**Troy:** I mean, if I could give a little. The new Graviton website launched, and there's some stuff on there that provides a little bit of an update on this. The token will be mined through a live streaming service, and anyone who contributes GPU power to this system will be able to mine XYZ. I'm going to leave it at that, though. There's also some other stuff we're working on, but I just can't talk about it.
+**Troy:** I can talk a little. 
+
+The new [Graviton](https://graviton.xyz) website launched, and there's some information on there. The token will be mined through a live streaming service, and anyone who contributes GPU power to this system will be able to mine XYZ. I'm going to leave it at that. 
+
+There's some other stuff we're working on, but I can't talk about it. 🤐
 
 **Mark:** Thanks, Troy.
 
 **Troy:** Hey, man, any time.
 
-**Mark:** Okay. Tyler likes James F and his ideas.
+### **Question: Navi**
 
-**Mark:** Okay. Here's Marklar sending this stuff on, Avagotchi. Okay. Does anybody have any other questions? I mean, it's exciting. We're super close.
+What can the community do to help at University succeed the most? 
 
-### **Question:**
-
-Sick Navi is coming in here and asking some questions; What can the community do to help at University succeed the most? For example, like listing migrations? Is it better if we cancel other listings? 
+For example, like listing migrations? Is it better if we cancel other listings? 🧐
 
 #### **Answer:**
 
-**Mark:** Okay, so those are all really good questions. So really, the best thing that anyone can do for Universe right now is honestly test the Marketplace and give us your honest and best feedback. We want to hear from you guys and what the community wants. We're here to accept criticism. Another thing that anyone can do is tell your friends about us, like a retweet, follow, and share, that there is a decentralized competitor in the space coming, and we have been building for the last year, and we wanted to build this thing right. We knew it took longer than expected, but many people know about the Universe. I think some people need to be reminded that it's finally launching because we have been building this thing for the last ten months.
+**Mark:** The best thing that anyone can do for Universe, right now— test the Marketplace and give us your honest and best feedback. 
+
+We want to hear from you guys and what the community wants. We're here to accept criticism. Another thing that anyone can do is tell your friends about us, like a retweet, follow, and share, that there is a decentralized competitor in the space coming, and we have been building for the last year, and we wanted to build this thing right. We knew it took longer than expected, but many people know about the Universe. I think some people need to be reminded that it's finally launching because we have been building this thing for the last ten months.
 
 And another thing, too, is exactly what Navi is saying: migrating listings over is probably another way to help. Tyler mentioned that earlier. OpenSea has quite the monopoly on listings. That's partially why their volume is so crazy. But moving listings over, telling your friends, explaining that we're a decentralized alternative, honestly giving your best feedback back to us, and how can we improve to help the Marketplace and help Universe? 
 
