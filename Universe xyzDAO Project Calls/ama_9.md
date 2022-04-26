@@ -311,7 +311,7 @@ There's a good question here; Will each collection project needs to update the i
 
 Is the best way to coordinate marketing strategy by making proposals via DAO? 
 
-#### **Answer:**
+### **Answer:**
 
 **Mark:** Everyone asks about marketing. What do you guys want? Marketing like you want to do paid Twitter ads. Tyler and I used to run a marketing agency, and we don't think that spending money on marketing is like doing commercials. I mean, there are TV commercials. 
 
@@ -335,7 +335,7 @@ Is the best way to coordinate marketing strategy by making proposals via DAO?
 
 Is the Universe Foundation planning to raise more institutional money at some point, or are we done?
 
-#### **Answer:**
+### **Answer:**
 
 **Tyler:** The Universe doesn't have a foundation. And honestly, I think that if we realize that we're at a good spot in terms of funding at the Multi SIG. We'll have some creative ways to do it over time if we want to get more capital in the treasury to compensate people working on the project. We can pay attention to some of what happens at the rollout of Barnbridge and that DAO. We can ultimately play it by ear. But right now, we're not undercapitalized. We're under-talented. We always need more talent. So I don't think capital is the issue right now.
 
@@ -343,7 +343,7 @@ Is the Universe Foundation planning to raise more institutional money at some po
 
 James F asks; How are we moving FLUFs and associated projects over? 
 
-#### **Answer:**
+### **Answer:**
 
 **Mark:** Tyler was talking about this.
 
@@ -351,7 +351,7 @@ James F asks; How are we moving FLUFs and associated projects over?
 
 But I just thought of something because I'm reading through more questions, and; avgmayosandwich is saying some stuff; You can talk to XYZ. You can't talk to OpenSea.
 
-#### **Answer:**
+### **Answer:**
 
 **Mark:** There's a button on the FLUFs website that is a view on OpenSea. So maybe we can talk to Aaron about getting that switched from OpenSea to Universe.
 
@@ -379,7 +379,7 @@ Hold on. Let me finish this because this is important. I think people are going 
 
 Hardware wallet timeline?
 
-#### **Answer:**
+### **Answer:**
 
 **Mark:** That is something we're working on. We're trying to get it live insanely quickly. We are sorry that that is buggy. We're having an issue with the signing on the hardware wallets. Even with the Metamask integrations with Ledger, the Devs are working on it right now. In the near foreseeable future, we are going to solve that. We're trying to tweak out some of these last bugs and get some of these last things working properly. But still, we think that it was in a place where we could at least share this with everyone to come out and help us test a little more. But Rambler, it's the common man. 
 
@@ -387,7 +387,7 @@ Hardware wallet timeline?
 
 Can we keep the Google sheet open for additional feedback? Do we have a Google sheet open right now? Make a list today because I'm familiarizing myself with the site now,  but can we do it again in another week if we need to?
 
-#### **Answer:**
+### **Answer:**
 
 **Mark:** I think it was just the Google Form; we can leave the Google Form open. People can come and constantly try to add future requests, and we'll be going through those, and we'll decipher through there. And then we need to maybe come up with an idea of maybe if we get so many of the same feature requests, we'll create a snapshot proposal, and the community can vote on it.
 
@@ -397,7 +397,7 @@ But we're not just going to go and upgrade every single feature that someone req
 
 I'm not sure how this is a complaint. His NFT got frozen on OpenSea. Yeah, I think the question is; Will Universe freeze NFTs if they report it stolen?
 
-#### **Answer:**
+### **Answer:**
 
 **Mark:** I think we can freeze NFTs, but we can pull them off our front-end interface. Are we not going to freeze any NFTs? 
 
@@ -427,7 +427,7 @@ We can't stop you.
 
 MrSacks has a question; Are there future plans for Metaverse collaborations? Get NFTs Land listed on Universe Marketplace?  
 
-#### **Answer:**
+### **Answer:**
 
 **Mark:** Like the FLUF Burrows, he talked about adding a button to allow you to jump and leap right in. I don't understand why Medaverse Land doesn't already have more buttons where you can click right in. Crypto Voxels, you can go and click on the link, like on OpenSea, and then it brings you to Crypto Voxels. But I think you should have a button that just deploys you directly into that piece of property. So you could do a 360 walk-through, the same way people do real estate viewings now because of Covid. We're going to try to integrate cool stuff like that. That puts you through a portal to where you need to be. We're going to partner with them and do our best to do what they want because I'm sure these projects want added features that we haven't even thought of. So we'll see what they want to do as well. We do have plans to collaborate with a lot of different groups.
 
@@ -439,7 +439,7 @@ I mean, renting out an asset for the Metaverse with Ender DAO and putting that o
 
 Will there be a dark mode? 
 
-#### **Answer:**
+### **Answer:**
 
 **Mark:** I think we have a dark mode. It might not be coded yet or live on whatever you're looking at, but I'm sure there's a dark mode in the design. Okay, well, it'll get made; dark mode is on the way.
 
@@ -467,17 +467,19 @@ Sorry, guys. I'm just trying to read through all this. We're getting many questi
 
 ### **Question:**
 
-Okay, Is Universe going to offer a borrow against your NFT feature? 
+Is Universe going to offer a borrow against your NFT feature? 
 
-#### **Answer:**
+### **Answer:**
 
-**Mark:** No, we are not. But maybe we can integrate something like that. We can use someone else's API and plug it into our interface if someone else wants to. But we weren't going to build a borrowing platform for NFTs. 
+**Mark:** No, we are not. 
+
+Maybe we can integrate something like that. We can use someone else's API and plug it into our interface if someone else wants to. We weren't going to build a borrowing platform for NFTs. 
 
 ### **Question:**
 
-Okay, When is the Android and Apple App? 
+When is the Android and Apple App? 
 
-#### **Answer:**
+### **Answer:**
 
 **Mark:** Just so you know, we were going to build an app, and we stopped. We decided it was not worth the time, effort, or money. The reason is because if you see the OpenSeas app, it's just a view-only app. It's not going to drive sales. There are rules that you can't sell things in crypto on the Apple Marketplace. They have all these weird laws, and you're violating the rights to their contract agreement and all this stuff. Gnosis Safe got into a legal suit with them, and it seemed like more of a headache to try and build this thing.
 
@@ -499,7 +501,7 @@ Having your wallet on your phone, that is that's a security risk? So us releasin
 
 Pg; your question; Will XYZ Marketplace be crypto-only, or are there plans to integrate credit cards, PayPal, other legacy types of payments or is this a regulatory headache for now? 
 
-#### **Answer:**
+### **Answer:**
 
 **Mark:** We're not a company, and we can't accept US dollars. A few businesses were set up around Universe that maybe we could potentially explore those options. Still, Universe XYZ DAO is not going to be accepting any US dollar payment. We'll accept USDC and DAI crypto forms of the US dollar. But us being a United States company or not being a United States company.
 
@@ -511,7 +513,7 @@ Pg; your question; Will XYZ Marketplace be crypto-only, or are there plans to in
 
 Okay, we answered this; Besides XYZ, Eth and Weth, what other currencies will be used.
 
-#### **Answer:**
+### **Answer:**
 
 **Mark:** You also have USDC and DAI as currencies that will be used. 
 
