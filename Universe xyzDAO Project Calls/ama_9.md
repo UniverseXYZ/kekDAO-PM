@@ -14,7 +14,7 @@ Moderator: Mark Ward
 
 Scribe: Tammy M.
 
-Attendees: Mark Ward, Tyler Ward, Troy Murray, Ryan Shtirmer, Algernon (Young Algy), Nick Ward, Rayne Leach, Zach Owens
+Attendees: Mark Ward, Tyler Ward, Troy Murray, Ryan Shtirmer, Algernon (Young Algy), Nick Ward, Rayne Leach, Zach Owens, Trevor Latson
 
 ## Intro
 
@@ -285,27 +285,36 @@ For example, like listing migrations? Is it better if we cancel other listings? 
 
 **Mark:** The best thing that anyone can do for Universe, right now— test the Marketplace and give us your honest and best feedback. 
 
-We want to hear from you guys and what the community wants. We're here to accept criticism. Another thing that anyone can do is tell your friends about us, like a retweet, follow, and share, that there is a decentralized competitor in the space coming, and we have been building for the last year, and we wanted to build this thing right. We knew it took longer than expected, but many people know about the Universe. I think some people need to be reminded that it's finally launching because we have been building this thing for the last ten months.
+We want to hear from you guys and what the community wants. We're here to accept criticism. Another thing that anyone can do is tell your friends about us, like a retweet, follow, and share our socials. There a decentralized competitor in the space coming, and we have been building for the last year.
 
-And another thing, too, is exactly what Navi is saying: migrating listings over is probably another way to help. Tyler mentioned that earlier. OpenSea has quite the monopoly on listings. That's partially why their volume is so crazy. But moving listings over, telling your friends, explaining that we're a decentralized alternative, honestly giving your best feedback back to us, and how can we improve to help the Marketplace and help Universe? 
+OpenSea has quite the monopoly on listings. That's why their volume is so crazy. Moving some listings over, telling your friends, explaining that we're a decentralized alternative, giving your best feedback back to us, and how can we improve to help the Marketplace and help Universe will do wonders. 
 
-**Ryan:** Let me bounce off you, Mark, on this with the spreading that we're a DAO in the community, and actually, you can participate in it. I think what would be helpful is you guys with collections that aren't showing up, and there's going to be a lot of those at first. It's going to get better and better can go in and talk with each other and say, which ones do you want to see? Come in first and start making proposals, and they will get pulled in quickly after that. I think it would be a good community effort and an actionable way to help the Marketplace bootstrap our data scraper?
+**Ryan:** Let me bounce off you, Mark, on this— inform the community we're a DAO, you can participate in the direction. Another thing, anyone with collections that aren't showing up— and there's going to be several at first —let us know. 
 
-**Mark:** I think that's a really good point. We all buy a lot of NFTs, but we don't buy all of them. We know there are cool collections that we don't even know about that some people love and want to have and see in their wallets. So Ping us. I think we're adding a channel for collections to be added. Rayne is working on that, and we'll be able to prioritize those collections that people care about the most. Then that scraper will eventually catch up, and we're going to be able to have all those NFTs available in our wallets.
+It's will get better and better. We can start making proposals, and they will get pulled in quickly after that. That's how everyone can help. It's an actionable way to help the Marketplace— it bootstraps our data scraper.
+
+**Mark:** I think that's an excellent point. We buy a lot of NFTs, but we don't buy all of them. There are cool collections we don't even know about that people love. 
+
+Ping us. We're adding a channel for collections to get added. Rayne is working on that, and we'll be able to prioritize those collections that people care about the most. The scraper will eventually catch up and all the NFTs will get displayed.
 
 ### **Question:**
 
-There's a good question here; Will each collection project needs to update the information on each collection? 
+Will each collection project needs to update the information on each collection? 
 
-#### **Answer:**
+### **Answer:**
 
-**Ryan:** So each project has to update its royalties. That has to be done to get the royalty set up. If you want royalties on a collection you own, you can update royalties on the collection page. If there is no collection page, you can reach out, and we'll help it get all set up on the side of collection descriptions and names. For now, you can update them manually on our site on the Marketplace Alpha link. That has been passed around a little bit, which will stay on in the process. If you update it now, it'll stay alive. We will be pulling in more descriptions and names of collections, images, etc. But for now, you'll be able to update them at the very least. Then if you don't like the updates that we pull in in the future, you can always change them again.
+**Ryan:** Each project has to update its royalties. 
 
-**Mark:** We will tweet to have some of the collections try to reach out to us. But another thing that as a community can help with, too, is if you're very active in a certain Discord like Doodles or Board Ape Yacht Club, and you're talking with the Founders of one of those projects, you're like, hey, Universe is dropping. I can get you in touch with Mark, Ryan or Tyler and message us and link us together with them because the Board Ape team is not easy to get in touch with. But we don't want collections like that to feel like they got burned because people went and were trading, and they hadn't set up their royalties. So a really good way for everyone to come out and help us would be to chime in your favourite Discords and invite them to our Discord and fill out one of those forms or get them in a chat room with us where we can do our best to guide them to get everything set up and help all these collections.
+If you want royalties on a collection you own, you can update royalties on the collection page. If there is no collection page, you can reach out, and we'll help it get all set up on the side of collection descriptions and names. For now, you can update them manually on our site on the Marketplace Alpha link. If you update it now, it'll stay alive. We will be pulling in more descriptions and names of collections, images, etc. 
 
-**Ryan:** Sorry, I might have skipped over some questions there.
+For now, you'll be able to update them at least.
 
-**Mark:** Yeah, you did. But it's all good. 
+**Mark:** We will tweet to have collections reach out to us. 
+
+You can also help by talking with project founders— If you're close, tell them, Universe is dropping. Let them know you can get them in touch with Mark, Ryan or Tyler. Message us and link us together with them because the Bored Ape team is not easy to get in touch with. We don't want collections like that to feel like they got burned because people went and were trading, and they hadn't set up their royalties. 
+
+Speak up in your favourite Discords and invite them to our Discord and fill out one of those forms. Or get them in a chat room with us, we can do our best to guide them and get everything set up for custom collections.
+
 
 ### **Question:**
 
@@ -313,21 +322,29 @@ Is the best way to coordinate marketing strategy by making proposals via DAO?
 
 ### **Answer:**
 
-**Mark:** Everyone asks about marketing. What do you guys want? Marketing like you want to do paid Twitter ads. Tyler and I used to run a marketing agency, and we don't think that spending money on marketing is like doing commercials. I mean, there are TV commercials. 
+**Mark:** Everyone asks about marketing. 
 
-**Ryan:** Maybe we can come up with something creative. You can probably chat in Discord about it first and maybe make a forum proposal. Then once there's an idea formulated on exactly what you'd want to do and what kind of budget it's looking like, you could put that up for a snapshot vote and then an on-chain vote to get the voting source. But I don't have any ideas on that front, just highlighting how you would go if that is an avenue you want to contribute towards.
+What do you guys want? You want to do paid Twitter ads? Tyler and I used to run a marketing agency, and we don't think that spending money on marketing is like doing commercials.
+
+**Ryan:** Maybe we can come up with something creative. 
+
+You can probably chat in Discord about it first and maybe make a forum proposal. Then once there's an idea formulated on exactly what you'd want to do and what kind of budget it's looking like, you could put that up for a snapshot vote and then an on-chain vote. 
+
+I don't have any ideas on that front, I'm only highlighting how you would go if that is an avenue you want to contribute towards.
 
 **Mark:** We are expanding our social media range to other platforms outside of Twitter. We have almost 25,000 followers on Twitter. We've never bought a follower. Organic growth in this industry outpaces trying to pay for clicks. Or, if you guys want, we can start promoting our tweets on Twitter.
 
-**Tyler:** We've never bought a single thing in crypto-based on an ad versus word of mouth; word of mouth works better. The best thing I think we can do from a word of mouth perspective. I know many people in this Discord and are major FLUF fans on this AMA. So if we can get all the FLUF people to list everything in the FLUF ecosystem, we can start listing. If you have a Polymorph for sale on OpenSea, relist it on Universe. You only have to approve the Polymorph contract once, and then you can list all of the things for essentially free. So let's say you have 20 Polymorphs listed. You're going to pay a $9 fee to approve the Polymorphs, and then you can relist all of them again. But I think that long-term things like Polymorphs and Deviants are coming and Seekers, Party Bears, ASM Brains, AFA, FLUFs and Lobby Lobsters.
+**Tyler:** We've never bought a single crypto-based ad. Only word of mouth; word of mouth works better. 
 
-**Mark:** We are talking with them.
+I know many people in this Discord and are major FLUF fans on this AMA. If we can get all the FLUF people to list everything from the FLUF ecosystem— on Universe, that would help a lot. If you have a Polymorph for sale on OpenSea, relist it on Universe. You only have to approve the Polymorph contract once, and then you can list everything with a signature. Even if you want to list 20 Polymorphs. You're going to pay a $9 fee to approve the Polymorphs, and then you can relist all of them on Universe.
 
-**Tyler:** We don't have much to build on if we can't win against OpenSea on those projects. So I thought that talking to communities close to us built with us in many ways. Some of the attachment to us even legitimized us in the early days when we just rolled up our sleeves and tried to help them. I would like it if a lot of those projects return the favour. I can tell their Founders that, but it's a big difference if people in their community list on Universe.
+We don't have much to build on if we can't win against OpenSea with major projects. (FLUF Ecosystem) 
 
-**Mark:** And we're talking with those guys; we're super aligned with Aaron and David and that whole ecosystem.
+Talking to communities close to us, ones who built with us in many ways. Some of the attachment and the synergy even legitimized us in the early days when we rolled up our sleeves and tried to help everyone. I would like it if a lot of those projects return the favour. I can tell their founders that, but it's a big difference if people in their community list on Universe.
 
-**Tyler:** Right. But it's one thing for me to talk to Aaron and David. It's another thing for active people because I can't be active in the FLUFs Discord. As much as I love FLUFs, I have much other stuff on my plate. But people who are active in that Discord are active in flipping NFTs. The best thing that we can do is that there are no incentivized listings to try to get people.
+**Mark:** We're talking with those guys; we're super aligned with Aaron and David and that whole ecosystem.
+
+**Tyler:** Right. But it's one thing for me to talk to Aaron and David. It's another thing for active people because I can't be active in the FLUFs Discord. As much as I love FLUFs, I have much other stuff on my plate. But people who are active in that Discord are active in flipping NFTs.
 
 **Mark:** Yeah, it's going to be a battle. 
 
@@ -337,35 +354,34 @@ Is the Universe Foundation planning to raise more institutional money at some po
 
 ### **Answer:**
 
-**Tyler:** The Universe doesn't have a foundation. And honestly, I think that if we realize that we're at a good spot in terms of funding at the Multi SIG. We'll have some creative ways to do it over time if we want to get more capital in the treasury to compensate people working on the project. We can pay attention to some of what happens at the rollout of Barnbridge and that DAO. We can ultimately play it by ear. But right now, we're not undercapitalized. We're under-talented. We always need more talent. So I don't think capital is the issue right now.
+**Tyler:** The Universe doesn't have a foundation. 
+
+We're at a good spot in terms of funding at the Multi SIG. We'll have some creative ways to do it over time if we want to get more capital in the treasury to compensate people working on the project. We can pay attention to some of what happens at the rollout of Barnbridge and their DAO. We can play it by ear. Right now, we're not undercapitalized. We're under-talented. We always need more talent. I don't think capital is the issue right now.
 
 ### **Question:**
 
-James F asks; How are we moving FLUFs and associated projects over? 
+How are we moving FLUFs and associated projects over? 
 
-### **Answer:**
 
-**Mark:** Tyler was talking about this.
+### **Question: avgmayosandwich**
 
-### **Question:**
+**Mark:** There's a button on the FLUFs website that is a view on OpenSea. We can talk to Aaron about getting that switched from OpenSea to Universe. (or adding an additional button)
 
-But I just thought of something because I'm reading through more questions, and; avgmayosandwich is saying some stuff; You can talk to XYZ. You can't talk to OpenSea.
+**Tyler:** Even some of our stuff like Enter DAO and Sharded Minds. We should definitely get to them to list on Universe.
 
-### **Answer:**
+**Mark:** I've already talked to David and Aaron about this. Our ecosystem partners, like Enter DAO, the FLUF Burrows. There are a lot of cool items.
 
-**Mark:** There's a button on the FLUFs website that is a view on OpenSea. So maybe we can talk to Aaron about getting that switched from OpenSea to Universe.
+This is important. When you have an ASM brain, you're going to be able to put it in a FLUF. You're going to be able to do all this other stuff. I've already talked to David, and I said we can put buttons on the Marketplace that say "put this brain in another NFT". Maybe button that brings me directly to my burrow? I don't have to go to the underground, click through all this stuff, and go to my burrow. I have it right here. Boom. Click and go there. 
 
-**Tyler:** Even some of our stuff like Enter DAO and Sharded Minds. We should definitely get to go.
+People are going to want to use Universe because we can easily integrate the underground into our Marketplace. Even Enter DAO can rent an asset out of the front end. That's one thing that many people may not realize. Any NFT minted on Universe Contracts is compatible with Enter DAO and Land Works. You can rent any NFT. You could rent out your Polymorph for a party or something.
 
-**Mark:** Well, here's one thing that I've already been talking about people are going to want. Okay, I'll drop alpha because I've already talked to David and Aaron about this. Our ecosystem partners, like Enter DAO, the FLUF Burrows. There are a lot of cool items.
+**Tyler:** That will be important when it comes to gaming. One thing I was going to say is that I just hired a UI/UX person who I'm going to start designing figmas of a Marketplace. I don't know their tech stack, a custom Marketplace for certain projects, and flipping them to the founders of those projects. It's not like we can code them for them. But if we get to that point and that's successful, maybe we start coding them and open source them and give them away. 
 
-Hold on. Let me finish this because this is important. I think people are going to like this. So when you have an ASM brain, you're going to be able to put it in a FLUF. You're going to be able to do all this other stuff. But what if I've already talked to David, and I said we can put buttons on the Marketplace that's, put this in another NFT and then okay, you have your FLUF Burrow. How about I have a button that brings me directly to my burrow? I don't have to go to the underground, click through all this stuff, and go to my burrow. It's like, okay, I have it right here. Boom. Click and go there. And then integrate buttons, maybe put a swap feature for and just make the UI more friendly to those collections. People are going to want to use them because we can easily just integrate the underground into our Marketplace. Even Enter DAO can rent an asset out of the front end. That's one thing that many people maybe not realize. But any NFT minted on Universe Contracts is compatible with Enter DAO, Land Works, Land Writing, and they call it Land Works. But you can rent any NFT. You could rent out your polymer for a party or something.
+Realistically, if FLUFs had a Marketplace on their site, it's likely going to be Universe because we'll probably help them build that. I would say the same with Sharded Minds. Enter DAO is going to build into it. We go to Polygon like League DAO, and I've even talked to Fractional, and we could probably do something like that with Charged Particles. We need to get as many listings as possible. And that is one of the ways that I think will work to do that. 
 
-**Tyler:** Which will be important when it comes to gaming. One thing I was going to say is that I just hired a UI UX person who I'm going to start designing figmas of a Marketplace. I don't know their tech stacks, a custom Marketplace for certain projects, and flipping them to the Founders of those projects. So it's not like we can code them for them. But if we get to that point and that's successful, maybe we start coding them and open source them and give them out. But realistically, if FLUFs had a Marketplace on their site, it's most likely going to be Universe because we'll probably help them build that. I would say the same with Sharded Minds. Enter DAO is going to build into it. We go to Polygon like League DAO, and I've even talked to Fractional, and we could probably do something like that with Charged Particles. So we need to get as many listings as possible. And that is one of the ways that I think will work to do that. 
+**Mark:** We're thinking of this for our NFTs, you're going to be able to scramble your Polymorph from the Marketplace. 
 
-**Mark:** I think adding features to, and even we're going to do this to our NFTs, you're going to be able to scramble your Polymorph from the Marketplace. 
-
-**Troy:** That's where the whole finders fee stuff comes in. You can build out your own interface on top of the Marketplace, and that's the big incentivization because then the front end can also take a cut, and those types of features should end up more over on their sites. And then they plug in almost like plugging into a back end to our Marketplace, and that's where that stuff starts to get interesting.
+**Troy:** That's where the whole finders fee comes in. You can build out your own interface on top of the Marketplace, and that's a big incentive. Then the front end can also take a cut, and those types of features should end up more over on their sites. And then they plug in almost like plugging into a back end to our Marketplace, and that's where that stuff starts to get interesting.
 
 **Mark:** Just to access liquidity.
 
@@ -373,7 +389,9 @@ Hold on. Let me finish this because this is important. I think people are going 
 
 **Mark:** Super interesting.
 
-**Troy:** Gravitons are working on some stuff like that too. Some of the applications that are being built will use Universe Marketplace, but there'll be a front end built on top of it. And then Graviton, the company, takes a finder's fee, but everything will be listed on the Universe Marketplace, and you'll be able to find it on Universe Marketplace. Still, you'll also be able to find a specific collection like that specific collection of what it's connected to. I'm not going to say what that is yet, but it will be listed on the front end of Graviton. But it will still be using Universe's Marketplace, and there will be a fee-sharing system where that's what that finder's fee is. So the collection front end that uses the Marketplaces back end, that front end takes a cut, but then the line share goes to the Universe Marketplace, so they don't have to build their own on-chain liquidity system. If you think about it, it's how Uniswap works, which we've been saying. This is the Uniswap for NFTs.
+**Troy:** Graviton's working on something like that. Some of the applications that are being built will use Universe Marketplace, but there'll be a front end built on top of it. Graviton, the company, takes a finder's fee, but everything gets listed on the Universe Marketplace, and you'll be able to find it on Universe Marketplace. You'll also be able to find a specific collection. 
+
+I'm not going to say what that is yet, but it will be listed on the front end of Graviton. But it will still be using Universe's Marketplace, and there will be a fee-sharing system— that's where that finder's fee exists. The collection front end that uses the Marketplaces back end, that front end takes a cut, but then a share goes to the Universe Marketplace, so they don't have to build their own on-chain liquidity system. If you think about it, it's how Uniswap works, which we've been saying. This is the Uniswap for NFTs.
 
 ### **Question:**
 
@@ -381,21 +399,30 @@ Hardware wallet timeline?
 
 ### **Answer:**
 
-**Mark:** That is something we're working on. We're trying to get it live insanely quickly. We are sorry that that is buggy. We're having an issue with the signing on the hardware wallets. Even with the Metamask integrations with Ledger, the Devs are working on it right now. In the near foreseeable future, we are going to solve that. We're trying to tweak out some of these last bugs and get some of these last things working properly. But still, we think that it was in a place where we could at least share this with everyone to come out and help us test a little more. But Rambler, it's the common man. 
+**Mark:** That is something we're working on. 
+
+We're trying to get it live insanely quick. We are sorry about the bug. We're having an issue with signatures on the hardware wallets. Even with the Metamask integration and Ledger, the devs are working on it right now. We will solve that. We're trying to tweak out some of these final nuances. However, we think that we are in a place where we could share this with everyone. 
+
+If everyone can help us test a little more we'd apprecuate it. 
 
 ### **Question:**
 
-Can we keep the Google sheet open for additional feedback? Do we have a Google sheet open right now? Make a list today because I'm familiarizing myself with the site now,  but can we do it again in another week if we need to?
+Can we keep the Google sheet open for additional feedback?
 
 ### **Answer:**
 
-**Mark:** I think it was just the Google Form; we can leave the Google Form open. People can come and constantly try to add future requests, and we'll be going through those, and we'll decipher through there. And then we need to maybe come up with an idea of maybe if we get so many of the same feature requests, we'll create a snapshot proposal, and the community can vote on it.
+**Mark:** We have a Google form; we will leave form open. 
 
-But we're not just going to go and upgrade every single feature that someone requests. If there are bugs, we need to fix the bugs, but feature requests are going to be handled a little bit differently than bug requests.
+> [Google Form: Project Request](https://forms.gle/YuAihMh6VjATdPKq5)
+> [Google Form: Marketplace Feedback](https://forms.gle/Rj3fHVkkJcVuwLsc8)
+
+People can come and constantly try to add future requests, and we'll be going through those, and we'll decide through there. If we get many of the same feature requests, we'll create a snapshot proposal, and the community can vote on it.
+
+We're not just going to go and enact every feature that gets requested. If there are bugs, we need to fix the bugs, but feature requests are going to be handled a little bit differently than bug requests.
 
 ### **Question:**
 
-I'm not sure how this is a complaint. His NFT got frozen on OpenSea. Yeah, I think the question is; Will Universe freeze NFTs if they report it stolen?
+Will Universe freeze NFTs if they report it stolen?
 
 ### **Answer:**
 
@@ -403,17 +430,23 @@ I'm not sure how this is a complaint. His NFT got frozen on OpenSea. Yeah, I thi
 
 **Tyler:** That's a Ryan question because I don't know the legality.
 
-**Add Speaker:** The legality is that we have to take them off the front end.
+**Ryan:** The legality is that we have to take them off the front end.
 
 If you want to plug into our back end.
 
 We can't stop you.
 
-**Tyler:** I don't think OpenSea can do that either, to be honest. I believe they are just freezing it on their front end. Maybe part of the giving permission to OpenSea allows them to do that, but I think my gut says they're just freezing on their front end. But I don't know how OpenSeas Contracts work because they're not open source. So maybe when you approve something on OpenSea, it gives them the ability to do that. And if that's true, that's not good that a centralized tech company owns that power. Our smart contracts don't give us the ability to freeze NFTs. But if something nefarious happens and the FBI shows up at my house, it is coming off the interface, not going to jail for people doing stupid s--t on Universe.
+**Tyler:** I don't think OpenSea can do that either, to be honest. I believe they are just freezing it on their front end. Maybe part of the giving permission to OpenSea allows them to do that, but I think my gut says they're just freezing on their front end. But I don't know how OpenSeas Contracts work because they're not open source. Maybe when you approve something on OpenSea, it gives them the ability to do that. And if that's true, that's not good that a centralized tech company owns that power. 
 
-**Ryan:** anything illegal will be pulled from the front end, hopefully quickly. Beyond that, we can have DAO Votes if people want to have certain content pulled. I don't have any clear specifications around how it would look, but we ultimately can't stop things moving through the contracts want to pop up and offer those listings on their site through our website.
+Our smart contracts don't give us the ability to freeze NFTs. But if something nefarious happens and the FBI shows up at my house, it is coming off the interface, not going to jail for people doing stupid 💩 on Universe.
 
-**Tyler:** I think that was what he was asking. He was saying that's his point. We will pull it off. If we get DCMA, we're going to comply. That's not our legal battle to fight on behalf of the industry. Go ahead if you want to launch your own Marketplace and plug into our protocol. But we're not going to show it on ours if we have to respond to a DCMA because otherwise, they'll just hit Amazon with the DCMA and the whole Marketplace goes down. This isn't pure anarchy. We still have to live by the rule of law. I think it's a really good question because I have never considered how sketchy that is that OpenSea can freeze people's property.
+**Ryan:** anything illegal will be pulled from the front end. Beyond that, we can have DAO Votes if people want to have certain content pulled. I don't have any clear specifications around how it would look, but we can't stop things moving through the contracts.
+
+**Tyler:** I think that was what he was asking. He was saying that's his point. We will pull it off. If we get DCMA, we're going to comply. 
+
+That's not our legal battle to fight on behalf of the industry. Go ahead if you want to launch your own Marketplace and plug into our protocol. But we're not going to show it on ours if we have to respond to a DCMA because otherwise, they'll just hit Amazon with the DCMA and the whole Marketplace goes down. This isn't pure anarchy. We still have to live by the rule of law. 
+
+I think it's a good question because I have never considered how sketchy that is that OpenSea can freeze people's property.
 
 **Mark:** I think they can move NFTs, too.
 
@@ -421,19 +454,19 @@ We can't stop you.
 
 **Tyler:** We can tell you what we can do, and I mean, trust and verify. You can look for yourself at the contracts or open source.
 
-**Ryan:** Right. I think creators should not worry about their content just being pulled one day. If, for some reason, your content is questionable or up for debate, whether it's graphic or whatever it may be. People want to have a vote around it; you'll have the opportunity to have a say and come up with a reason why you believe it should stay and should Universe, and it ultimately is up to the community because it's a DAO and that's how I think it should be. I think everyone agrees, or I would hope so.
+**Ryan:** Right. I think creators should not worry about their content being pulled one day. If, for some reason, your content is questionable or up for debate, whether it's graphic or whatever it may be. People want to have a vote around it; you'll have the opportunity to have a say and come up with a reason why you believe it should stay and should get displayed on Universe. It is up to the community because it's a DAO and that's how I think it should be. I think everyone agrees, or I would hope so.
 
 ### **Question:**
 
-MrSacks has a question; Are there future plans for Metaverse collaborations? Get NFTs Land listed on Universe Marketplace?  
+Are there future plans for Metaverse collaborations? Get NFTs Land listed on Universe Marketplace?  
 
 ### **Answer:**
 
-**Mark:** Like the FLUF Burrows, he talked about adding a button to allow you to jump and leap right in. I don't understand why Medaverse Land doesn't already have more buttons where you can click right in. Crypto Voxels, you can go and click on the link, like on OpenSea, and then it brings you to Crypto Voxels. But I think you should have a button that just deploys you directly into that piece of property. So you could do a 360 walk-through, the same way people do real estate viewings now because of Covid. We're going to try to integrate cool stuff like that. That puts you through a portal to where you need to be. We're going to partner with them and do our best to do what they want because I'm sure these projects want added features that we haven't even thought of. So we'll see what they want to do as well. We do have plans to collaborate with a lot of different groups.
+**Mark:** Like the FLUF Burrows, we talked about adding a button to allow you to jump right in. 
 
-I mean, renting out an asset for the Metaverse with Ender DAO and putting that on our interface because you own a Crypto Voxels plot or a JawDo jet pack. Do you want to rent that out to someone in the Metaverse? That's powerful. Then something that's also extremely powerful that I think is going to bootstrap the Metaverse is the fact that we're a liquidity layer protocol in a Metaverse. We have built the contracts that you can now plug into. You can now buy something off the wall, and these Crypto Vauxhalls in the central will have to integrate with our back end. But they can create a widget now in the Metaverse, which will connect to our smart contracts. You'll be able to make a sale because anyone in some of the current Metaversus knows that you have to leave crypto Voxels or some of these sites to make the sale. I think it's super powerful to be able to buy something off the wall. Our smart contracts are something that is going to make that possible.
+I don't understand why Metaverse Land doesn't already have more buttons for accessability. Crypto Voxels, you can go and click on the link on OpenSea, and then it brings you to Crypto Voxels. I think you should have a button that just deploys you directly into that piece of property. You could do a 360 walk-through, the same way people do real estate viewings now because of Covid. We're going to try to integrate cool stuff like that. That puts you through a portal to where you need to be. We're going to partner with them and do our best to do what they want because I'm sure these projects want added features that we haven't even thought of. So we'll see what they want to do as well. We do have plans to collaborate with a lot of different groups.
 
-**Mark:** We will have to see them integrate and partner with us on this. 
+We're a liquidity layer protocol for the Metaverse. We have built the contracts that you can now plug into. You can now buy something off the wall, and these CryptoVoxels— we can integrate our backend there. They can create a widget now in the Metaverse, which will connect to our smart contracts. You'll be able to make a sale in the Metaverse. Some of you Metaversians know, you have to leave CryptoVoxels or other Metalands to make sales. I think it's powerful being able to buy something off the wall. Our smart contracts are something that will make that possible.
 
 ### **Question:**
 
@@ -441,29 +474,25 @@ Will there be a dark mode?
 
 ### **Answer:**
 
-**Mark:** I think we have a dark mode. It might not be coded yet or live on whatever you're looking at, but I'm sure there's a dark mode in the design. Okay, well, it'll get made; dark mode is on the way.
+**Mark:** We'll have a dark mode. There's a dark mode in the design. Dark mode is on the way.
 
 **Algy:** We should have had that pushed at launch. I don't know why we didn't.
 
-**Mark:** Technically, we're not even launched right now. So everyone right now has early access to the beta. This is an early look; I mean, this is bare bones. I'm not going to lie. We have stuff coming. For some of our minting contracts, we will not say what they are just because of how unique and cool they are. We don't want people trying to front-run us on what we've done. Tim Kang has been crushing it on writing. He's the smart contract, God. He has created some creative and interesting minting contracts that we will be plugging in soon. We have 3 or 4 types of NFT minting that nobody has ever seen before.
+**Mark:** Technically, we're not even launched right now. People have access to the beta. This is an early look; I mean, this is bare bones. I'm not going to lie. We don't want people trying to front-run us on what we've done. Tim Kang has been crushing it on writing. He's the smart contract, God. He has created some creative and interesting minting contracts that we will be plugging in soon. We have 3 or 4 types of NFT minting that nobody has ever seen before.
 
-**Tyler:** someone bought my ETH Lizard on this call from Universe.
+**Tyler:** Someone bought my ETH Lizard during this call— from Universe.
 
-**Mark:** Damn. Someone bought Tyler's ETH Lizard. Welcome to the ETh Lizard family. I changed my background to an ETH Lizard today.
+**Mark:** Welcome to the ETh Lizard family. I changed my background to an ETH Lizard today.
 
-**Ryan:** That's the first sale on the Marketplace from the community.
+**Ryan:** That's the first sale on the Marketplace from the community. 
 
-**Mark:** Let's go. Tyler GGS
+**Mark:** Let's go. Tyler GG 🎉
 
 **Ryan:** The DAO earned .005 ETH fees or something like that. You're on the team, fella.
 
-**Mark:** Okay, people, I'm reading. YouTube videos that are boring in instructional. Okay, this is all pretty good. Thank you, JVK. These are all really good ideas. 
+**Mark:** Okay, thank you, Fluffer Nutter, for listing your FLUFs. We appreciate you, but honestly, if you're selling FLUFs, you're probably not going to make it. 
 
-**Mark:** Okay, thank you, Fluffer Nutter, for listing your FLUFs. We appreciate you, but honestly, if you're selling FLUFs, you're probably not going to make it. But I know you have probably 30 FLUFs. Maybe you should consider it; I guess listing them will help. Okay, everyone can help by speaking up a bit about the power of Universe XYZ. Thank you, Knowledgeable Idiot. The power goes back to that. The whole thing is that we're a DAO, all in control, and we're in this together. We're going to build this Marketplace together. We built the bones. Let's get the flesh going. And I think all of us need to do that together. We can't do it by ourselves at this point. We need the community to help push this thing. The best marketing is having people with a large following on Twitter that are legit? We have some legit people that we can have to promote the Marketplace, and we'll work on that, James F. okay, there's just a lot of chatter.
-
-**Mark:** I'm not sure if these are questions.
-
-Sorry, guys. I'm just trying to read through all this. We're getting many questions, but some of it is discussion and responses to things that we've asked. Well, I do not see questions. It looks like more responses. 
+But I know you have probably 30 FLUFs. Maybe you should consider it; I guess listing them will help. Okay, everyone can help by speaking up a bit about the power of Universe XYZ. We're a DAO, all of us are in control, and we're in this together. We're going to build this Marketplace together. We built the bones. Let's get the flesh going. We can't do it by ourselves at this point. We need the community to help push this thing. The best marketing is having people with a large following on Twitter that are legit. We have some legit people that we can have promote the Marketplace.
 
 ### **Question:**
 
