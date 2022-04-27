@@ -510,7 +510,7 @@ When is the Android and Apple App?
 
 ### **Answer:**
 
-**Mark:** JWe were going to build an app, and we stopped. We decided it was not worth the time, effort, or money. The reason is because if you see the OpenSeas app, it's a view-only app. It's not going to drive sales. 
+**Mark:** We were going to build an app, and we stopped. We decided it was not worth the time, effort, or money. The reason is because if you see the OpenSeas app, it's a view-only app. It's not going to drive sales. 
 
 There are rules that you can't sell things regarding crypto on the Apple Marketplace. They have all these weird laws, and you're violating the rights to their contract agreement and all this stuff. Gnosis Safe got into a legal suit with them, and it seemed like more of a headache to try and build this thing.
 
@@ -581,31 +581,33 @@ When decentralization video?
 
 ### **Answer:**
 
-**Mark:** I'll talk to Ivan, and we'll see if we can get that cranked out in the next few weeks. And Zach and I will work on all that copy and get our Founders to review it and make sure everything is to T, and we will get that out to you guys.
+**Mark:** I'll talk to Ivan, and we'll see if we can get that cranked out in the next few weeks. Zach and I will work on all the copy and get our founders to review it and we will get that out to you guys.
 
 ### **Question:**
 
-I have a question for someone. This lindy person asked something that I didn't understand. Access points to the wallet, Zapper, Rainbow Wallet, etc. All that. 
+Access points to the wallet; Zapper, Rainbow Wallet, etc. All that. 
 
 ### **Answer:**
 
 **Algy:** We're on Zapper already. I'm not saying that that's answering your question, but I'm wondering what is your vision for integration with Zapper or Rainbow Wallet? 
 
-**Mark:** I know what he's asking. So let me just answer this. Genie and Gem are about to integrate with us. And I was at a party a few weeks ago, and I met some of the OpenSea guys, and I even mentioned to them we'll give anybody a founder's fee if they plug into our liquidity. The OpenSea guys seem interested in plugging into our liquidity and bringing more listings to their Marketplace. That's not a set in stone thing. But we are having those conversations with other Marketplaces and other three teams like Gem and Genie. So that founder's fee is super powerful, and that comes out of the Universe fee, that comes out of our pocket, not anyone else's. But we think that's going to drive much liquidity. If OpenSea was to plug into our protocol and they have a listing or sell one of our listings, we both would make something from that. That needs to be the angle is anybody can plug into the Universe. I don't see why they wouldn't want to.
+**Mark:** I know what he's asking. So let me just answer this. Genie and Gem are about to integrate with us. And I was at a party a few weeks ago, and I met some of the OpenSea guys, and I even mentioned to them we'll give anybody a founder's fee if they plug into our liquidity. The OpenSea guys seem interested in plugging into our liquidity and bringing more listings to their Marketplace. That's not a set in stone thing. But we are having those conversations with other Marketplaces and other teams like Gem and Genie. The founder's fee is super powerful, and that comes out of the Universe fee, that comes out of our pocket, not anyone else's. We think that's going to drive much liquidity. If OpenSea was to plug into our protocol and they have a listing or sell one of our listings, we both make something from that. That needs to be the angle— anybody can plug into the Universe. I don't see why they wouldn't want to.
 
-**Algy:** Yes. I guess what I was wondering is; What would Zapper do? You go on Zapper, and you can trade your NFTs on Zapper.
+**Algy:** Yes. I guess what I was wondering is; What would Zapper do? You go on Zapper, and you can trade your NFTs on Zapper?
 
-**Mark:** You're saying you could build a front end that you could build an NFTs version of Zapper that plugs into universal liquidity. You can build your own Marketplace for your own NFT project and list it through the Universe protocol contracts, and it's going to get listed on Universe. Then if OpenSea is plugged into that contract, too, it'll get listed on OpenSea. So that's the power of the protocol is, listed in one place, and it gets listed everywhere. In sales, most people are; you need all points of contact. What if you list 1 NFT on 1 Marketplace protocol, and it lists it on 6 Marketplaces? It doesn't matter where that NFTs get sold if it's getting sold on Universe's contracts. That's what we built. We didn't just build a Marketplace like OpenSea, and we are going to give all those docs out; we have them published. I don't think they're published, but we'll push published soon, and anyone will have those APIs. If you guys have any projects that you all want to plug into the liquidity, you can reach out to Ryan and me, and we can try to get you guys some of those endpoints.
+**Mark:** You're saying you could build a front end that you could build an NFTs version of Zapper that plugs into universal liquidity. You can build your own Marketplace for your own NFT project and list it through the Universe protocol contracts, and it's going to get listed on Universe. So that's the power of the protocol. Once it's listed somewhere, it gets listed everywhere. 
+
+What if you list 1 NFT on 1 Marketplace protocol, and it lists it on 6 Marketplaces? It doesn't matter where that NFTs get sold if it's getting sold on Universe's contracts. That's what we built. We didn't build a Marketplace like OpenSea, and we are going to give all those docs out; we have them published. We'll get them published soon, and anyone can use those APIs. If you guys have any projects that you all want to plug into the liquidity, you can reach out to Ryan and me, and we can try to get you guys some of those endpoints.
 
 ### **Question:**
 
-Will there be rarity charts for all collections or just universe collections?
+Will there be rarity charts for all collections or only Universe collections?
 
 ### **Answer:**
 
-**Tyler:** We should give a grant to the first project that builds and opens sources and documents, launching a custom Marketplace Universe. We should give a grant in XYZ, the first project.
+**Tyler:** We should give a grant to the first project that builds and open-sources and documents, launching a custom Marketplace Universe. We should give a grant in XYZ, the first project.
 
-**Algy:** I think that makes sense, Tyler. Tyler says we don't vote on it, but that's a good idea.
+**Algy:** I think that makes sense, Tyler.
 
 ### **Question:**
 
@@ -615,73 +617,87 @@ How will you decide which NFTs show on the home screen?
 
 **Mark:** All right, this is something that we have not decided on as a team.
 
-**Algy:** It's going to be community-based. The decision is a way that's not exploitable. We need to make sure we come up with a way that isn't exploitable, where people can take advantage of the system that we set up for it and get past people who deserve organic promotion and stuff. We don't want it to be where we're just cherry-picking the projects that we just bought and pumping our bags. We want it to be fair.
+**Algy:** It's going to be community-based. Something that's not exploitable. We don't want it to be where we're cherry-picking the projects that we just bought and pumping our bags. We want it to be fair.
 
-**Mark:** We don't want another Nate situation where people will be like you guys were picking NFTs. We'll just openly let the community decide which ones, and then no one will front-run anyone because it'll just be public information in the Discord or whatever, where people are like, oh, we're going to add this one. Let's add this one. Then everyone agrees. 
+**Mark:** We'll openly let the community decide which ones, and then no one will front-run anyone because it'll be public information in the Discord or other social channels.
 
 ### **Question:**
 
-Then your next question about; How projects will be verified? 
+How projects will be verified? 
 
 ### **Answer:**
 
-**Mark:** We're honestly not going to verify projects. We're going to start letting people. Hopefully, they're not. Nick, stop, bro. We're not verifying the projects. You're going to have to verify the contract address. We will not verify anyone in the first few months of this. If the community wants us to start verifying projects, we will vote. But we had this conversation before. We don't want to play favouritism. Also, we think that people need to be verifying contracts you want to verify a collection, check the chain because that's the safest and best way to do it. Learn how to read Etherscan and find a valid contract, and verify. You go into the Board Ape Discord. They have that contract address pinned.
+**Mark:** We're likely not going to verify projects. 
 
-I don't care if an NFT collection is verified on OpenSea. You should still be going and checking the chain and making sure that that's not a fake verification badge. A front end is easily exploitable. We've talked about this, and it might not be people's favourite answer that we're not going to verify this, and we might sound like crazy people, but that's how you verify an NFT by the contract address.
+We're going to start letting people verify the contract address. If the community wants us to start verifying projects, we will vote. But we had this conversation before. We don't want to play favouritism. Also, we think that people need to be verifying contracts. 
 
-**Algy:** Yeah, but eventually, Mark is probably right; at first, there won't be a system. And what Nick tried to bring up just now is something about that product that we keep leaking the name of and don't explain. And it was Temple. We have ideas for this voting process, and that's not what Temple is. It was just something that we talked about through that. But we have this idea for this voting process that happens fully on a snapshot. I'm going to explain it. Anyone who holds XYZ will be able to make a proposal to get a collection verified. Then anybody who has XYZ can vote to get it to verify that collection. If it passes a quorum, it gets verified. This is the best community-based method we've come up with so far that can't be exploited. But yeah, as Mark said, we probably won't release anything until we know that it actually can't be exploited. And it actually will work. Right, because it's hard to test stuff like this without trial and error. And we don't want you guys to be guinea pigs.
+> Don't trust— verify. 
 
-We want to make sure whatever we put out for this verification because that's a big topic in any social media or entertainment anywhere. After all, NTS is entertainment. So at this point, we need to make sure we're not even going to use a checkmark badge because it doesn't fit our aura or brand or anything. If we do verification, it will be community-based, and it can't be exploitable. We're not going to be saying, Mark and I decided we're going to verify this project today. That's not happening. It has to be on-chain, in some aspect or retrievable somehow.
+Check the chain because that's the safest and best way to do it. Learn how to read [Etherscan](https://etherscan.io/) and validate a contract, verify authenticity etc. 
 
-**Mark:** If you all want to verify collections, we can. I'm just saying I'm not the one who will do it. Our team is not showing favouritism to any collections. We're not verifying FLUFs; we're not verifying ASM brains. It's just that we're not getting into this situation.
+The vast majority of the time, if you use Discord or Social media. They have that contract address pinned somewhere.
 
-**Add Speaker:** For now. We do advise, like Mark said, that always check on-chain, double-check the project's social media pages and websites to find their actual contract address and double-check on Etherscan and Universe. It's the right contract address because people will be minting. They're going to have free reign to mint on our platform. And once they mint, our scraper will pick up those NFTs immediately. So those will be the ones showing up on the University Marketplace. Just always double-check. We're going to be trying our best. We have a report button. If you see fake pages and fake NFTs, you can report them, and we'll take them down because we don't want fake.
+I doesn't matter if an NFT collection is verified on OpenSea. Check the chain and make sure it's not fake. A front end is easily exploitable. We've talked about this before. It might not be people's favourite answer. We might sound like crazy people, but that's how you verify— with on chain data.
 
-**Mark:**  But the thing is, How do you make it decentralized? And you got to think about like this is part of why we're not starting with verification is because we have absolutely no way to truly decentralize it with us just figuring out how it works. We need to figure it out as a community. And that was my point. It's like we aren't going to have verification. People will have to check the chain, and we'll figure it out as a community.
+**Algy:** Mark is probably right; at first, there won't be a system. 
 
-**Algy:** Well, the strategy, we only had XYZ holders voting and creating proposals that are not exploitable, but that one works. We don't want to make that the way we do it. Then ten days later, we realized there was a better way. So yeah, it's like our Marketplace. We don't want to just release anything off of our first impression, thinking that we came up with the best idea because that will happen in the community. I know people who were excited about this one FLUF drop, and I'm not going to change, and that it happened. But then it happened, and then everybody was you guys did that wrong. And it was the same people saying we did it wrong where the same people saying right before that was the way we should do it, and they were excited. So I feel like we're trying to plan where we don't all agree, even though the community agrees. And then ten days later, we're all like, that wasn't the best way to do it. We should have done this. We want to avoid that in every situation when we release anything because that can happen.
+Nick tried to bring up Temple. We have ideas for this voting process— but that's not what Temple is. 
 
-Everyone is saying community verification is great. Gunner pointed it out. It can't be bootable. I think the way that we have come up with is not bootable but is it fair? I don't know if it's fair to make everybody hold one token to vote, but maybe it is. So we just got to consider it more. I think of what Mark is saying about the whole contract address. Eventually, we will have to have a way to make it easier for people to know what's legit and what's not. Since anyone's going to be
+We have this idea for this voting process that happens fully on a snapshot. I'm going to explain it. Anyone who holds XYZ will be able to make a proposal to get a collection verified. Then anybody who has XYZ can vote to verify that collection. If it passes a quorum, it gets verified. This is the best community-based method. As Mark said, we probably won't release anything until we know that it can't be exploited. It's hard to test stuff like this without trial and error. We don't want you guys to be guinea pigs. 🙏
 
-**Mark:** The way it's legit is the contract address of the collection.
+At this point, we need to make sure we're not even using a checkmark badge because it doesn't fit our aura or brand. If we do verification, it will be community-based, and something that can't be exploited. We're not going to be saying, Mark and I decided we're going to verify this project today. That's not happening. It has to be on-chain, in some aspect or retrievable somehow.
 
-**Algy:** Yes, I've been on these AMAs recently. It's been at least a month now. But Ledger was hosting AMAs repetitively in the last month, and it was because people were Bored Ape kept getting scammed and what they would say over and over. One of the kids even knew the contract address by heart, so they would say you need to be verifying his contract address. It's so easy to know you're not getting scammed in NFTs if you just look at the contract address. One of the Ledger Founders doesn't own a Board Ape and knows the contract address by heart because he's had to help so many people who got scammed and didn't even realize this. So I think that Mark's 100% right, that it's just such an easy thing for people to know. Crypto's whole point if you have the people developing hardware wallets even saying it. You're supposed to be understanding how Etherscan works and see how the contract is addressed. I think Etherscan, personally, though, could do a better job too. In MetaMask. What if when you went to buy a Board Ape, MetaMask and Etherscan were like had a name like this is the real Board Ape collection.
+**Mark:** If you all want to verify collections, we can. Our team is not showing favouritism to any collections. We're not verifying FLUFs; we're not verifying ASM brains. We're not getting into this situation.
 
-Maybe even showed its volume on one of the websites. There are so many ways that MetaMask themselves could upgrade the UI. Ledger is something they're prioritizing. They want to make it so that the UI for new users explains stuff to where you don't even need it to be verified on OpenSea because on MetaMask and the transaction, it's telling you this contract address is this item. So I think that one of the biggest things is that we're going to have verification, and it will be community-driven. We're not going to rush into it. But Mark's right. Overall, we do need people to learn what a contract address is. And if you're saying that the community is not smart enough to do that, that's what's not good. You guys are saying it's not good that we don't have verification right away. But what's not good is that the community is so open to getting scammed. People need to learn more.
+**Nick:** For now. We do advise, like Mark said, always check on-chain, double-check the project's social media pages and websites to find their actual contract address and double-check on Etherscan and Universe. Always double-check. We're going to be trying our best. We have a report button. If you see fake pages and fake NFTs, you can report them, and we'll take them down because we don't want fake NFTs on our website.
 
-**Add Speaker:** That's what's not happening. That people are so willing to jump into this without learning. People need not do that as much. It makes it hard for me to recommend crypto to people and stuff because I'm always afraid until we get past this where you recommend crypto to your friend, and then there's a chance of getting scammed, which is happening not because of OpenSea. It's happening because MetaMask does not have a good interface that explains to people what the transaction they're signing is. In my opinion, that's like the biggest cause of it. Until there are upgrades on that end, I don't think that there's any chance that it even will matter. People will still get scammed whether we have a check or not, the same way because they don't know that they can look at a number on Etherscan and see it's the right one.
+**Mark:**  How do you make it decentralized? And you got to think about like this is part of why we're not starting with verification is because we have absolutely no way to truly decentralize it. We need to figure it out as a community— not by ourselves —that was my point.
+
+**Algy:**  We want to avoid miscommunication and stepping towards the wrong direction for every situation. Anytime when we release anything that can happen.
+
+Everyone is saying community verification is great. I don't know if it's fair to make everybody hold one token to vote, but maybe it is. 
+
+Ledger was hosting AMAs in the last month, and it was because people with Bored Apes kept getting scammed. They would encourage contract verification, over and over. One of the kids even knew the contract address by heart. It's easy to know you're not getting scammed if you look at the contract address. One of the Ledger Founders; doesn't own a Bored Ape and knows the contract address by heart— because he's had to help so many people who got scammed.
+
+I think that Mark's 100% right, it's such an easy thing for people to know. The point of crypto is the ability to verify. If you have the people developing hardware wallets even saying it. You're supposed to be understanding how Etherscan works and see how the contract is addressed.
+
+Overall, we do need people to learn what a contract address is. And if you're saying that the community is not smart enough to do that, that's not good. You guys are saying it's not good that we don't have verification right away. But what's not good is that the community is so open to getting scammed.
+
+People need to learn more. People are so willing to jump into this without learning. It makes it hard for me to recommend crypto to people because I'm always afraid until it's more user friendly. Until there are upgrades on that end, I don't think that there's any chance that it even will matter. People will still get scammed whether we have a checkmark or not.
 
 **Mark:** You are trying to ask something. 
 
-**Community Member:** I was going to ask, where can we put feature requests? I guess not the Marketplace feature. I guess it is a Marketplace feature request for verification. Where can we push something to go ahead and propose a difference. Thank you. I'll go ahead and put something up.
+**Community Member:** I was going to ask, where can we put feature requests? I guess not Marketplace features. I guess it is a Marketplace feature request for verification. Where can we push something to go ahead and propose something. I can go ahead and put something up.
 
 **Mark:** Thank you, sir. We appreciate you.
 
-**Algy:** Do you know what this person just said? He said that he doesn't know how to check the contract address just because you're saying that I'm going to start annoying our team and that we should make a video that explains how to check the contract address. I'm going to annoy our team until they make that video because that's huge. People need to know how to check that. Do you know what I'm saying?
+**Algy:** I'm going to start annoying our team— we should make a video that explains how to check the contract address. I'm going to annoy our team until they make that video because that's huge. People need to know how to check that.
 
-It could be a five-second video because
+It can be a five-second video. We want to help people learn. 
 
-**Mark:** I didn't mean to sound like a Dick when I was like, yeah, people are going to f---ing have to learn this s--t.
+**Mark:** I walk in front of people, and they ask me, what do you think the NFT space needs? And I say, I think we need more education. 
 
-**Algy:** We want to help them learn. 
+People have been building in DeFi. Many of us learn how to use DeFi, but we're talking about Artists, and they may not understand what is happening here. We should be educating people on how to protect their assets and that if you click on a file, your assets are at risk. I heard someone say a few weeks ago; getting robbed in cryptos is your baptism. This happens to everyone. I've never been hacked. I feel really bad for people who get hacked. It sucks that you have to get burned to learn. It shouldn't be that way. We should be trying to educate people on this. Tim has ideas on how we educate people in this space. I have ideas, but we can't educate everybody.
 
-**Mark:** I walk in front of people, and they ask me, what do you think the NFT space needs? And I say, I think we need more education. This is financial technology. People have been building in DeFi. Many of us learn how to use DeFi, but we're talking about Artists, and they may not understand what is happening here. We should be educating people on how to protect their assets and that if you just click on a file, your assets are at risk and then it sucks. I heard someone say a few weeks ago; that it's like getting robbed in cryptos. Your baptism in crypto, it's like, dude, that's f---ing bulls--t. This happens to everyone. I've never been hacked. I feel really bad for people who get hacked, but at the same time, you got to learn how to do this. It sucks that you have to get burned to learn. But it shouldn't be that way. It really shouldn't. We should be trying to educate people on this. Tim has ideas on how we educate people in this space. I have ideas, but we can't educate everybody.
+Checking the contract address shouldn't be hard. It should be natural. If you go to OpenSea, you should still be checking the address— in case someone hacked their front end and made it look like a verified collection. It's not too challenging to hack a front end. I didn't mean to sound harsh. But, I don't think it's a lot to ask for people to verify a contract.
 
-And that's the thing that sucks, is we have to lean on each other. But checking the contract address shouldn't be this huge thing. That should just be something that we do, even if it's verified. If you go to OpenSea, you should still be checking that s--t just in case someone was able to hack their front end and make it look like this was a verified collection and people were buying Board Apes or something. It's not that hard to hack a front end. It depends on which front end, I guess. But I wasn't trying to be a dick when I said that. I just said I don't think it's a lot to ask for people to verify. Go to an extra link and verify on Etherscan. But maybe I'm being inconsiderate.
+**Community Member:** Suppose you get a grid plus wallet. It lays out exactly what you're interacting with. And then you can go ahead and highlight it. You can check to make sure it's the exact one you're interacting with. (Via Etherscan)
 
-**Community Member:** There's a really good feature that comes with or at least makes it easy if you go ahead and get a grid plus wallet. Suppose you get a grid plus wallet. It lays out exactly what you're interacting with. And then you can go ahead and highlight it. Then you can just check to make sure on either scan that's the exact one you're interacting with.
+**Algy:** We're going to make it so that when you look at your NFT, you're showing information about the collection, the owner, and the contract address. The contract address is what people need to start learning about— the collections they collect.
 
-**Algy:** We're going to have it on our Marketplace, so when you're viewing your NFTs or Collections, there is an easy way to navigate without hitting any extra buttons to get to the contract address on our testing. I know some of you guys are testing on our testing. This isn't set up fully yet. It is on the page end, but we still need to update the actual viewing when you hit my NFTs. But we're going to make it so that when you look at your NFT, you're showing information about the collection, the owner, and the contract address. And this information about the contract address is what people need to start learning about the collections they collect. There are a million different ways. It will be so easy to verify that on Universe. I'm going to get them to make a video on how to find that on etherscan. There needs to be way more educational content released on every project in that ledger competition. As soon as those videos are on Universe, I will show the video that won in our Universe announcements and tell everybody to watch it because it's such good information on how to stay safe in crypto.
+> [Ledger Staying Safe Video](https://youtu.be/ZoQDNQ7eiec)
 
-**Mark:** We can make educational videos. We're going to wrap this up. This is 1.5 hrs, and we really shouldn't be doing these AMAs for this long because people stop watching them on YouTube. And no one wants to listen to these when they're this long, so we're going to end this, but you guys had a lot of good questions today. Let me just make sure there are no other super good questions. These are just kinds of people arguing with me. I feel like.
+**Mark:** We can make educational videos. 
 
-Dude, if people aren't checking the chain in 10 years, I don't know. We've lost all hope for humanity at this point; the Board Apes will still be losing their seed phrases. Rock, get some sleep.
+We're going to wrap this up. This is 1.5 hrs, and we shouldn't be doing these AMAs for this long because people stop watching them on YouTube. 
+
+If people aren't checking the chain in 10 years, I don't know. We've lost all hope for humanity at this point; the Bored Apes will still be losing their seed phrases. 😰
 
 **Algy:** Good 💩.
 
-**Mark:** Thank you, everyone, for joining. We appreciate you all and go ahead.
+**Mark:** Thank you, everyone, for joining. 💙
 
-
+**Everyone:** 👋👋👋👋
 
 <br>
 
