@@ -510,49 +510,50 @@ When is the Android and Apple App?
 
 ### **Answer:**
 
-**Mark:** Just so you know, we were going to build an app, and we stopped. We decided it was not worth the time, effort, or money. The reason is because if you see the OpenSeas app, it's just a view-only app. It's not going to drive sales. There are rules that you can't sell things in crypto on the Apple Marketplace. They have all these weird laws, and you're violating the rights to their contract agreement and all this stuff. Gnosis Safe got into a legal suit with them, and it seemed like more of a headache to try and build this thing.
+**Mark:** JWe were going to build an app, and we stopped. We decided it was not worth the time, effort, or money. The reason is because if you see the OpenSeas app, it's a view-only app. It's not going to drive sales. 
 
-That's partially why OpenSea is just view only. So right now, we're staying away from it. But if things change with Apple, which I don't see happening unless they want to allow more crypto adoption, I think it would help with apps. Still, it's more of a barrier to entry because of our industry to build an app that functions the way we would want to build it.
+There are rules that you can't sell things regarding crypto on the Apple Marketplace. They have all these weird laws, and you're violating the rights to their contract agreement and all this stuff. Gnosis Safe got into a legal suit with them, and it seemed like more of a headache to try and build this thing.
 
-**Algy:** Hypothetically, though, we could create an app to display cool stuff for you guys that pull you to a browser on your phone if you did want to buy something. I'm just saying, hypothetically, not saying we're already creating that.
+That's partially why OpenSea is just view only. Right now, we're staying away from it. But if things change with Apple, which I don't see happening unless they want to allow more crypto adoption. Still, it's more of a barrier to entry because of our industry to build an app that functions the way we would want to build it.
 
-**Mark:** That might be alpha, but what would I know? Okay. Too much overhead to keep it up to date with all the devices and no functionality. I mean, dude, it's not about that. Honestly, I probably shouldn't have said the money because I don't think it would be that crazy of a bill because maybe it would. A view-only app is going to be much cheaper to build than a fully functioning app. The US on the team, we had discussed this. We were going to build an app. We had apps in the Slack channel, and we were going to build it, and we just, at one point, we were trying to figure out the legal stuff. And we were like, this is too much of jumping through Hoops to figure this out. And then, if we do somehow figure it out, Apple could just shut us down at any minute. So it was not so much more any type of up running costs. It was just more, Where do we need to focus? And is this a priority? Is this going to drive Universe?
+**Algy:** Hypothetically, though, we could create an app to display cool stuff for you guys that pull you to a browser on your phone if you did want to buy something.
 
-We don't see the OpenSea app as such a great innovation that it sent OpenSea soaring. We didn't think that it was worth our time and effort. If the community wants an app that's view only, we can vote for it, and we'll get it built. It's up to the community for everything. We can decide on anything together. So I think that's the power of the DAO and the OS app I use to check floors. I guess that it is worth it as a consumer use case that if it helps, we'll look into it again. If the community wants it, we can talk about it. I'm all for it. It's just that we decided we didn't think it was necessary.
+**Mark:** That might be alpha, but what would I know? Okay. 
 
-**Algy:** There probably won't ever be an app for the Marketplace. I'm not going to leak alpha; all I'm saying is that I'm personally in favour of an app release. But it definitely won't be one where you can buy NFTs on it. And it won't be like the OpenSea one either, where it's just a fork of our Marketplace. If we were to release an app, it would provide insight.
+Too much overhead to keep it up to date with all the devices and bare functionality. A view-only app is going to be much cheaper to build than a fully functioning app. At one point, we were trying to figure out the legal stuff. And realized, this is too much jumping through hoops to figure this out. And then, if we do somehow figure it out, Apple could just shut us down at any minute. It's not as much about the cost; It's more, where do we need to focus? And is this a priority? Is this going to drive Universe?
 
-Having your wallet on your phone, that is that's a security risk? So us releasing an app insinuates that you should have your wallet on your phone is us trying to tell people that they should set their wallet up to be at risk. So it's better for these apps on their phone to be viewed only because you're not putting your wallet at risk. Even if it did route you to MetaMask to buy it, it didn't happen on the app. Hypothetically, we're still insinuating that you should have your wallet on your phone, which is bad advice. So you guys are doing transactions on the computer. 
+If the community wants it, we can talk about it. I'm all for it. We already decided we didn't think it was necessary.
 
-**Tyler:** Silo is an app, and they'll probably integrate into Universe. The truth is anyone on this call who can build something could probably legitimately raise VC funding and build an application and take a finder's fee by plugging into Universe if you all want real alpha. If I didn't have so much else on my plate, if I was going to start a company, I'd probably do that and have that application be a wallet that could plug in the Universe.
+**Algy:** There probably won't ever be an app for the Marketplace. 
+
+I'm not going to leak alpha; all I'm saying is that I'm personally in favour of an app release. But it definitely won't be one where you can buy NFTs on it. And it won't be like the OpenSea one either, where it's just a fork of our Marketplace. If we were to release an app, it would provide insight.
+
+Having your wallet on your phone— that's a security risk. Us releasing an app insinuates that you should have your wallet on your phone. It's better for these apps on their phone to be view only because you're not putting your wallet at risk. Having your wallet on your phone is bad advice. 
+
+**Tyler:** Sylo is an app, and they'll probably integrate into Universe. The truth is anyone on this call who can build something could probably legitimately raise VC funding and build an application and take a finder's fee by plugging into Universe if you all want real alpha. If I didn't have so much else on my plate, if I was going to start a company, I'd probably do that and have that application be a wallet that could plug in the Universe.
 
 ### **Question:**
 
-Pg; your question; Will XYZ Marketplace be crypto-only, or are there plans to integrate credit cards, PayPal, other legacy types of payments or is this a regulatory headache for now? 
+Will XYZ Marketplace be crypto-only, or are there plans to integrate credit cards, PayPal, other legacy types of payments or is this a regulatory headache for now? 
 
 ### **Answer:**
 
-**Mark:** We're not a company, and we can't accept US dollars. A few businesses were set up around Universe that maybe we could potentially explore those options. Still, Universe XYZ DAO is not going to be accepting any US dollar payment. We'll accept USDC and DAI crypto forms of the US dollar. But us being a United States company or not being a United States company.
+**Mark:** We're not a company, and we can't accept US dollars. 
 
-**Tyler:** Some things are working on that.
+A few businesses were set up around Universe that could potentially explore those options. We'll accept USDC and DAI— crypto forms of the US dollar.
 
-**Mark:** Some people are working on that, though, and we have some plans of ways that we might be able to do it, but Universe will not be. But we may be able to set something up so that we can offer that, but it won't be Universe XYZ DAO accepting the money. 
+**Tyler:** Some people are working on that.
+
+**Mark:** We have some plans of ways that we might be able to do it, but Universe will not be. We may be able to set something up so that we can offer that, but it won't be Universe XYZ DAO accepting the money. 
 
 ### **Question:**
 
-Okay, we answered this; Besides XYZ, Eth and Weth, what other currencies will be used.
+Besides XYZ, Eth and Weth, what other currencies will be used.
 
 ### **Answer:**
 
 **Mark:** You also have USDC and DAI as currencies that will be used. 
 
-### **Question:**
-
-A view-only app means more work updating for team...  if uni Marketplace works well with browsers and continues to, then why? 
-
-### **Answer:**
-
-**Mark:** I don't think anyone's too worried about the app, but we'll talk about it as a community. 
 
 ### **Question:**
 
@@ -560,11 +561,9 @@ What's the fee? How is the fee decided?
 
 ### **Answer:**
 
-**Mark:** Then 1.69% is the fee for the Marketplace. We decided that because what better to do when you build a dope-a-- Marketplace and just put a cherry on top? That's a meme and just put a little 69. We were going to do 69420, but we wanted to make it simple.
+**Mark:** Then 1.69% is the fee for the Marketplace. 
 
-**Tyler:** As the finders fee.
-
-**Mark:** I think the finders fee comes up. Tyler said it's all good. 
+We decided that because what better to do when you build a dope ass Marketplace— you put a cherry on top, right? That's a meme, a little 69. We were going to do 69420, but we wanted to make it simple.
 
 ### **Question:**
 
@@ -572,7 +571,9 @@ What is the vesting schedule for the remaining tokens?
 
 ### **Answer:**
 
-**Mark:** I think it's 104 weeks, and we're in week 30. It hasn't even been a year. We'll say 30 something. Off the top of our head is what week we're in out of like 100-104. I don't think there's any incentive for using XYZ as a currency. We just wanted to make it an option because it's our token. Does anybody have any other questions? I think we have gotten to the end of our list. 
+**Mark:** I think it's 104 weeks, and we're in week 30. 
+
+It hasn't even been a year. We'll say 30 something. Off the top of our head is what week we're in out of like 100-104.
 
 ### **Quesiton:**
 
