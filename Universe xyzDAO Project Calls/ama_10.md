@@ -364,9 +364,10 @@ I'm not trying to convince you of anything. I'm just stating that you're effecti
 
 **Ryan:** Thanks, everyone. ✌️
 
-**Rayne:** Cheers! 
+**Rayne:** Cheers!
 
-Everyone. Bye. 👋
+
+**Everyone:** 👋👋👋👋
 
 
 
