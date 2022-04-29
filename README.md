@@ -1,9 +1,9 @@
 # **Universe xyzDAO Project Management**
 
 ## **Resources**
-### Socials: [Discord](https://discord.gg/nfu) / [YouTube](https://www.youtube.com/channel/UCWt00md9T2b4iTsHWp_Fapw) / [Medium](https://medium.com/universe-xyz) / [Twitter](https://twitter.com/universe_xyz)
+### Socials: [Discord](https://discord.gg/nfu) / [YouTube](https://www.youtube.com/channel/UCWt00md9T2b4iTsHWp_Fapw) / [Medium](https://medium.com/universe-xyz) / [Twitter](https://twitter.com/universe_xyz) / [Instagram](https://www.instagram.com/universe.xyz/) / [Tiktok](https://tiktok.com/@universe.xyz)
  
-### Information: [Whitepaper](https://github.com/UniverseXYZ/UniverseXYZ-Whitepaper) / [Website](https://universe.xyz/) / [Docs](https://docs.universe.xyz/) / [Knowledge Base](https://universe.freshdesk.com/support/solutions)
+### Information: [Whitepaper](https://github.com/UniverseXYZ/UniverseXYZ-Whitepaper) / [Website](https://universe.xyz/) / [Docs](https://docs.universe.xyz/) / [Knowledge Base](https://universe.freshdesk.com/support/solutions) / [Community Center](https://clowncharles.notion.site/Universe-Community-Center-9e4043a8e6844769be26032bfe089baa)
 
 ### Governance: [xyzDAO Overview](https://dao.universe.xyz/governance/overview) / [Signal](https://signal.universe.xyz/#/) / [Forum](https://forum.universe.xyz/)
 
