@@ -18,9 +18,11 @@ Attendees: Mark Ward, Tyler Ward, Troy Murray, Ryan Shtirmer, Algernon (Young Al
 
 ## Intro
 
-**Mark:** Welcome to AMA #15. We can get into some updates on the marketplace and the blockers we talked about last week on the project call. We've made good progress unlocking those systems, but we are still blocked on a few things. I can let Chuba talk about that and what we were able to make in the meantime.
+**Mark:** Welcome to AMA #15. 
 
-## Marketplace & Blocker Updates 🖼 🚧 [[]]()
+We can get into some updates on the marketplace and the blockers we talked about last week on the project call. We've made good progress unlocking those systems, but we are still blocked on a few things. I can let Chuba talk about that and what we were able to make in the meantime.
+
+## Marketplace & Blocker Updates 🖼 🚧 [[00:35]](https://youtu.be/TfH2M727aI4?t=35)
 
 **Ryan:** Over the last week, we've been able to consolidate and figure out who has access to what and what we need to resolve. We've reached out to various hosting providers in that discovery process, over phone calls and support tickets. The few things we still don't have access to will be recovered over the next few days. Measures will be taken to further decentralize the infrastructure between the various teams that contribute to Universe and geographically distribute access and ownership of the various infra. We are still blocked on a bit of the testing. Some of the features that we do have prepared and ready to go will still be delayed a little longer until we have everything wrapped up and under control. 
 
@@ -28,9 +30,11 @@ Attendees: Mark Ward, Tyler Ward, Troy Murray, Ryan Shtirmer, Algernon (Young Al
 
 **Tyler:** I would like to highlight and I talked on the non-AMA portion, and again, out of respect for this person, I don't want to hold too many details, but we were held up for a while leading into this. We should have had systems in place and done things differently. It was the worst possible timing. In hindsight, there was a lot that we could have done to see it coming. We've been doing what we can; we launched the marketplace, got a couple of things immediately fixed, and have been blocked and locked out for a while now. Once we get access, the stuff we have been doing will get fixed rapidly. It's hard to describe how much of a setback it's been in general, on top of the tragedy of the situation. 
 
-**Mark:** Some good things, however. We were able to recover access to some things already. We will be able to test some of these features and what we've been working on. We have been successful at further testing, but we will not be able to push these live until we get full access and recover everything. We don't have many more updates on the marketplace. We can hand it off to Zach; he has a ton of exciting and fun stuff today about the Polymorphs.
+**Mark:** Some good things, however. We were able to recover access to some things already. We will be able to test some of these features and what we've been working on. We have been successful at further testing, but we will not be able to push these live until we get full access and recover everything. We don't have many more updates on the marketplace. 
 
-## Polymorphs 🤡 [[]]()
+We can hand it off to Zach; he has a ton of exciting and fun stuff today about the Polymorphs.
+
+## Polymorphic Universe 🤡 [[04:26]](https://youtu.be/TfH2M727aI4?t=266)
 
 **Zach:** We've been secretly working on bringing our Polymorphs to life. If you read that medium article, you already know the direction behind it. I felt there was some storytelling missing from the NFTs. Polymorphs are a good place to start when developing a life form and bring them to NFTs. I hope you guys enjoy this Polymorphic Therapy episode. We have another two episodes. One is ready, and I'm not going to give exact timelines because it's not a good idea, but we will go live and share it with you. We have been working with talented animators and comedians on this, so it's coming together really well, and it's an enjoyable project to work on.
 
@@ -38,29 +42,35 @@ Attendees: Mark Ward, Tyler Ward, Troy Murray, Ryan Shtirmer, Algernon (Young Al
 
 **Zach:** I think it's an exciting opportunity for the holders of the Polymorphs to have their Polymorphs featured in episodes. I don't have any concrete plans, but I want to get the community involved somehow. Maybe therapy meme competitions or something inside of our discord community. There can be a way for the community to vote on which Polymorphs are going to therapy next, or maybe influencing the session itself and how it goes. Feel free to share any ideas on how you think the best way to go about that or if you have any general ideas for the therapy sessions after you see the format today in an hour.
 
-**Tyler:** If you like how we're making them. We'll keep cramping them out, Whatever you want.
+**Nick:** If you like how we're making them. We'll keep cramping them out, Whatever you want. 🦾
 
-## Worldwide Web Metaverse 🕸 [[]]()
+## Worldwide Web Metaverse 🕸 [[07:56]](https://youtu.be/TfH2M727aI4?t=476)
 
-**Zach:** I should give an update on our worldwide web that we have all of our sprintes for. I don't know if you guys know about the worldwide web metaverse, but I've delivered every Polymorph base character spreadsheet and all the endpoints. They recently let me know that they're postponing any future integrations until they do their next update so they can integrate more characters. When they do, you will be able to play worldwide web using whatever you own.
+**Zach:** I should give an update on our worldwide web that we have all of our sprites prepared. I don't know if you guys know about the [worldwide web metaverse](https://twitter.com/Worldwide_WEB3), but I've delivered every Polymorph base character spreadsheet and all the endpoints. They recently let me know that they're postponing any future integrations until they do their next update so they can integrate more characters. 
 
-## NFT-NYC Event 🎪 [[]]()
+When they do, you will be able to play worldwide web using whatever you own.
 
-**Zach:** I also have an update on the party. This isn't all of the confirmed artists, but we have Don Diablo, BT, and Vendata, performing at the Monstercat Party in New York in a couple of weeks. I've got some elevated Universe branding on display and laid out around the venue's decor. So if you are in New York, come hang out with me. I might even buy you a bagel. 
+## NFT-NYC Event 🎪 [[09:17]](https://youtu.be/TfH2M727aI4?t=557)
 
-## Polymorph Therapy Video 🎥 [[]]()
+**Zach:** I also have an update on the party. This isn't all of the confirmed artists, but we have [Don Diablo](https://twitter.com/DonDiablo), [BT](https://twitter.com/BT) and [Vindata](https://twitter.com/vindata), performing at the [Monstercat Party in New York](https://twitter.com/Monstercat/status/1533901340501368832) in a couple of weeks. I've got some elevated Universe branding on display and laid out around the venue's decor. So if you are in New York, come hang out with me. I might even buy you a bagel. 
 
-**Mark:** That's the majority of our updates. Once again, that Polymorphic Therapy video is going to air on YouTube. We're going to post a link in the discord that's on the Universe.XYZ DAO's official YouTube page and is set to premiere at 430 P. M. Eastern time.  
+### [Polymorph Therapy Video Premier 🎥](https://youtu.be/tf-6ele4-Co)
 
-**Zach:** Chatbox.
+**Mark:** That's the majority of our updates. Once again, that Polymorphic Therapy video is going to air on YouTube. We're going to post a link in the discord that's on the Universe.XYZ DAO's official YouTube page and is set to premiere at 430 P. M. Eastern time. (it should be live) 
+
+**Zach:** There is a chatbox during the premier. 😉
 
 **Mark:** It's a short video. It's about three minutes, but it's pretty funny. We can jump into the AMA section of the call.
 
-## Temple 🧘 [[]]()
+## Temple— SOON 🧘 [[11:31]](https://youtu.be/TfH2M727aI4?t=691)
 
-**Tyler:** Temple is coming soon. That's also an update.
+**Nick:** Temple is coming soon. That's also an update. 🤝
 
-**Mark:** Temple is getting close, but we're still laying low on telling everybody what it is. On the forum Tyler, do you want to answer these questions from JD Buffalo.
+**Mark:** Temple is getting close, but we're still laying low on telling everybody what it is. 
+
+Now it's the forum and community questions. 
+
+Tyler, do you want to answer these questions from JD Buffalo?
 
 ## Community Questions ⁉️
 
@@ -70,7 +80,7 @@ Runway for the marketing? The vision for the role of the community?
 
 ### **Answer:**
 
-**Tyler:** The vision for the community's role is that we've hired out of the community quite a bit. The biggest thing when people ask me is that it is hard to figure out because people come in and start contributing and helping immediately. In Universe's case, I get that it's been slow-going since we launched, we had unforeseen circumstances and things slowed down progress. We have been hit with a series of bad luck streaks that I wouldn't expect would continue. Our USDC runway and the multi SIG are fine in terms of the runway. We need to recalibrate how much the multi SIG has fronted towards the Polymorphs. Someone had said before that we had not spent any money on the Polymorphs, but that's not completely true. We have a certain amount of funds used for NFTs, which would also extend the runway.
+**Tyler:** The vision for the community's role is that we've hired out of the community quite a bit. The biggest thing when people ask me is that it is hard to figure out because people come in and start contributing and helping immediately. In Universe's case, I get that it's been slow-going since we launched, we had unforeseen circumstances and things slowed down progress. We have been hit with a series of bad luck streaks that I wouldn't expect would continue. Our USDC runway and the multi-sig are fine in terms of the runway. We need to recalibrate how much the multi-sig has fronted towards the Polymorphs. Someone had said before that we had not spent any money on the Polymorphs, but that's not completely true. We have a certain amount of funds used for NFTs, which would also extend the runway.
 
 We need to look at the general markets and see where everything's going; it's not like we will run out of money immediately. Suppose Universe Aggregate was a private entity. You see groups raising quite a lot of capital, $20-$30 million. Since everything we're doing is publicly listed, when you hit these bear markets, it becomes difficult when the public markets are highly active. We need to get into a presentable place, and if we're going to compete long term, we're going to have to raise or find capital. We need to get everything cleaned up and push it out before worrying about that. We can have open questions when we need to worry about the runway.
 
@@ -104,7 +114,8 @@ If we start to run out of capital, we can get it in this market.
 
 ### **Question:** ❓
 
-What goes into determining the ROI? 
+What goes into determining the ROI?
+
 I wonder if that's the best way to spend funds in a bear market when your reach doesn't seem like it could be that high relative to what could be using that money to do something else?
 
 ### **Answer:**
@@ -136,9 +147,9 @@ We need to raise capital to compete with those types of things long term. Our en
 
 **Zach:** I appreciate you for being honest. If anybody else wants to come up and speak, then raise your hand. I'll bring you up if you have any questions.
 
-Was there anything else in the PreAmA?
+Was there anything else in the pre-ama?
 
-**Mark:** I didn't see anything. I think we're good.
+**Mark:** I didn't see anything. I think we're good. 🫡
 
 **Zach:** One more person is typing. Let's see if they have anything to say.
 
