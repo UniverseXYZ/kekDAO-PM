@@ -22,7 +22,7 @@ Attendees: Mark Ward, Tyler Ward, Troy Murray, Ryan Shtirmer, Algernon (Young Al
 
 The next AMA will be in two weeks, and the Project call next week and will alternate. I'm going to get Rayne to start this week's AMA. Rayne is in charge of support and has been helping organize the discord. He's built a community center for everyone to access and wants to talk about it. 
 
-## Community Center 🤝 [[]]()
+## Community Center 🤝 [[00:55]](https://youtu.be/0HhWcZQPFII?t=55)
 
 **Rayne:** Thanks, Mark. 
 
@@ -34,7 +34,7 @@ There are specific categories that explain different parts of Universe. So there
 
 Rayne took this upon himself because he has been one of the more active people in discord. He wanted to create a center where you could find the information in the discord that is asked and have more transparency for everyone and the community. Great work, Rayne, and we appreciate you. We'll post those links on the AMA channel, and we'll post that in the comments on YouTube. We'll hand it off to Ryan next to go over the development updates. 
 
-## Development Updates 🧰 [[02:51]]()
+## Development Updates 🧰 [[03:49]](https://youtu.be/0HhWcZQPFII?t=229)
 
 **Ryan:** Thank you, Mark. The big update is that we're testing the next big push. Once that's finished testing over the next few days, it will be live. It's going to contain all the fun Open Graph and NCO stuff. What that means is when you send a link to Universe, whether it be over discord, slack, text message, or telegram, it's going to show up showing either the user you're linking to or the NFT itself. The collection and all various sorts of information and imagery will be displayed. It will enhance the social experience and the ability to relay links to Universe when doing day-to-day NFT stuff with your friends. There will be a big migration we're working on for our databasea and pushing out a handful of new features that require this migration support upon completion. It will allow us to do searching and filtering and have fast results and excellent aggregation of all the data involved in all the complex filters we want to provide. We're expecting it to be in about two weeks. 
 
@@ -42,7 +42,7 @@ That covers the high-level stuff that you are all interested in. Other work is b
 
 We can hand it over to Zach, and he can tell everyone about the latest in the Polymorphic Universe. 
 
-## Polymorphic Universe 🤡
+## Polymorphic Universe 🤡 [[06:05]](https://youtu.be/0HhWcZQPFII?t=365)
 
 **Zach:** Rayne brought to my attention that the last two AMA's I recorded in mono by accident, so I had to change some things. I've been working with the Polymorph development team, a completely separate team from the marketplace. We are getting close to getting the burn to mint out. I will say that there are things you won't be able to get unless you migrate over to the new Polymorph contract in the future. I'll be able to share more about it soon. I want to iron everything out with the dev team first so I don't misspeak. I believe that we're dialing in for the front-end changes and migrating the Polymorph home page onto its separate domain. Correct Ryan. It's a separate domain, but it's still part of Universe domain.
 
@@ -54,7 +54,7 @@ We can hand it over to Zach, and he can tell everyone about the latest in the Po
 
 **Zach:** I don't think there were any entries in it, but if anybody here has questions, you can throw them in there.
 
-## Community Questions ⁉️
+## Community Questions ⁉️ [[08:39]](https://youtu.be/0HhWcZQPFII?t=519)
 
 ### **Questions:** ❓
 
