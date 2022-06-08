@@ -33,8 +33,9 @@
  17 | November 18, 2021 10 AM EST  | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/34) \| [notes](https://github.com/UniverseXYZ/xyzDAO-PM/blob/master/Universe%20xyzDAO%20Project%20Calls/call_17.md)     | [video](https://youtu.be/VCk0fhQz8mw) |
  18 | December 1, 2021 10 AM EST   | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/35) \| [notes](https://github.com/UniverseXYZ/xyzDAO-PM/blob/master/Universe%20xyzDAO%20Project%20Calls/call_18.md)     | [video](https://youtu.be/z8NQYiieuvQ) |
  19 | December 15, 2021 9 AM EST   | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/36) \| [notes](https://github.com/UniverseXYZ/xyzDAO-PM/blob/master/Universe%20xyzDAO%20Project%20Calls/call_19.md)     | [video](https://youtu.be/m5CmlWfKdkw) |
- 20 | January 13, 2021 9 AM EST    | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/37) \| [notes](https://github.com/UniverseXYZ/xyzDAO-PM/blob/master/Universe%20xyzDAO%20Project%20Calls/call_20.md)     | [video](https://youtu.be/yCuMugf6bFo) |
- 21 | April 20, 2021 9 AM EST    | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/50) \| [notes]()     | [video](https://youtu.be/uXt3Ywd99co) |
+ 20 | January 13, 2022 9 AM EST    | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/37) \| [notes](https://github.com/UniverseXYZ/xyzDAO-PM/blob/master/Universe%20xyzDAO%20Project%20Calls/call_20.md)     | [video](https://youtu.be/yCuMugf6bFo) |
+ 32 | May 18, 2022 9 AM EST    | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/50) \| [notes](https://github.com/UniverseXYZ/xyzDAO-PM/blob/master/Universe%20xyzDAO%20Project%20Calls/call_32.md)     | [video](https://youtu.be/eQLeds84sfA) |
+ 33 | June 1, 2022 9 AM EST    | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/55) \| [notes](https://github.com/UniverseXYZ/xyzDAO-PM/blob/master/Universe%20xyzDAO%20Project%20Calls/call_33.md)     | [video](https://youtu.be/mmx6clG81DY) |
 
 
 <br>
@@ -55,4 +56,6 @@
 10 | March 30, 2022 3 PM EST    | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/47) \| [notes](https://github.com/UniverseXYZ/xyzDAO-PM/blob/master/Universe%20xyzDAO%20Project%20Calls/ama_10.md)     | [video](https://youtu.be/0BwFX1lkCuY) |
 11 | April 6, 2022 3 PM EST    | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/48) \| [notes](https://github.com/UniverseXYZ/xyzDAO-PM/blob/master/Universe%20xyzDAO%20Project%20Calls/ama_11.md)     | [video](https://youtu.be/MHt6NGk1ST4) |
 12 | April 13, 2022 3 PM EST    | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/49) \| [notes](https://github.com/UniverseXYZ/xyzDAO-PM/blob/master/Universe%20xyzDAO%20Project%20Calls/ama_12.md)     | [video](https://youtu.be/bt-XOOY0oY0) |
-13 | April 27, 2022 3 PM EST    | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/51) \| [notes]()     | [video](https://youtu.be/0HhWcZQPFII) |
+13 | April 27, 2022 3 PM EST    | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/51) \| [notes](https://github.com/UniverseXYZ/xyzDAO-PM/blob/master/Universe%20xyzDAO%20Project%20Calls/ama_13.md)     | [video](https://youtu.be/0HhWcZQPFII) |
+14 | May 11, 2022 3 PM EST    | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/53) \| [notes](https://github.com/UniverseXYZ/xyzDAO-PM/blob/master/Universe%20xyzDAO%20Project%20Calls/ama_14.md)     | [video](https://youtu.be/kp0dW0KVjYQ) |
+15 | May 25, 2022 3 PM EST    | [agenda](https://github.com/UniverseXYZ/xyzDAO-PM/issues/54) \| [notes](https://github.com/UniverseXYZ/xyzDAO-PM/blob/master/Universe%20xyzDAO%20Project%20Calls/ama_15.md)     | [video](https://youtu.be/TfH2M727aI4) |
