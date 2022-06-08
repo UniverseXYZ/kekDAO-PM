@@ -68,11 +68,11 @@ When they do, you will be able to play worldwide web using whatever you own.
 
 **Mark:** Temple is getting close, but we're still laying low on telling everybody what it is. 
 
-Now it's the forum and community questions. 
+## Community Questions ⁉️ [[11:55]](https://youtu.be/TfH2M727aI4?t=715)
+
+**Mark:** Now it's the forum and community questions. 
 
 Tyler, do you want to answer these questions from JD Buffalo?
-
-## Community Questions ⁉️
 
 ### **Question:** ❓
 
