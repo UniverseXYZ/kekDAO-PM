@@ -72,6 +72,8 @@ I'm trying to be more transparent because people said they wanted more informati
 
 ## NFT-NYC Party 🎪 — Monstercat & Universe.xyz Present: UNIVERSAL SPACE STATION [[00:00]]()
 
+> [Announcement](https://twitter.com/Monstercat/status/1533901340501368832)
+
 **Zach:** The party is Sunday the 19th at Webster Hall in NYC. 🎉 🗽
 
 Polymorph and Lobby Lobster holders have free entry. It's exclusive to NFT holders. There are a couple of others that Monstercat has on the list. 
@@ -100,7 +102,7 @@ It's the same way we did it last year. We'll share the link in the bio of the Yo
 
 > Link for posterity: https://www.ticketfairy.com/event/Universal-Space-Station/
 
-We will talk to everyone next week at our AMA. Hit like and subscribe, and we will talk to you all soon. Bye.
+We will talk to everyone next week at our AMA. Hit like and subscribe, and we will talk to you all soon. Bye. ✌️💙
 
 
 <br>
