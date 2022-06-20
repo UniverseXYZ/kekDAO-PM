@@ -14,7 +14,7 @@ Moderator: Mark Ward
 
 Scribe: Tammy M.
 
-Attendees: Mark Ward, Tyler Ward, Troy Murray, Ryan Shtirmer, Dragos Rizescu, Ilia Andreev, Bianka Ivanova
+Attendees: Mark Ward, Tyler Ward, Troy Murray, Ryan Shtirmer, Ilia Andreev, Zach Owens (transmental), Bianka Ivanova
 
 ## Intro
 
@@ -36,7 +36,7 @@ Hopefully, we will have more info for you on the next sprint call. 🏃💨
 
 We can continue with the Polymorph updates. 
 
-## Polymorphs 🤡
+## Polymorphs 🤡 [[]]()
 
 **Zach:** Good morning guys. 🌤 ☕️
 
@@ -46,7 +46,9 @@ People enjoy the V2 3D versions; if you haven't yet, go check that out. In the t
 
 **Ryan:** I have more for you on the Polymorphs, on the social side. We also have the Polymorph Club in the discord. If you're in the Universe Discord, you want to connect your wallet through Collab Land. If you have a V1 or V2 Polymorph, you will have access to the Polymorph Holders channel. If you own a Clown Charles, send Transmental or me a DM, and we will add you to the super-secret Clown Charles Twitter group chat.
 
-**Zach:** I wanted to ask if anyone has any ideas on how you want to get involved in Polymorphic Therapy? I want to do some discord Polymorph competition at some point to get people's Polymorphs in line for the next Polymorphic Therapy episodes. I have some personal ideas, but it would be great to hear from the community how you guys want to compete for the opportunity to get featured on Polymorphic Therapy.
+**Zach:** I wanted to ask if anyone has any ideas on how you want to get involved in Polymorphic Therapy? 
+
+I want to do some discord Polymorph competition at some point to get people's Polymorphs in line for the next Polymorphic Therapy episodes. I have some personal ideas, but it would be great to hear from the community how you guys want to compete for the opportunity to get featured on Polymorphic Therapy.
 
 **Ryan:** If you're interested in that, start thinking about who your Polymorph is and why they are the way they are. 😏
 
@@ -54,7 +56,7 @@ People enjoy the V2 3D versions; if you haven't yet, go check that out. In the t
 
 > [Newest Episode of Polymorphic Therapy](https://youtu.be/cCs-P281IJU)
 
-## Polymorphic Funds Proposal 🗳
+## Polymorphic Funds Proposal 🗳 [[]]()
 
 **Tyler:** We have a multi SIG we used to fund runway and development. Everybody on this call isn't paid directly from the DAO. A multi SIG pays them. Most of that capital in that multi SIG has come from external groups and funds that have reached out. When we initially did the DAO, similar to what we did with Barnbridge. We earmarked a certain amount where we manage and go through budgets every month and figure out who needs to get paid what, so work on that project can continue. We had meaningful padding when we were doing work for the Polymorphs. It had been said in the discord before that we had never touched the Polymorph money; that was true from a DAO perspective. That wasn't people on this call. It was the community that noticed buckets of funds hadn't been touched.
 
