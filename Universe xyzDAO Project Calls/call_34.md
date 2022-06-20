@@ -36,7 +36,7 @@ Hopefully, we will have more info for you on the next sprint call. 🏃💨
 
 We can continue with the Polymorph updates. 
 
-## Polymorphs 🤡 [[]]()
+## Polymorphs 🤡 [[00:00]]()
 
 **Zach:** Good morning guys. 🌤 ☕️
 
@@ -56,7 +56,7 @@ I want to do some discord Polymorph competition at some point to get people's Po
 
 > [Newest Episode of Polymorphic Therapy](https://youtu.be/cCs-P281IJU)
 
-## Polymorphic Funds Proposal 🗳 [[]]()
+## Polymorphic Funds Proposal 🗳 [[00:00]]()
 
 **Tyler:** We have a multi SIG we used to fund runway and development. Everybody on this call isn't paid directly from the DAO. A multi SIG pays them. Most of that capital in that multi SIG has come from external groups and funds that have reached out. When we initially did the DAO, similar to what we did with Barnbridge. We earmarked a certain amount where we manage and go through budgets every month and figure out who needs to get paid what, so work on that project can continue. We had meaningful padding when we were doing work for the Polymorphs. It had been said in the discord before that we had never touched the Polymorph money; that was true from a DAO perspective. That wasn't people on this call. It was the community that noticed buckets of funds hadn't been touched.
 
