@@ -22,11 +22,13 @@ Attendees: Mark Ward, Tyler Ward, Troy Murray, Ryan Shtirmer, Dmytro Dutka, Ilia
 
 I will hand it off to Ilia so he can share the most recent Marketplace updates.
 
-## Marketplace Updates 🖼 [[00:00]]()
+## Marketplace Updates 🖼 [[00:17]](https://youtu.be/UjTJ0ALWXX8?t=17)
 
-**Ilia:** You received the usual update in Discord, and we finalized Sprint 8 and were able to hit a lot of the set goals. We still have work to do, and I'll do more in-depth info in a bit. At a high level, we managed to spin up 70% of the infrastructure and are aiming to finalize this in springtime. By infrastructure, I mean the dev environment we used to start testing everything built over the past few months. We will begin laying out the production environment and check how it performs, including the scalability and performance improvements. Looking at Sprint 8, we needed to reconfigure the microservices to support the new DB in the new infrastructure setup. It's almost done, and we haven't started it because we need it to be entirely done. So we'll do that in this Sprint. We were discussing the filter by trade microservices support, and that's done and ready for testing with the new environment.
+**Ilia:** You received the usual update in Discord, and we finalized Sprint 8 and were able to hit a lot of the set goals. 🏁 🏃💨
 
-ERC 1155 support is also ready, integrated and waiting to be tested. We made some improvements to the user profile page and the My NFT pages that are ready for testing and done. The next JS introduction in the auctions front end, the components are almost there, and we started building the front end with the components, and that's done. We started working on this to support the bundles in the front end and aim to be ready for testing in Sprint 10. Stan is back and working on the automated tests, which I've mentioned quite a bit. He already did minting functionality and disrupting tests, and we are continuing with that on Sprint 9. One of our optimistic goals was to start English and Dutch auction development; we need to do more research on how it will work in general. So that's on pause, but I'll keep you updated in the next few Sprints.
+We still have work to do, and I'll do more in-depth info in a bit. At a high level, we managed to spin up 70% of the infrastructure and are aiming to finalize this in springtime. By infrastructure, I mean the dev environment we used to start testing everything built over the past few months. We will begin laying out the production environment and check how it performs, including the scalability and performance improvements. Looking at Sprint 8, we needed to reconfigure the microservices to support the new DB in the new infrastructure setup. It's almost done, and we haven't started it because we need it to be entirely done. So we'll do that in this Sprint. We were discussing the filter by trade microservices support, and that's done and ready for testing with the new environment.
+
+ERC 1155 support is also ready, integrated and waiting to be tested. We made some improvements to the user profile page and the My NFT pages that are ready for testing and done. The nextJS introduction in the auctions front end, the components are almost there, and we started building the front end with the components, and that's done. We started working on this to support the bundles in the front end and aim to be ready for testing in Sprint 10. Stan is back and working on the automated tests, which I've mentioned quite a bit. He already did minting functionality and disrupting tests, and we are continuing with that on Sprint 9. One of our optimistic goals was to start English and Dutch auction development; we need to do more research on how it will work in general. So that's on pause, but I'll keep you updated in the next few Sprints.
 
 We needed to do a little tweak for the tiered auction smart contracts. It's awaiting a code review, and that's about Sprint 8. For Sprint 9, it will be short in terms of description. We have the new environments up and have already started testing the back and front end with all the improvements. We will continue to work on the bundle support, the tiered auctions front end and back end, and that's for Sprint 9. 
 
@@ -34,11 +36,13 @@ We needed to do a little tweak for the tiered auction smart contracts. It's awai
 
 We can pass it over to Zach for the Polymorph updates.
 
-## Polymorph 🤡 [[00:00]]() 
+## Polymorph 🤡 [[04:56]](https://youtu.be/UjTJ0ALWXX8?t=296) 
 
-**Zach:** We still have burn to mint going on. Urge people to go and grab some V2 Polymorphs because I like them. I think people have been enjoying seeing their 3D versions. We've been working with Bianca and Lime Chain to prepare the Polymorphic bases. So we've been doing a bunch of smart contract testing, testing the front end, making sure that everything is sound there and then in the background. We're working on some gaming elements to come after the Polygon Bridge comes out. We got to get these Polymorphic faces out the Polygon Bridge, and then holders of Polymorphs will have some interactive gaming stuff to play around with. Bianca, do you have anything else to add?
+**Zach:** Gm! 🌅
 
-**Bianca:** No, you said it pretty well. Thank you.
+We still have burn to mint going on. Urge people to go and grab some V2 Polymorphs because I like them. I think people have been enjoying seeing their 3D versions. We've been working with Bianca and Lime Chain to prepare the Polymorphic bases. So we've been doing a bunch of smart contract testing, testing the front end, making sure that everything is sound there and then in the background. We're working on some gaming elements to come after the Polygon Bridge comes out. We got to get these Polymorphic faces out the Polygon Bridge, and then holders of Polymorphs will have some interactive gaming stuff to play around with. Bianca, do you have anything else to add?
+
+**Bianca:** No, you said it pretty well. Thank you. 🤝
 
 **Mark:** I want to reiterate what Zach mentions: you will get more games and access to things. If you burn the Polymorphs to the V2 contract, the V2s will be able to scramble and battle your Polymorphs and bridge them over to polygon and scramble them and play games over there. We will continue building more gaming types with more interactive games where you can control your Polymorphs and bring them to life, even with Unreal engine. 
 
@@ -70,7 +74,7 @@ Scrambled full Clown Charles now. 🤡 🔀
 
 **Zach:** We all like the badges, and getting two footballs, a football jersey, and a football helmet is tough. If we can make it, you only need one football, and you can have a beer; on the other hand, you still have the full set. You're good, at least on the badge. 
 
-## Polymorphic Therapy 🧘 [[00:00]]()
+## Polymorphic Therapy 🧘 [[14:30]](https://youtu.be/UjTJ0ALWXX8?t=870)
 
 **Zach:** I didn't say anything about Polymorphic therapy, but we have another episode finished up. We have had two drafts of it so far, but I wanted to make this one special for reasons that you will see when the actual episode comes out. So there is more Polymorphic therapy coming, I promise. I wanted to make sure the third one is epic.🫡
 
