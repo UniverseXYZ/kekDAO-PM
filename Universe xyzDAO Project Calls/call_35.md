@@ -44,7 +44,9 @@ We still have burn to mint going on. Urge people to go and grab some V2 Polymorp
 
 **Bianca:** No, you said it pretty well. Thank you. 🤝
 
-**Mark:** I want to reiterate what Zach mentions: you will get more games and access to things. If you burn the Polymorphs to the V2 contract, the V2s will be able to scramble and battle your Polymorphs and bridge them over to polygon and scramble them and play games over there. We will continue building more gaming types with more interactive games where you can control your Polymorphs and bring them to life, even with Unreal engine. 
+**Mark:** I want to reiterate what Zach mentions: you will get more games and access to things. 
+
+If you burn the Polymorphs to the V2 contract, the V2s will be able to scramble and battle your Polymorphs and bridge them over to polygon and scramble them and play games over there. We will continue building more gaming types with more interactive games where you can control your Polymorphs and bring them to life, even with Unreal engine. 
 
 **Zach:** We're building a zombie corn gun shooter game for the Polymorphs. You will need a V2 Polymorph. One thing I forgot to mention and want to reiterate is that we're doing this Polygon Bridge because we need it for the gaming aspect, and scrambling is really fun. With the price of ETH being pretty low and it's a lot more affordable now than it was. When we get the Polymorphs over to polygon, it'll be virtually gas-free scrambling. Then the Polymorphic faces are also built to scramble and create the type of face you want. We'll lower the point of entry for scrambling on those down from .01 to .001 for the single scramble and then .05 for the full scramble. So that's exciting for me because Polymorphic face will be able to go to the polygon as well, then it will be affordable to manipulate your NFTS. That's all for Polymorphs for now.
 
