@@ -22,7 +22,7 @@ Attendees: Mark Ward, Tyler Ward, Troy Murray, Ryan Shtirmer, Algernon (Young Al
 
 I will pass it on to Chuba, who will give some marketplace updates over the last week.
 
-## Marketplace Updates 🖼 [[00:00]]()
+## Marketplace Updates 🖼 [[00:12]](https://youtu.be/hctWUAjQX1E?t=12)
 
 **Ryan:** We are finishing up Sprint 6 and what happened in this sprint. The database migration has been completed. The new database is healthy and stable on the development environment. This unblocks a bunch of development work that has been an issue and have been resolving for the last few weeks. Now I can say that we have tested and stabilized the nextJS environment within the marketplace. It means we will see the SEO and the social media sharing very soon. Search filter by traits will also be done in this next update. So we're continuing with the back-end support in the next sprint. So that's done on the database side; we also need the front-end support. 
 
@@ -32,7 +32,7 @@ In the next sprint, on top of onboarding new DevOps and working to unlock these 
 
 I can pass it over to Zach to start talking about the Polymorphs. 🦹
 
-## Polymorphs 🤡 [[00:00]]()
+## Polymorphs 🤡 [[02:47]](https://youtu.be/hctWUAjQX1E?t=167)
 
 **Zach:** So last week, I said we would have burn to mint out on Thursday, which is tomorrow. We will push it back until Monday to do some final testing and sanity checks to ensure everything is functioning correctly. We have been testing a ton for the past few weeks, but I want to give the team another couple of days to test everything and ensure we're all good. I apologize for the delay on that. So Monday, burn to mint will go live. Shortly after that, we have a little gift for all the people that burn their Polymorph V1s to claim, and you will find out about that soon. Excited to release this new Polymorph front end. It looks really good. We have a Polymorphic Therapy episode premiering at 430 EST today.
 
@@ -45,7 +45,7 @@ I can pass it over to Zach to start talking about the Polymorphs. 🦹
 
 **Mark:** We can open this up to the AMA section.
 
-## PreAMA Questions ⁉️ [[00:00]]()
+## Community Questions ⁉️ [[05:16]](https://youtu.be/hctWUAjQX1E?t=316)
 
 ### **Question:** ❓
 
@@ -53,7 +53,9 @@ If I bridge my Polymorphs to Polygon, can I use the bridge to get my Polymorphs 
 
 ### **Answer:**
 
-**Zach:** The answer is yes; the bridge works both ways. Go ahead, Chuba.
+**Zach:** The answer is yes; the bridge works both ways. 🤝
+
+Go ahead, Chuba.
 
 **Ryan:** I was going to clarify the response he got from **avgmayosandwich** regarding it being Polymorphs stay on L1 but scramble on L2's. They need to be bridged over if you want to scramble them on L2, so you can't hold them on L1 and run the scramble itself on L2; you have to bridge it over. 
 
