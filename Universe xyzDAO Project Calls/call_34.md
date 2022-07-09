@@ -36,19 +36,23 @@ Hopefully, we will have more info for you on the next sprint call. 🏃💨
 
 We can continue with the Polymorph updates. 
 
-## Polymorphs 🤡 [[00:00]]()
+## Polymorphs 🤡 [[04:16]](https://youtu.be/cJGe2w4KRJo?t=256)
 
 **Zach:** Good morning guys. 🌤 ☕️
 
-We got the burn to mint live so you can go to the Polymorphs site Universe.XYZ and burn some Polymorphs. 
+We got the burn to mint live so you can go to the Polymorphs site ([polymorphs.universe.xyz](https://polymorphs.universe.xyz)) and burn some Polymorphs. 
 
-People enjoy the V2 3D versions; if you haven't yet, go check that out. In the timeline very short term, in the next two weeks or so, we will have Polymorphic faces to be claimed for anybody that has burned a Polymorph; you'll get a Polymorphic face on a one-to-one basis with the amount of Polymorphs you burn. In the midterm, we've got the Polygon Bridge for cheaper scrambling. Then a little bit longer term, we've got some gaming going on Battle Universe, then another different type of game for which we will have a demo. Then we will have another Deviance Drop, a Polymorph internal derivative style drop. 
+> [Burn Page](https://polymorphs.universe.xyz/burn-to-mint/)
 
-**Ryan:** I have more for you on the Polymorphs, on the social side. We also have the Polymorph Club in the discord. If you're in the Universe Discord, you want to connect your wallet through Collab Land. If you have a V1 or V2 Polymorph, you will have access to the Polymorph Holders channel. If you own a Clown Charles, send Transmental or me a DM, and we will add you to the super-secret Clown Charles Twitter group chat.
+People enjoy the V2 3D versions; if you haven't yet, go check that out. In the timeline very short term, in the next two weeks or so, we will have Polymorphic faces to be claimed for anybody that has burned a Polymorph; you'll get a Polymorphic face on a one-to-one (1:1) basis with the amount of Polymorphs you burn. In the midterm, we've got the Polygon Bridge for cheaper scrambling. Then a little bit longer term, we've got some gaming going on Battle Universe, then another different type of game for which we will have a demo. Then we will have another Deviance Drop, a Polymorph internal derivative style drop. 
+
+**Ryan:** I have more for you on the Polymorphs, on the social side. We also have the Polymorph Club in the discord. 
+
+If you're in the Universe Discord, you want to connect your wallet through Collab Land. If you have a V1 or V2 Polymorph, you will have access to the Polymorph Holders channel. If you own a Clown Charles, send Transmental or me a DM, and we will add you to _the super-secret Clown Charles Twitter group chat._
 
 **Zach:** I wanted to ask if anyone has any ideas on how you want to get involved in Polymorphic Therapy? 
 
-I want to do some discord Polymorph competition at some point to get people's Polymorphs in line for the next Polymorphic Therapy episodes. I have some personal ideas, but it would be great to hear from the community how you guys want to compete for the opportunity to get featured on Polymorphic Therapy.
+I want to do some Polymorph competition on Discord at some point— to get people's Polymorphs in line for the next Polymorphic Therapy episodes. I have some personal ideas, but it would be great to hear from the community how you guys want to compete for the opportunity to get featured on Polymorphic Therapy.
 
 **Ryan:** If you're interested in that, start thinking about who your Polymorph is and why they are the way they are. 😏
 
@@ -56,9 +60,9 @@ I want to do some discord Polymorph competition at some point to get people's Po
 
 > [Newest Episode of Polymorphic Therapy](https://youtu.be/cCs-P281IJU)
 
-## Polymorphic Funds Proposal 🗳 [[00:00]]()
+## Polymorphic Funds Proposal 🗳 [[07:27]](https://youtu.be/cJGe2w4KRJo?t=447)
 
-**Tyler:** We have a multi SIG we used to fund runway and development. Everybody on this call isn't paid directly from the DAO. A multi SIG pays them. Most of that capital in that multi SIG has come from external groups and funds that have reached out. When we initially did the DAO, similar to what we did with Barnbridge. We earmarked a certain amount where we manage and go through budgets every month and figure out who needs to get paid what, so work on that project can continue. We had meaningful padding when we were doing work for the Polymorphs. It had been said in the discord before that we had never touched the Polymorph money; that was true from a DAO perspective. That wasn't people on this call. It was the community that noticed buckets of funds hadn't been touched.
+**Tyler:** We have a multi-SIG we used to fund runway and development. Everybody on this call isn't paid directly from the DAO. A multi-SIG pays them. Most of that capital in that multi-SIG has come from external groups and funds that have reached out. When we initially did the DAO, similar to what we did with Barnbridge. We earmarked a certain amount where we manage and go through budgets every month and figure out who needs to get paid what, so work on that project can continue. We had meaningful padding when we were doing work for the Polymorphs. It had been said in the discord before that we had never touched the Polymorph money; that was true from a DAO perspective. That wasn't people on this call. It was the community that noticed buckets of funds hadn't been touched.
 
 As ETH has gone down in price, the number of funds that from the US dollar amount went down. We still spent meaningful amounts of money working on the Polymorphs, and a lot of that is starting to come out; the burn to mint cost capital from a smart contract perspective and the battle game has been audited. There's front-end, back-end development that goes into that. A bunch of art went into it, from the faces to the deviants to the 3D modelling of the Polymorphs. Naturally, many of the multi SIG's capital came from people highly interested in the marketplace. Since we had been using the multi SIG to fund the Polymorph development at this point, we decided that we didn't want to risk further degradation in the crypto market since that treasury was denominated in ETH. We asked the community to provide that to the multi SIG so everybody on the project can continue to work. We don't want to pay people directly in ETH; people have bills to pay and kids and families.
 
@@ -68,9 +72,11 @@ It will be managed. Nobody takes a crazy salary at Universe. We're trying to ens
 
 I'm trying to be more transparent because people said they wanted more information. So that's what I'm giving right now. 🫡
 
-**Mark:** I think we only have one more thing on the agenda. We're having a party on Sunday night. I can let Zach jump more into that and give more details. Zach, I would provide a complete overview. I know you've gone over some of the details, but because it's this week, lay it all out for everyone, so they have all the info in one place.
+**Mark:** I think we only have one more thing on the agenda. We're having a party on Sunday night.
 
-## NFT-NYC Party 🎪 — Monstercat & Universe.xyz Present: UNIVERSAL SPACE STATION [[00:00]]()
+I can let Zach jump more into that and give more details. Zach, I would provide a complete overview. I know you've gone over some of the details, but because it's this week, lay it all out for everyone, so they have all the info in one place.
+
+## NFT-NYC Party 🎪 — Monstercat & Universe.xyz Present: UNIVERSAL SPACE STATION [[14:44]](https://youtu.be/cJGe2w4KRJo?t=884)
 
 > [Announcement](https://twitter.com/Monstercat/status/1533901340501368832)
 
